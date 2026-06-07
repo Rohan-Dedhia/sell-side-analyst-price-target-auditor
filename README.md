@@ -11,6 +11,13 @@ This project investigates a simple but important question:
 Using historical IBES analyst forecasts and realized market outcomes, every forecast was graded on calibration, directional accuracy, and magnitude of error to build one of the largest publicly documented audits of analyst forecasting performance.
 
 ---
+### Live Dashboard
+
+[![Live Dashboard](https://img.shields.io/badge/Live-Dashboard-success)](https://sell-side-analyst-price-target-auditor-8w5mxdkfrxeakcecrw9vvh.streamlit.app/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/Rohan-Dedhia/sell-side-analyst-price-target-auditor)
+
+---
 
 ## Executive Summary
 
