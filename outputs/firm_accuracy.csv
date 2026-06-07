@@ -1,0 +1,24 @@
+firm_name,Targets,Bias(pp),MAE(pp),Dir.Acc(%),Actual Ret(%),Implied Up(%)
+Lehman Brothers,7921,88.6,96.8,59.0,7.6,96.3
+Sandler O'Neill,5778,56.4,62.9,67.2,12.0,68.4
+Bernstein Research,12645,45.3,59.2,66.9,14.8,60.2
+Keefe Bruyette & Woods,9113,41.6,53.5,65.3,13.9,55.6
+Raymond James,12881,39.6,55.3,66.5,17.0,56.7
+Lazard Capital Markets,1413,37.8,57.7,71.2,21.6,59.4
+Boutique/Other,389402,34.6,56.8,64.3,17.3,51.9
+JP Morgan,24676,34.6,52.9,67.4,17.4,52.0
+Macquarie Securities,9619,34.6,52.2,66.4,15.1,49.7
+Morgan Stanley,34918,33.5,55.2,63.0,15.8,49.3
+RBC Capital Markets,27060,30.9,51.9,66.6,18.5,49.4
+Merrill Lynch / BofA,42566,30.2,53.0,66.9,19.5,49.7
+Nomura Securities,3877,29.9,46.9,68.4,16.9,46.8
+Goldman Sachs,44537,28.3,51.1,63.5,16.1,44.4
+Stifel Nicolaus,14744,26.9,50.3,64.9,18.5,45.4
+Jefferies,26811,26.6,51.7,64.7,18.2,44.8
+Susquehanna Financial,8986,23.6,50.5,62.1,18.1,41.7
+Needham & Company,3062,22.7,53.0,64.2,22.1,44.8
+Piper Sandler,16648,22.4,49.4,63.0,18.3,40.7
+D.A. Davidson,4743,21.8,50.1,64.4,20.7,42.5
+Evercore ISI,17536,19.5,39.8,64.1,15.4,35.0
+Canaccord Genuity,5733,19.4,49.6,61.4,19.1,38.5
+Wolfe Research,9662,17.6,39.2,61.2,14.4,32.0

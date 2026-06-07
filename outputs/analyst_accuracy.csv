@@ -1,0 +1,3104 @@
+ALYSNAM,firm_name,Targets,Bias(pp),MAE(pp),Dir.Acc(%)
+AARON              E,RBC Capital Markets,242,38.7,51.5,73.6
+ABBOTT             J,Boutique/Other,88,58.1,93.0,35.2
+ABERMAN            M,Boutique/Other,76,34.4,42.8,56.6
+ABERNETHY          B,Boutique/Other,145,1.6,31.0,70.3
+ABOUHOSSEIN        K,JP Morgan,77,30.6,42.2,61.0
+ABRAHAMS           B,Jefferies,66,21.2,42.3,57.6
+ABRAHAMS           B,RBC Capital Markets,399,17.7,31.0,56.4
+ABRAMOWITZ         P,Jefferies,116,24.3,41.2,52.6
+ABRAMS             T,Morgan Stanley,138,95.5,102.9,67.4
+ABRAMSKY           M,RBC Capital Markets,59,26.9,46.4,71.2
+ACKERMAN           K,Boutique/Other,65,-24.2,42.5,84.6
+ACREE              C,Boutique/Other,271,21.9,50.8,70.1
+ACREE              C,Stifel Nicolaus,81,83.6,86.3,53.1
+ADER               J,Boutique/Other,60,85.9,97.1,55.0
+ADKINS             J,Raymond James,166,49.8,59.6,45.2
+ADKINS/GERRY,Raymond James,91,65.3,67.7,67.0
+ADKINS/ROLLYSON,Raymond James,152,74.7,77.4,48.0
+ADLER              M,Boutique/Other,136,16.5,29.9,75.0
+ADLER              M,Lehman Brothers,50,58.4,60.8,54.0
+ADORNATO           P,Boutique/Other,115,68.6,69.4,74.8
+AFTAHI             D,Boutique/Other,144,-56.0,81.5,45.8
+AFZAL              T,Boutique/Other,106,29.9,39.9,50.0
+AGARWAL            A,Boutique/Other,79,19.4,32.3,38.0
+AGGARWAL           S,Boutique/Other,68,57.7,77.2,69.1
+AGHA               A,Boutique/Other,1556,41.1,43.4,79.1
+AGNEW              C,Boutique/Other,93,5.4,25.1,71.0
+AGUIAR             M,Goldman Sachs,116,185.7,185.7,25.9
+AHLERSMEYER        J,Boutique/Other,100,-11.6,33.4,82.0
+AHMAD              F,Boutique/Other,65,-1.9,38.4,75.4
+AHMAD              T,Merrill Lynch / BofA,175,25.6,37.7,54.3
+AHMED              H,Boutique/Other,252,40.4,68.9,63.1
+AHUJA              V,Boutique/Other,51,24.3,131.1,72.5
+AJMERA             S,Boutique/Other,75,-3.5,30.4,80.0
+AKERS              M,Boutique/Other,105,1.9,18.1,76.2
+AKERS              S,Boutique/Other,267,29.0,30.3,60.3
+AKYOL              S,Stifel Nicolaus,296,94.9,101.5,68.6
+ALBINO             G,Boutique/Other,105,52.0,67.2,48.6
+ALBRECHT           T,Boutique/Other,188,34.5,43.7,77.7
+ALDWORTH           L,Goldman Sachs,70,31.5,39.0,65.7
+ALEXANDER          B,Raymond James,197,63.6,78.7,58.9
+ALEXANDER          L,Jefferies,957,57.0,73.1,69.9
+ALEXANDER          N,Keefe Bruyette & Woods,182,30.5,45.9,74.7
+ALEXOPOULOS        S,JP Morgan,558,37.5,50.2,62.9
+ALLAN              B,Boutique/Other,80,28.3,47.7,57.5
+ALLEN              B,Boutique/Other,50,6.4,42.4,46.0
+ALLEN              C,Boutique/Other,205,15.3,38.8,62.4
+ALLEN              C,Evercore ISI,104,27.2,34.1,84.6
+ALLEN              T,Morgan Stanley,651,2.3,37.3,58.4
+ALLIGER            J,Boutique/Other,96,42.1,44.6,83.3
+ALLIGER            J,Goldman Sachs,481,10.9,34.6,60.1
+ALLMAN             J,JP Morgan,286,71.2,78.8,55.2
+ALONSO             T,Macquarie Securities,111,38.8,43.1,82.9
+ALTMAN             D,Boutique/Other,70,15.5,51.3,82.9
+ALTOBELLO          J,Boutique/Other,71,17.2,62.2,93.0
+ALTOBELLO          J,Raymond James,93,12.0,41.4,71.0
+ALWY               F,Boutique/Other,205,10.8,28.2,69.8
+AMATURO            J,Boutique/Other,195,33.5,56.3,55.9
+AMIN               B,Jefferies,98,4.2,31.1,56.1
+AMIR               D,Lazard Capital Markets,52,19.6,49.0,57.7
+AMLADI             N,Boutique/Other,77,-8.7,25.4,81.8
+AMORIM             B,Goldman Sachs,133,100.7,117.0,71.4
+AMSELLEM           D,Piper Sandler,133,11.9,34.5,51.9
+ANDERS             D,Merrill Lynch / BofA,64,141.8,141.8,67.2
+ANDERSON           E,Evercore ISI,285,4.5,34.1,58.6
+ANDERSON           J,Boutique/Other,303,25.6,66.7,42.9
+ANDERSON           J,JP Morgan,96,60.4,60.7,65.6
+ANDERSON           R,Boutique/Other,696,46.0,52.3,69.7
+ANDERSON           R,D.A. Davidson,65,41.0,43.7,66.2
+ANDERSON           S,Boutique/Other,678,15.9,48.8,62.8
+ANDERSON           T,Bernstein Research,214,62.5,64.2,75.2
+ANDERSON           T,Boutique/Other,78,153.7,153.7,50.0
+ANDERSON           T,Wolfe Research,147,11.7,26.3,72.1
+ANDERSON           V,Stifel Nicolaus,243,22.6,51.7,55.1
+ANDREEVA           A,Boutique/Other,107,12.4,36.0,57.0
+ANDRESS            B,Boutique/Other,86,14.8,42.5,67.4
+ANDREWS            V,Morgan Stanley,417,30.2,48.3,68.1
+ANGELE             R,JP Morgan,202,131.5,141.0,58.4
+ANGELICO           B,Boutique/Other,77,56.1,74.4,37.7
+ANMUTH             D,Boutique/Other,60,21.9,77.2,75.0
+ANMUTH             D,JP Morgan,381,3.8,47.4,71.1
+ANTALFFY           D,Boutique/Other,297,5.0,36.7,79.1
+ANTHONY            V,Boutique/Other,174,4.1,43.1,77.6
+APPELBAUM          L,Goldman Sachs,114,115.2,115.2,25.4
+APPERT             P,Piper Sandler,161,5.3,27.0,85.1
+ARCARO             D,Morgan Stanley,428,8.8,23.0,55.8
+"ARCHAMBAULT, CFA   P",Goldman Sachs,58,90.9,90.9,44.8
+ARFAEI             A,Boutique/Other,192,41.5,45.4,78.6
+ARFSTROM           J,RBC Capital Markets,712,29.4,49.0,57.7
+ARIAS              D,Stifel Nicolaus,103,-4.3,30.1,57.3
+ARIF               A,Boutique/Other,55,84.6,156.8,81.8
+ARIF               A,Stifel Nicolaus,55,53.6,61.1,54.5
+ARITA              D,Boutique/Other,119,92.2,93.7,51.3
+ARMENT             P,Boutique/Other,81,52.8,56.0,71.6
+ARMSTRONG          J,Boutique/Other,166,29.0,45.9,62.7
+ARMSTRONG          N,Boutique/Other,168,77.9,81.9,63.1
+ARMSTRONG          W,Boutique/Other,64,40.2,46.5,59.4
+"ARMSTRONG, CFA     J",Goldman Sachs,102,106.6,110.3,82.4
+ARNOLD             C,Boutique/Other,207,111.0,112.1,67.1
+ARNOLD             C,Morgan Stanley,58,27.2,41.0,58.6
+ARNOLD             J,Boutique/Other,874,51.9,52.5,76.3
+ARNOLD             J,Merrill Lynch / BofA,99,147.0,147.0,60.6
+ARNOLD             J,RBC Capital Markets,119,65.9,80.8,56.3
+AROUNIAN           Y,Boutique/Other,207,-2.3,73.9,44.9
+ARTHUR             D,Boutique/Other,65,31.9,75.1,61.5
+ARTHUR             D,Evercore ISI,57,33.3,48.5,82.5
+ARTHUR             S,RBC Capital Markets,70,51.6,60.5,62.9
+ARYA               V,Merrill Lynch / BofA,920,-5.0,41.6,74.2
+ASCHOFF            J,Boutique/Other,67,-23.2,46.5,73.1
+ASLAM              F,Boutique/Other,127,46.1,48.7,71.7
+ASSUMPCAO          M,Boutique/Other,50,139.0,139.0,40.0
+ASTRACHAN          M,Stifel Nicolaus,471,7.3,25.0,72.4
+ATKIN              J,RBC Capital Markets,488,50.1,61.8,77.0
+ATKINS             J,Boutique/Other,483,26.6,43.4,65.4
+ATKINSON           S,Boutique/Other,227,72.3,98.9,68.3
+ATORINO            E,Boutique/Other,62,19.7,40.6,72.6
+AUDI               C,Boutique/Other,105,209.8,212.1,53.3
+AUERBACH           G,Boutique/Other,90,91.0,91.0,74.4
+AUGUSTINE          M,Boutique/Other,56,21.7,36.5,67.9
+AUSTER             M,Boutique/Other,65,5.8,42.4,66.2
+AUTY               S,JP Morgan,353,-8.8,34.3,73.4
+AYDIN              J,Boutique/Other,93,62.5,75.2,61.3
+BABER              G,Piper Sandler,165,34.4,39.8,80.6
+BACHMAN            K,Boutique/Other,1117,33.8,59.5,69.5
+BACHMANN           J,Boutique/Other,183,48.2,59.0,46.4
+BACKUS             L,Boutique/Other,52,28.3,38.0,78.8
+BADISHKANIAN       G,Wolfe Research,376,9.7,32.3,60.6
+BADRI              S,Boutique/Other,206,14.1,34.3,52.4
+BAGGIO             A,JP Morgan,93,27.9,49.6,52.7
+BAILEY             D,Goldman Sachs,88,75.0,113.1,69.3
+BAILEY             J,Boutique/Other,188,59.7,64.9,44.1
+BAILEY             J,Jefferies,87,46.5,54.7,51.7
+BAIN               D,Boutique/Other,174,38.2,64.6,55.7
+BAJIKAR            S,Jefferies,65,18.9,39.6,64.6
+BAKER              J,JP Morgan,357,26.8,48.3,61.9
+BAKER              M,Boutique/Other,727,15.9,46.2,67.8
+BAKER              M,D.A. Davidson,225,17.2,42.6,67.6
+BAKER              M,Raymond James,191,28.1,44.3,74.9
+BAKER              P,Boutique/Other,60,19.3,37.2,56.7
+BALARAMAN          S,Boutique/Other,50,74.2,91.3,54.0
+BALICKA            J,Keefe Bruyette & Woods,66,31.4,41.4,72.7
+BALIOTTI           J,Boutique/Other,201,65.6,72.7,70.1
+BALKIND            J,Boutique/Other,57,96.5,96.5,57.9
+BALL               B,Boutique/Other,54,87.6,89.6,74.1
+BALSKY             H,Merrill Lynch / BofA,149,-2.5,30.9,68.5
+BALTER             G,Boutique/Other,337,40.0,59.4,69.1
+BANIA              K,Boutique/Other,265,1.8,29.4,65.7
+BANK               D,RBC Capital Markets,119,32.6,43.2,76.5
+BANNISTER          B,Stifel Nicolaus,69,71.9,77.9,65.2
+BANSAL             M,Boutique/Other,95,3.9,26.2,75.8
+BARCELO            D,Boutique/Other,64,152.8,152.8,76.6
+BARDEN             D,Boutique/Other,52,178.8,183.4,76.9
+BARDEN             D,Merrill Lynch / BofA,193,51.9,59.8,75.1
+BARETTO            D,Canaccord Genuity,125,12.6,53.2,39.2
+BARGER             S,Boutique/Other,217,27.1,39.9,61.3
+"BARI, CFA          T",Goldman Sachs,132,11.5,31.3,59.1
+BARISH             A,Boutique/Other,157,78.0,88.0,64.3
+BARISH             A,Jefferies,382,0.6,37.6,63.6
+BARKER             K,Boutique/Other,102,59.4,60.5,51.0
+BARKER             K,Piper Sandler,432,35.7,50.1,56.0
+BARNES             G,Boutique/Other,284,45.1,55.4,49.3
+BARNES             J,Boutique/Other,277,55.9,62.2,74.0
+BARNES             J,RBC Capital Markets,303,24.5,36.1,72.6
+BARNICLE           B,Boutique/Other,160,25.2,47.4,67.5
+BARNIDGE           J,Piper Sandler,217,2.7,26.3,76.5
+BARNIDGE           J,Sandler O'Neill,216,37.4,41.0,61.1
+BARRY              R,Susquehanna Financial,283,25.3,34.4,65.0
+BARRY              S,Boutique/Other,141,45.4,72.3,66.0
+BARTLETT           J,Boutique/Other,330,13.5,37.2,69.7
+BARUAH             A,Boutique/Other,275,45.8,61.7,65.5
+BASHAM             S,Boutique/Other,557,-0.2,55.5,68.9
+BATORY             T,Boutique/Other,83,13.2,32.6,65.1
+BAUDENDISTEL       M,Stifel Nicolaus,102,21.0,27.7,58.8
+BAUGH              J,Stifel Nicolaus,216,-6.7,49.0,68.5
+BAULT              T,Bernstein Research,327,87.3,88.4,62.4
+BAUMGARTEN         A,Boutique/Other,58,-17.5,35.4,81.0
+BAUMGARTEN         A,Macquarie Securities,81,25.2,37.3,65.4
+BAUMGARTEN         S,Boutique/Other,116,58.4,67.8,70.7
+BAUMGARTNER        J,Boutique/Other,154,25.8,34.3,53.2
+BAXTER             S,Boutique/Other,124,6.9,30.8,53.2
+BAXTER             S,Wolfe Research,53,-12.1,19.5,88.7
+BAYKO              L,Boutique/Other,97,9.3,46.3,64.9
+BEAGO              B,Boutique/Other,62,18.4,45.1,79.0
+BEALE              A,Boutique/Other,103,57.4,70.8,60.2
+BEAN               C,Boutique/Other,189,38.1,52.7,69.8
+BEARD              D,Boutique/Other,122,45.0,51.6,43.4
+BEAUMONT           E,Boutique/Other,388,27.7,29.9,66.0
+BECK               J,Boutique/Other,205,-7.0,35.2,76.6
+BECKEL             D,Bernstein Research,121,25.0,34.9,47.9
+BECKER             D,Boutique/Other,146,52.5,64.2,46.6
+BECKER             D,Merrill Lynch / BofA,233,58.4,62.3,51.5
+BECKER             H,Boutique/Other,141,32.7,53.3,74.5
+BEDELL             B,Boutique/Other,2989,22.0,36.8,68.7
+BEDELL             B,Merrill Lynch / BofA,73,73.6,75.4,54.8
+BEDER              E,Boutique/Other,114,21.6,47.8,61.4
+BEDFORD            J,Raymond James,384,17.0,36.7,69.8
+BEDNAR             J,Piper Sandler,81,27.9,32.0,43.2
+BEGLEITER          D,Boutique/Other,1079,54.3,66.8,71.0
+BEHERA             S,Boutique/Other,97,-7.2,37.7,71.1
+BELIOV             N,Merrill Lynch / BofA,53,-63.0,70.6,84.9
+BELL               R,Boutique/Other,55,16.4,32.3,50.9
+"BELLINI, CFA       H",Goldman Sachs,452,-25.7,36.5,67.9
+BENACCI            N,Boutique/Other,50,111.6,111.6,68.0
+BENEDICT           P,Boutique/Other,90,65.8,70.9,62.2
+BENGUIGUI          T,Boutique/Other,234,-3.9,23.5,72.2
+BENJAMIN           A,Goldman Sachs,118,-8.8,22.6,68.6
+BENJAMIN           A,Jefferies,83,6.3,59.4,56.6
+BENJAMIN           S,Boutique/Other,68,27.8,92.6,76.5
+BENNETT            O,Jefferies,87,46.5,50.4,63.2
+BERENBAUM          D,Boutique/Other,104,25.2,54.2,56.7
+BERG               E,Boutique/Other,96,76.3,83.2,74.0
+BERG               E,Lehman Brothers,124,83.0,83.3,63.7
+BERG               E,RBC Capital Markets,233,61.2,62.5,79.0
+BERGER             C,Boutique/Other,195,35.8,57.9,60.0
+BERGSTROM          D,RBC Capital Markets,94,-17.8,31.7,64.9
+BERISTAIN          J,Boutique/Other,347,30.9,72.6,48.1
+BERLIN             L,Boutique/Other,112,29.3,39.4,72.3
+BERNARDEZ          O,Boutique/Other,52,4.5,24.3,71.2
+BERNSTEIN          D,Boutique/Other,55,26.9,36.5,47.3
+BERNSTEIN          J,Boutique/Other,1011,9.0,37.2,67.3
+BERNSTEIN          J,Lehman Brothers,119,116.1,117.1,49.6
+BERSEY             S,Boutique/Other,174,-5.2,39.8,61.5
+BETTS              M,JP Morgan,84,59.3,61.0,44.0
+BETTS              M,Jefferies,70,13.3,32.8,68.6
+BEUCHAW            S,Morgan Stanley,216,-12.4,32.3,60.6
+BEUCHAW            S,Wolfe Research,163,-15.8,33.9,62.0
+BEYNON             C,Macquarie Securities,641,21.1,48.4,58.5
+BHAGAVATH          V,Boutique/Other,107,-8.0,35.7,58.9
+BHALLA             N,Boutique/Other,63,27.2,34.7,77.8
+BHATIA             A,Boutique/Other,99,21.0,47.2,69.7
+BHATIA             M,Merrill Lynch / BofA,162,3.7,34.7,63.6
+BHATTACHARYA       R,Merrill Lynch / BofA,179,11.7,32.6,58.7
+BHATTI             I,Boutique/Other,55,-5.8,40.8,52.7
+BHULLAR            J,JP Morgan,431,37.8,44.1,72.9
+BIEGELSEN          L,Boutique/Other,395,19.0,29.7,67.8
+BIENVENU           B,Boutique/Other,246,13.9,32.8,65.4
+BILKOSKI           A,Boutique/Other,112,0.0,99.5,52.7
+BILLINGSLEY        K,Boutique/Other,64,29.9,32.0,79.7
+BINDER             D,Boutique/Other,121,105.2,105.2,55.4
+BINDER             D,Jefferies,413,33.9,45.1,73.1
+BINETTI            M,Boutique/Other,313,12.1,43.0,58.8
+BINGHAM            D,Goldman Sachs,81,-28.2,55.1,39.5
+BINNER             R,Boutique/Other,334,49.5,57.7,68.3
+BIRCHENOUGH        J,Boutique/Other,168,4.1,43.9,67.9
+BISBEE             G,Boutique/Other,130,37.1,42.9,86.2
+BISBEE             G,Lehman Brothers,55,105.0,105.0,21.8
+BISBEE             G,Merrill Lynch / BofA,173,-0.9,27.0,74.0
+BISBEE             G,RBC Capital Markets,171,13.1,27.0,78.9
+BISHOP             D,Boutique/Other,73,28.8,33.0,60.3
+BITTNER            B,Boutique/Other,264,25.2,38.3,71.2
+BIVENS             T,JP Morgan,71,65.0,69.8,70.4
+BLACK              B,Boutique/Other,71,-4.5,48.8,66.2
+BLACK              J,Boutique/Other,129,44.9,63.7,65.1
+BLACK              J,Lehman Brothers,114,39.2,46.8,55.3
+BLAIR              B,Boutique/Other,91,8.2,27.1,65.9
+BLAIR              J,Boutique/Other,75,38.0,54.9,73.3
+BLAIR              M,Boutique/Other,516,17.5,46.7,59.3
+BLOCK              J,Stifel Nicolaus,151,1.6,32.4,57.6
+BLOSSMAN           B,Boutique/Other,74,97.6,102.9,50.0
+"BLOSTEIN, CFA      A",Goldman Sachs,1945,15.6,35.1,67.1
+BLOUNT             H,Lehman Brothers,127,83.2,109.4,65.4
+BLUM               M,Boutique/Other,229,45.2,72.1,68.6
+BODDY              T,Goldman Sachs,83,133.5,133.5,31.3
+BOESCHEN           F,Raymond James,51,10.6,21.7,68.6
+BOLAN              G,Boutique/Other,68,5.2,29.9,60.3
+BOLLIN             B,Boutique/Other,264,-11.9,33.3,72.0
+BOLTON             N,Needham & Company,282,4.7,41.1,70.2
+BOLU               C,Boutique/Other,102,15.2,31.9,79.4
+BONDADA            R,RBC Capital Markets,56,40.1,56.0,85.7
+BONELLO            B,Boutique/Other,51,9.6,33.2,80.4
+BOONE              A,Boutique/Other,65,12.6,61.2,64.6
+BOORADY            C,Boutique/Other,73,2.5,24.7,87.7
+BORG               A,Stifel Nicolaus,75,6.6,29.9,65.3
+BORGES             G,Goldman Sachs,160,-12.7,34.3,66.9
+BORIS              J,Boutique/Other,100,86.9,87.3,53.0
+BORKHATARIA        B,RBC Capital Markets,76,42.1,50.7,69.7
+BORODITSKY         S,Jefferies,85,-13.3,27.0,76.5
+"BORSCH, CFA        M",Boutique/Other,203,-1.0,28.0,67.0
+"BORSCH, CFA        M",Goldman Sachs,386,2.6,29.4,67.6
+BORST              D,Goldman Sachs,302,25.6,31.7,65.6
+BORUCHOW           I,Boutique/Other,385,-4.2,37.1,61.8
+BOSS               M,JP Morgan,593,13.4,41.3,58.9
+BOTTIGLIERI        C,Boutique/Other,186,3.0,31.3,65.1
+BOTTIGLIERI        C,Wolfe Research,141,-11.4,45.3,58.2
+BOULEY             M,Boutique/Other,341,-13.9,37.3,73.6
+BOURGEOIS          R,Bernstein Research,174,37.9,49.0,71.3
+BOUT               J,Boutique/Other,169,30.0,49.4,56.2
+BOVE               R,Boutique/Other,1315,52.9,66.8,61.2
+BOWEN              M,Boutique/Other,99,111.5,114.8,78.8
+BOX                J,Boutique/Other,59,31.0,43.9,89.8
+BOYD               D,Boutique/Other,227,38.9,59.3,33.9
+BOYD               D,Goldman Sachs,55,71.4,73.5,38.2
+BRACELIN           B,Boutique/Other,228,27.9,53.4,61.4
+BRACELIN           B,Piper Sandler,191,-8.5,45.6,66.5
+BRACKEN            F,Jefferies,68,12.2,43.7,80.9
+BRACKETT           B,Bernstein Research,359,46.8,62.3,49.6
+BRADSHAW           J,D.A. Davidson,111,101.6,104.4,69.4
+BRADY              C,Boutique/Other,299,57.8,81.9,63.9
+BRANCA             M,Boutique/Other,91,83.2,91.1,84.6
+BRAND              A,Boutique/Other,146,24.1,39.4,75.3
+BRANDT             J,Boutique/Other,179,52.4,72.9,53.1
+BRASHEAR           J,Bernstein Research,140,16.1,57.6,60.0
+BREESE             M,Boutique/Other,61,24.5,40.3,55.7
+BREMER             W,Boutique/Other,56,21.7,41.9,66.1
+BRENDLER           C,Boutique/Other,63,18.5,28.1,74.6
+BRENDLER           C,Stifel Nicolaus,134,18.3,31.8,83.6
+BREZA              R,Boutique/Other,79,-1.6,23.3,72.2
+BREZA              R,RBC Capital Markets,157,-3.0,35.4,72.0
+BRIDGES            J,JP Morgan,363,52.9,64.8,45.7
+BRINKMAN           R,JP Morgan,386,35.7,63.1,58.0
+BRODA              T,RBC Capital Markets,60,63.5,71.6,51.7
+BROMBERG           D,Jefferies,157,104.2,104.2,73.2
+BROMEHEAD          Y,Boutique/Other,62,8.4,51.5,41.9
+BROOKLIER          M,Boutique/Other,159,26.8,37.6,61.6
+BROOKLIER          M,Piper Sandler,81,44.5,53.8,66.7
+BROOKS             A,Boutique/Other,125,62.1,67.2,74.4
+BROOKS             M,Macquarie Securities,72,19.6,31.7,45.8
+BROOKS             T,Boutique/Other,67,34.4,48.8,52.2
+BROUGHTON          D,Boutique/Other,235,48.9,56.5,73.2
+BROWN              C,Morgan Stanley,133,92.5,97.0,54.9
+BROWN              M,Boutique/Other,333,28.0,51.3,51.1
+BROWN              M,Keefe Bruyette & Woods,232,6.4,32.5,70.3
+BROWN              P,Raymond James,449,22.0,40.2,76.4
+BROWNE             N,Macquarie Securities,62,42.2,57.0,75.8
+BRUCE              K,Merrill Lynch / BofA,226,43.2,70.7,75.7
+BRUYNESTEYN        M,Boutique/Other,65,25.5,60.3,61.5
+BRYSON             M,Boutique/Other,121,-14.3,51.8,63.6
+BUCHANAN           R,Boutique/Other,56,99.3,109.6,39.3
+BUCHER             J,Boutique/Other,86,60.9,72.0,81.4
+BUCK               D,Boutique/Other,94,60.2,65.3,59.6
+BUCKLEY            J,Boutique/Other,110,93.6,100.8,72.7
+BUCKLEY            J,Merrill Lynch / BofA,334,24.0,43.4,78.7
+BUDISH             B,Boutique/Other,110,-17.1,28.7,87.3
+BUGATCH            B,Raymond James,149,81.6,84.5,73.2
+BUGATCH/HENDERSON,Raymond James,55,93.8,95.4,41.8
+BURCHELL           P,Boutique/Other,72,40.1,51.5,50.0
+BURKE              D,Boutique/Other,157,28.6,79.5,43.3
+BURKE              L,Boutique/Other,65,32.3,50.9,61.5
+BURKS              D,Boutique/Other,133,127.3,127.3,84.2
+BURLESON           B,Canaccord Genuity,154,28.7,46.7,60.4
+BURNS              A,D.A. Davidson,257,19.4,31.8,66.9
+BURROWS            C,Goldman Sachs,261,43.8,64.6,47.1
+BURTON             M,Boutique/Other,162,31.0,49.8,66.7
+BUSCAGLIA          A,Boutique/Other,117,5.1,24.8,71.8
+BUSS               C,Boutique/Other,333,10.7,35.8,60.7
+BUTLER             C,Boutique/Other,218,40.9,59.2,81.7
+BUTLER             C,Lehman Brothers,150,125.7,134.7,46.7
+BUTLER             S,Boutique/Other,114,61.7,76.9,59.6
+BUTLER             S,Canaccord Genuity,309,42.0,56.9,50.2
+BUTLER             T,Boutique/Other,52,33.2,40.7,48.1
+BUTTIGIEG          K,Boutique/Other,53,10.3,33.4,73.6
+BYRD               S,Morgan Stanley,1969,36.8,40.0,72.6
+BYRNE              J,Boutique/Other,135,89.5,93.4,58.5
+BYRNE              L,Jefferies,150,23.8,28.6,53.3
+BYRNE              L,Morgan Stanley,70,49.8,55.2,70.0
+BYRNE              L,Nomura Securities,55,33.3,37.8,52.7
+BYRNE              S,Merrill Lynch / BofA,769,18.0,53.6,65.8
+CABRAL             M,Boutique/Other,60,21.0,56.8,63.3
+CABRERA            O,Goldman Sachs,69,71.2,102.5,40.6
+CAHALL             S,Boutique/Other,159,14.0,37.7,50.3
+CAHALL             S,RBC Capital Markets,54,15.9,22.7,68.5
+CAIADO DE SOUSA    J,Boutique/Other,69,23.8,49.3,43.5
+CAINTIC            V,Boutique/Other,142,-0.6,40.9,62.7
+CAKMAK             J,Boutique/Other,52,-3.6,53.3,82.7
+CALIO              E,Morgan Stanley,351,68.9,71.6,57.0
+CAMPANELLA         N,Boutique/Other,243,10.4,21.0,59.3
+CAMPBELL           A,Boutique/Other,80,52.8,53.6,68.8
+CAMPBELL           D,Boutique/Other,156,65.1,81.2,71.8
+CAMPBELL           J,Boutique/Other,415,7.2,41.2,71.3
+CAMPBELL           J,Lehman Brothers,64,82.2,82.2,70.3
+CAMPBELL JR.       D,Boutique/Other,83,40.2,54.9,68.7
+CANNON             F,Keefe Bruyette & Woods,97,54.1,66.2,64.9
+CANTWELL           J,Boutique/Other,201,7.5,29.4,68.7
+CAPPELLI           G,Boutique/Other,73,83.7,84.3,65.8
+CAPRON             J,Boutique/Other,52,27.1,33.6,76.9
+CARBONE            G,Boutique/Other,205,29.5,45.9,42.4
+CARCACHE           B,Boutique/Other,159,13.7,44.1,61.0
+CARCACHE           B,Nomura Securities,288,41.6,50.5,69.1
+CARCACHE           B,Wolfe Research,239,20.4,39.6,47.7
+CAREY              C,Boutique/Other,274,15.4,22.2,60.9
+CARLSON            R,Boutique/Other,84,36.8,42.6,53.6
+CARPENTER          K,Canaccord Genuity,56,58.0,58.3,44.6
+CARPENTER          T,Boutique/Other,61,98.1,98.8,45.9
+CARR               A,Needham & Company,56,4.4,44.9,73.2
+CARREKER           J,Boutique/Other,139,8.5,39.8,84.9
+CARRIER            M,Boutique/Other,186,69.8,71.8,68.3
+CARRIER            M,Merrill Lynch / BofA,1106,20.7,44.1,73.8
+CARRIL             C,RBC Capital Markets,277,-2.7,34.0,66.8
+CARROLL            M,RBC Capital Markets,171,34.7,41.6,65.5
+CARROLL            T,Stifel Nicolaus,73,9.9,24.4,83.6
+CARSON             D,Susquehanna Financial,472,53.4,71.7,66.9
+CARVER             M,Boutique/Other,107,57.5,58.5,66.4
+CASEY              A,Boutique/Other,294,32.3,53.0,72.4
+CASO               C,Boutique/Other,129,28.6,55.2,67.4
+CASO               C,Raymond James,155,-5.5,40.3,72.9
+CASO               C,Susquehanna Financial,145,27.5,38.2,68.3
+CASO               E,Boutique/Other,92,4.4,29.6,70.7
+CASSEL             L,Morgan Stanley,56,-10.0,68.6,50.0
+CASSIDY            G,RBC Capital Markets,601,43.7,54.0,64.6
+CASSIDY            K,Boutique/Other,180,27.0,58.0,56.1
+CASSIDY            K,Stifel Nicolaus,274,18.8,51.4,59.9
+CATHERWOOD         T,Boutique/Other,54,59.5,63.7,66.7
+CAZZOL             F,Boutique/Other,74,10.3,24.7,52.7
+CELINO             J,Boutique/Other,54,-8.9,26.5,74.1
+CERANKOSKY         C,Boutique/Other,243,30.7,37.5,80.2
+CERASO             C,Boutique/Other,608,45.1,55.9,78.0
+CHAE               E,Boutique/Other,58,37.8,78.8,37.9
+CHAI               D,Merrill Lynch / BofA,282,22.5,46.3,71.6
+CHAIKEN            B,Boutique/Other,90,32.7,61.6,47.8
+CHAMOUN            F,Boutique/Other,425,14.8,29.7,68.0
+CHAMPINE           L,Boutique/Other,496,2.0,36.0,66.1
+CHAMPINE           L,Canaccord Genuity,99,28.4,49.0,62.6
+CHAMPION           T,Piper Sandler,175,18.2,49.1,52.0
+CHAN               D,Boutique/Other,124,-0.7,43.4,66.1
+CHAN               J,Stifel Nicolaus,212,25.4,45.6,58.0
+CHAN               L,Boutique/Other,470,46.3,58.5,64.3
+CHANCELLOR         W,Macquarie Securities,138,26.4,57.9,34.8
+CHANDA             A,Boutique/Other,148,19.8,42.9,55.4
+CHANDA             A,Lehman Brothers,55,-5.2,39.2,50.9
+CHANDRA            S,Boutique/Other,125,42.7,85.8,44.8
+CHANDRA            S,Jefferies,67,23.2,49.7,52.2
+CHANEY             C,Boutique/Other,67,82.5,82.6,67.2
+CHAO               V,Boutique/Other,375,72.2,72.2,66.1
+CHAPLIN            J,Boutique/Other,87,52.4,60.6,72.4
+CHAPPELL           J,Evercore ISI,427,20.7,38.7,60.7
+CHAPPELL           W,Boutique/Other,302,26.9,35.2,72.2
+CHARTIER           J,Boutique/Other,67,37.4,66.6,43.3
+CHASE              G,Boutique/Other,205,65.5,66.3,77.6
+CHASE              G,Lehman Brothers,111,55.5,57.8,35.1
+CHASEN             A,Goldman Sachs,57,83.9,83.9,59.6
+CHATTERJEE         S,JP Morgan,167,8.5,32.5,65.3
+CHATTOPADHYAY      D,Boutique/Other,65,-6.3,46.3,61.5
+CHEE               E,Boutique/Other,107,37.9,78.8,74.8
+CHEN               B,Boutique/Other,321,7.4,37.3,58.6
+CHEN               C,Needham & Company,59,42.0,53.4,54.2
+CHEN               H,Boutique/Other,310,61.1,74.4,63.5
+CHEN               K,Boutique/Other,219,28.5,42.6,58.0
+CHEN               K,Merrill Lynch / BofA,67,4.1,50.2,73.1
+CHEN               L,Boutique/Other,99,21.6,47.7,66.7
+CHEN               T,Boutique/Other,159,-4.0,39.3,78.0
+CHEN               V,Bernstein Research,64,7.6,33.1,56.2
+CHENG              P,Boutique/Other,671,70.2,88.1,64.2
+CHENG              P,Lehman Brothers,209,131.2,133.1,67.0
+CHERCOVER          S,D.A. Davidson,177,76.7,94.4,68.9
+CHERNIAVSKY        B,Boutique/Other,86,30.3,38.0,72.1
+CHERNY             M,Boutique/Other,91,10.3,27.5,72.5
+CHERNY             M,Merrill Lynch / BofA,190,14.1,30.1,62.1
+CHESNEY            S,Boutique/Other,262,16.0,33.0,63.4
+CHEUNG             W,Boutique/Other,106,-58.1,82.6,40.6
+CHIANG             K,Boutique/Other,109,-1.9,19.0,91.7
+CHIANG             T,Boutique/Other,51,38.5,42.1,49.0
+CHIAVERINI         D,Boutique/Other,673,20.3,46.0,66.4
+CHICK              S,Boutique/Other,156,19.0,49.2,71.8
+CHICKERING         P,Boutique/Other,172,-0.4,31.1,61.0
+CHICO              L,Boutique/Other,109,4.5,25.1,57.8
+CHIDLEY            P,Boutique/Other,228,57.7,71.9,43.4
+CHIEN              W,Boutique/Other,72,26.6,37.6,48.6
+CHIENG             E,Goldman Sachs,135,4.3,38.2,63.7
+CHIMERA            J,Keefe Bruyette & Woods,103,38.9,43.2,68.0
+CHIN               B,Merrill Lynch / BofA,402,41.6,45.1,85.1
+CHIN               G,Boutique/Other,112,11.0,27.9,51.8
+CHIODO             T,Boutique/Other,88,30.3,45.0,33.0
+CHITTENDEN         B,Boutique/Other,74,38.5,41.4,55.4
+CHIU               C,Boutique/Other,197,23.8,44.8,51.3
+CHO                C,Boutique/Other,171,53.6,72.8,56.1
+CHOI               M,Boutique/Other,62,50.5,52.2,54.8
+CHOI               W,Boutique/Other,81,25.7,38.7,59.3
+CHOKSHI            N,Boutique/Other,254,58.0,74.2,68.5
+CHOLNOKY           T,Goldman Sachs,103,103.4,104.3,28.2
+CHONG              T,Jefferies,54,59.7,113.6,35.2
+CHOPRA             D,Evercore ISI,270,17.1,23.1,65.2
+CHOPRA             R,Boutique/Other,159,2.1,38.0,62.3
+CHOUDHARY          U,Goldman Sachs,75,-1.6,39.1,68.0
+CHOW               C,Boutique/Other,144,69.3,84.5,61.8
+CHOW               C,Macquarie Securities,61,51.1,56.5,90.2
+CHOWDHRY           T,Boutique/Other,86,5.5,49.9,64.0
+CHRISTENSEN        R,Boutique/Other,98,74.9,78.5,67.3
+CHRISTIE           D,Boutique/Other,287,29.7,48.8,66.9
+CHUBAK             S,Nomura Securities,289,31.0,39.2,67.8
+CHUBAK             S,Wolfe Research,586,13.7,37.9,61.1
+CHUKUMBA           A,Boutique/Other,385,-43.1,98.0,60.5
+CIARMOLI           M,Boutique/Other,105,-0.7,29.7,76.2
+CICCARELLI         S,Boutique/Other,207,13.8,26.7,63.8
+CICCARELLI         S,RBC Capital Markets,1174,1.9,32.8,76.3
+CIHRA              R,Boutique/Other,173,91.3,101.3,71.1
+CIHRA              R,Evercore ISI,84,82.2,83.2,71.4
+CLARK              D,Goldman Sachs,72,-4.9,27.4,72.2
+CLARK              M,Boutique/Other,62,39.9,48.4,82.3
+CLARK              M,Keefe Bruyette & Woods,77,75.5,80.7,58.4
+CLARK              M,Piper Sandler,207,23.7,39.7,57.5
+CLARK              P,Boutique/Other,56,21.9,30.3,73.2
+CLARKE             R,Bernstein Research,64,-1.3,29.2,64.1
+CLARKE             S,Boutique/Other,53,-45.5,52.1,81.1
+CLINCH             S,Boutique/Other,124,14.4,24.9,57.3
+COALE              M,Boutique/Other,66,231.7,234.9,66.7
+COE                N,Boutique/Other,395,108.4,111.7,69.9
+COE                N,Morgan Stanley,592,35.5,44.8,75.2
+COE                N,Wolfe Research,782,11.1,38.5,66.2
+COELLO             A,Boutique/Other,72,34.2,38.8,54.2
+COFFEY             B,Boutique/Other,109,-2.8,27.9,69.7
+COFFEY             H,Boutique/Other,107,57.5,85.9,61.7
+COFFEY             T,Boutique/Other,154,14.4,38.5,72.1
+COGAN              J,Boutique/Other,90,28.2,44.3,74.4
+COHEN              D,Boutique/Other,101,79.5,88.7,56.4
+COHEN              J,Merrill Lynch / BofA,583,36.4,41.6,71.7
+COLANTUONI         J,Jefferies,193,-2.0,55.0,66.8
+COLEMAN            A,Raymond James,59,71.3,71.3,42.4
+COLEMAN            D,Merrill Lynch / BofA,59,99.7,99.7,52.5
+COLEMAN            M,Boutique/Other,97,53.8,66.0,61.9
+COLLIER            L,Boutique/Other,204,28.8,56.9,66.2
+COLLIER            L,Canaccord Genuity,72,8.7,28.8,66.7
+COLLINS            A,Piper Sandler,145,72.8,73.8,68.3
+COLSON             B,Boutique/Other,83,177.5,178.6,61.4
+COLVILLE           P,Boutique/Other,161,-13.7,42.4,58.4
+COMACK             P,Boutique/Other,64,250.6,250.6,82.8
+CONDER             T,Boutique/Other,185,36.3,56.3,48.6
+CONDRA             P,Boutique/Other,81,-11.6,18.8,90.1
+CONNELLY           M,Boutique/Other,318,72.1,80.3,67.3
+CONNER             P,Boutique/Other,242,75.7,78.1,66.5
+CONNORS            R,Boutique/Other,89,31.7,35.3,67.4
+CONROY             B,Boutique/Other,117,68.6,74.4,52.1
+CONSTANT           M,Lehman Brothers,130,50.5,57.3,90.8
+COOK               J,Boutique/Other,1167,27.7,48.8,65.6
+COOLBRITH          R,Boutique/Other,58,3.8,40.9,55.2
+COOLEY             C,Boutique/Other,288,-6.5,38.5,63.9
+COOPER             B,Boutique/Other,509,33.2,49.1,56.4
+COOPER             G,Boutique/Other,101,33.3,49.3,66.3
+COPELAND           C,Boutique/Other,117,35.9,47.6,88.0
+CORALES            B,Boutique/Other,56,55.0,68.6,42.9
+CORDRAY            R,Boutique/Other,98,68.1,70.5,35.7
+CORDWELL           J,Boutique/Other,357,4.9,48.4,70.3
+CORNELL            R,Boutique/Other,101,73.3,86.2,79.2
+CORNELL            R,Lehman Brothers,125,111.6,126.4,78.4
+CORREA             L,Boutique/Other,105,116.6,121.8,47.6
+CORRIDORE          J,Boutique/Other,50,13.9,40.0,94.0
+COSTA              P,Boutique/Other,167,22.0,39.1,60.5
+COSTER             P,JP Morgan,367,13.4,35.5,60.5
+COUILLARD          B,Jefferies,412,6.9,34.3,65.3
+COUPLAND           T,Boutique/Other,204,14.9,57.3,55.4
+COVELLO            J,Goldman Sachs,200,10.3,29.8,73.0
+COX                M,Piper Sandler,327,51.6,55.3,61.8
+CRAIG              S,Boutique/Other,142,41.3,62.1,50.7
+CRAIG              S,Merrill Lynch / BofA,232,64.3,80.5,74.6
+CRANDELL           J,Boutique/Other,208,58.8,64.9,74.0
+CRANDELL           J,Lehman Brothers,142,56.2,61.5,65.5
+CRIST              D,Boutique/Other,50,48.8,52.3,30.0
+CRISTELLO          T,Boutique/Other,61,11.5,28.0,72.1
+CROCKETT           B,Boutique/Other,249,-1.0,36.1,63.9
+CROCKETT           B,Lazard Capital Markets,52,25.9,39.8,92.3
+CROSS              S,Boutique/Other,292,47.1,70.9,74.7
+CROSSETT           N,Boutique/Other,66,21.0,26.4,72.7
+CROW               W,Raymond James,154,26.8,36.0,59.7
+CROW/PURYEAR,Raymond James,218,67.3,71.6,62.4
+CROWDELL           A,Boutique/Other,300,17.0,20.6,61.7
+CROWDELL           A,Jefferies,154,47.2,47.5,79.2
+CRUM               D,Stifel Nicolaus,384,14.6,36.2,65.9
+CUMMING            D,Morgan Stanley,102,-12.7,25.7,78.4
+CUMMINGS           F,Boutique/Other,51,106.5,117.1,74.5
+CUMMINS            D,Boutique/Other,130,0.7,27.5,64.6
+CURRAN             M,RBC Capital Markets,257,29.6,56.6,62.3
+CURRAN             T,Boutique/Other,110,66.4,71.5,29.1
+CURTIS             B,Boutique/Other,561,-12.1,39.6,67.6
+CURTIS             H,Boutique/Other,106,9.5,62.5,49.1
+CURTIS             H,Nomura Securities,358,27.8,43.8,59.2
+CURTISS            W,Boutique/Other,87,23.0,39.9,63.2
+CUSICK             P,JP Morgan,226,53.0,57.2,73.5
+CYPRYS             M,Morgan Stanley,840,16.7,41.7,63.2
+CZEPLIEWICZ        M,Boutique/Other,61,64.6,67.3,45.9
+CZERWENSKY         R,Boutique/Other,260,8.1,41.1,53.1
+DAHL               M,Boutique/Other,139,5.5,25.8,64.0
+DAHL               M,RBC Capital Markets,319,-19.8,38.2,68.0
+DALEY              T,Boutique/Other,50,12.0,19.9,60.0
+DALLY              N,Morgan Stanley,1052,56.5,63.4,64.7
+DANELY             C,JP Morgan,85,13.0,34.1,71.8
+DANIEL             J,Piper Sandler,75,49.9,57.0,28.0
+DANKERT            C,Boutique/Other,99,3.2,24.6,72.7
+DANN               T,Boutique/Other,97,140.8,141.0,76.3
+DARGAN             S,Boutique/Other,62,51.2,51.6,32.3
+DARGAN             S,Macquarie Securities,172,38.6,43.0,72.1
+DARKATSH           S,Raymond James,97,10.4,28.4,67.0
+DARKATSH/BUGATCH,Raymond James,67,27.0,35.1,76.1
+DARLING            T,Goldman Sachs,460,55.6,68.8,78.5
+DARST              D,Boutique/Other,170,47.9,52.5,69.4
+DARYANANI          A,Evercore ISI,303,-2.0,37.7,76.2
+DARYANANI          A,RBC Capital Markets,832,35.4,52.2,66.7
+DAS                A,Nomura Securities,117,13.7,41.6,56.4
+DAVIDSON           S,Piper Sandler,50,129.5,135.0,70.0
+DAVIS              A,Boutique/Other,61,90.9,101.5,70.5
+DAVIS              J,Boutique/Other,168,81.8,85.8,57.1
+DAVIS              J,Raymond James,138,21.0,30.4,59.4
+DAVIS              R,Canaccord Genuity,233,-17.9,33.6,81.5
+DAVIS              S,Boutique/Other,514,29.3,41.1,75.3
+DAVIS              S,Morgan Stanley,231,73.7,97.1,72.7
+DE ALBA            C,Morgan Stanley,458,42.3,79.0,54.8
+DE BRUIN           D,Merrill Lynch / BofA,605,1.6,26.0,71.2
+DE CROISSET        M,Boutique/Other,96,79.1,79.1,76.0
+DE MARIA           L,Boutique/Other,210,48.3,67.9,58.6
+DE SILVA           S,Boutique/Other,291,11.3,43.9,59.5
+DEACON             R,Boutique/Other,220,59.0,70.7,66.4
+DEBLASE            N,Boutique/Other,1004,8.8,34.4,64.9
+DEBLASE            N,Morgan Stanley,201,60.0,67.7,48.3
+DECREE             J,Boutique/Other,135,10.4,50.5,51.9
+DEER               A,Sandler O'Neill,372,49.4,56.1,65.3
+DEL DEO            N,Boutique/Other,136,19.1,25.2,73.5
+"DELANEY, CFA       M",Goldman Sachs,727,2.7,35.4,61.1
+DELCO              B,Boutique/Other,139,12.5,33.6,72.7
+DELEEUW            J,Piper Sandler,129,-9.2,21.1,93.0
+DELL               B,Bernstein Research,186,78.1,81.3,65.6
+DELLA VIGNA        M,Goldman Sachs,93,134.8,134.8,60.2
+DEMARCO            D,Boutique/Other,51,31.5,57.6,47.1
+DEMBA              J,Boutique/Other,621,31.4,47.7,65.5
+DENARDI            J,Stifel Nicolaus,265,24.1,39.4,54.7
+DENHOY             R,Jefferies,353,-0.8,25.8,77.6
+DENNERLEIN         J,Merrill Lynch / BofA,111,19.5,35.3,55.0
+DERCHIN            M,Boutique/Other,379,27.2,41.9,64.4
+DERRINGTON         R,Boutique/Other,246,16.3,41.5,60.6
+DEUSCHLE           S,Boutique/Other,65,-1.9,21.4,70.8
+DEVGAN             S,Morgan Stanley,64,13.2,46.8,81.2
+DEVITT             S,Morgan Stanley,74,-9.2,73.7,66.2
+DEVITT             S,Stifel Nicolaus,414,6.8,76.3,58.2
+DEVLIN             A,Boutique/Other,112,91.3,93.0,65.2
+DEVNANI            N,Bernstein Research,54,-2.9,32.8,51.9
+DEVRIES            M,Boutique/Other,242,63.9,79.3,62.8
+DEWITT             S,JP Morgan,65,12.7,17.8,76.9
+DEYOE              M,Merrill Lynch / BofA,142,24.9,37.4,47.2
+DHANDA             S,Boutique/Other,211,46.4,56.9,57.8
+DHANDA             S,Merrill Lynch / BofA,57,3.4,48.7,78.9
+DIANA              M,Boutique/Other,92,85.0,87.2,69.6
+DIBADJ             A,Bernstein Research,429,36.4,42.1,84.6
+DICKERSON          R,Boutique/Other,155,36.2,43.3,51.0
+DICKERSON          R,Jefferies,224,13.7,27.3,60.3
+DICLEMENTE         A,Boutique/Other,138,12.6,52.4,76.1
+DICLEMENTE         A,Evercore ISI,74,-13.3,32.5,60.8
+DICLEMENTE         A,Nomura Securities,76,2.3,30.7,67.1
+DIDORA             A,Merrill Lynch / BofA,470,8.3,41.5,52.3
+DIETERT            J,Piper Sandler,65,1.0,30.6,86.2
+DIFFELY            T,D.A. Davidson,216,-3.5,41.1,79.2
+DIFRISCO           M,Boutique/Other,319,28.1,59.3,73.4
+DIFUCCI            J,Boutique/Other,58,-17.5,38.4,74.1
+DIFUCCI            J,Jefferies,128,-20.6,35.4,57.8
+DILLARD            C,Bernstein Research,126,-6.3,29.2,62.7
+DILLARD            C,Boutique/Other,112,7.6,29.9,58.9
+DILLON             C,Boutique/Other,332,48.1,52.2,69.0
+DILTS              N,Stifel Nicolaus,115,4.5,38.6,60.0
+DINEEN             R,Boutique/Other,66,212.0,212.0,69.7
+DINESH             A,Boutique/Other,62,4.8,27.3,59.7
+DINGMANN           N,Boutique/Other,788,17.1,70.3,62.1
+DIONISIO           R,Boutique/Other,106,35.3,53.3,71.7
+DITMIRE            E,Boutique/Other,54,76.2,85.9,40.7
+DITMIRE            E,Macquarie Securities,81,32.4,44.1,80.2
+DIVAN              V,Boutique/Other,326,23.5,40.4,66.0
+"DIX, CFA           J",Boutique/Other,148,37.6,57.8,76.4
+DOBSON             J,Boutique/Other,172,136.0,137.6,87.2
+DODGE              D,Boutique/Other,89,-7.5,15.9,91.0
+DODGE              P,Boutique/Other,92,28.3,54.0,80.4
+DODONOV            I,Boutique/Other,61,-0.4,39.8,52.5
+DOLEV              D,Boutique/Other,172,17.4,32.5,57.6
+DOLEV              D,Nomura Securities,60,3.2,26.4,65.0
+DONAT              C,Piper Sandler,55,3.7,24.4,61.8
+DONAT              C,Sandler O'Neill,205,29.5,41.8,70.2
+DONLAN             D,Boutique/Other,56,48.4,61.6,53.6
+DONNELLY           J,Boutique/Other,202,56.7,62.0,56.9
+DONNELLY           P,Goldman Sachs,77,-1.0,18.9,71.4
+DONOFRIO           S,Boutique/Other,90,45.2,50.9,36.7
+DONOFRIO           S,Macquarie Securities,134,33.7,38.0,35.1
+DORSHEIMER         J,Canaccord Genuity,128,-23.2,77.3,53.1
+DOSHI              N,Boutique/Other,100,-9.9,41.2,81.0
+DOUGHERTY          K,Macquarie Securities,197,24.4,36.9,66.0
+DOUGLASS           M,Boutique/Other,65,70.0,74.6,86.2
+DOUMET             M,Boutique/Other,53,-1.0,18.3,86.8
+DOUNIS             S,Boutique/Other,154,38.5,73.8,70.1
+DOUTHAT            G,Boutique/Other,73,93.4,97.1,26.0
+DOWD               D,Bernstein Research,80,61.7,63.3,67.5
+DRAPER             S,Boutique/Other,144,-3.1,43.1,77.8
+DRAY               D,Boutique/Other,65,48.5,57.9,95.4
+DRAY               D,Goldman Sachs,185,98.5,100.4,43.8
+DRAY               D,RBC Capital Markets,1112,14.5,38.3,65.1
+DRBUL              R,Boutique/Other,452,30.9,44.3,73.0
+DRBUL              R,Lehman Brothers,184,74.1,75.8,59.2
+DRBUL              R,Nomura Securities,54,43.9,50.7,48.1
+DREHER             B,Boutique/Other,167,90.8,91.8,55.7
+DRISCOLL           T,Boutique/Other,428,44.4,55.4,51.9
+DRISCOLL           T,Lehman Brothers,229,57.0,62.5,72.5
+"DRUCKER MANN, CFA  L",Goldman Sachs,265,8.8,41.9,61.9
+DUDAS              M,Boutique/Other,375,33.1,63.2,58.7
+DUDAS              M,Jefferies,59,78.1,81.5,61.0
+DUFFY              J,Boutique/Other,104,24.8,60.8,56.7
+DUFFY              J,Stifel Nicolaus,327,6.8,40.8,64.2
+DUIGNAN            A,Boutique/Other,77,71.3,72.0,70.1
+DUIGNAN            A,JP Morgan,671,37.1,51.8,61.7
+DUMOULIN-SMITH     J,Merrill Lynch / BofA,1557,22.7,30.9,66.7
+DUMS               T,Boutique/Other,62,9.6,26.0,62.9
+DUNCAN             C,Boutique/Other,193,18.1,38.1,60.6
+"DUNHAM, CFA        G",Goldman Sachs,65,7.7,29.9,53.8
+DUNN               G,Keefe Bruyette & Woods,97,70.1,73.0,40.2
+DUNN               L,Boutique/Other,190,38.2,71.1,58.9
+DUNN               L,Macquarie Securities,101,29.9,42.0,63.4
+DURBIN             T,Goldman Sachs,170,115.4,117.7,70.0
+DUVAL              A,Goldman Sachs,191,19.7,49.1,47.6
+DWELLE             M,RBC Capital Markets,682,16.4,26.2,77.0
+DYER               S,Boutique/Other,125,38.4,65.0,66.4
+EAGAN              T,Boutique/Other,58,53.2,59.9,63.8
+EARLE              D,Boutique/Other,103,26.9,66.9,46.6
+EAST               S,Boutique/Other,153,21.6,38.8,57.5
+EASTERBROOK        M,RBC Capital Markets,63,312.2,312.2,74.6
+EDELSON            V,Morgan Stanley,94,42.9,51.7,72.3
+EDELSTONE          M,Morgan Stanley,72,98.9,102.1,48.6
+EDWARDS            J,Boutique/Other,249,148.1,149.5,67.5
+EGBERT             J,Stifel Nicolaus,106,-37.6,74.2,54.7
+EGBERT             K,Jefferies,102,6.6,44.3,60.8
+EGGER              B,Boutique/Other,50,50.9,63.4,84.0
+EGGERS             D,Boutique/Other,433,98.6,98.7,71.4
+EISENMANN          W,Boutique/Other,142,1.1,33.5,72.5
+EISNER             S,Boutique/Other,50,53.6,59.9,90.0
+EISNER             S,Goldman Sachs,277,14.2,33.1,58.5
+EL-ASSAL           R,Boutique/Other,323,13.1,31.2,59.8
+EL-ASSAL           R,Jefferies,136,-3.4,24.5,79.4
+ELIAS              B,Boutique/Other,128,75.2,116.9,45.3
+ELLICH             K,Piper Sandler,69,7.9,17.0,84.1
+ELLINGHAUS         C,Boutique/Other,78,63.5,63.5,71.8
+ELLIOTT            B,Raymond James,213,57.4,68.6,66.2
+ELLIOTT            C,Bernstein Research,108,24.2,29.3,61.1
+ELLIOTT            S,Stifel Nicolaus,439,10.4,43.6,65.4
+ELLIS              C,Boutique/Other,673,14.6,41.3,70.4
+ELLIS              J,Merrill Lynch / BofA,63,55.1,71.5,63.5
+ELLIS              L,Bernstein Research,72,3.9,17.7,88.9
+ELLIS              L,Boutique/Other,210,15.5,27.6,62.9
+ELMI               J,Macquarie Securities,51,44.0,49.7,92.2
+ENGEL              G,Merrill Lynch / BofA,146,-10.6,43.4,67.8
+ENGELLAU           H,Boutique/Other,84,70.1,76.0,66.7
+ENGLISH            J,Goldman Sachs,956,25.7,32.4,68.6
+EPSTEIN            R,Merrill Lynch / BofA,450,22.4,40.2,73.6
+ERICKSON           B,RBC Capital Markets,126,30.8,67.6,54.0
+ERNST              D,Boutique/Other,51,-0.6,39.6,72.5
+ERNST              T,Boutique/Other,196,23.6,36.8,66.8
+ESSEX              B,Goldman Sachs,110,-0.6,56.7,52.7
+ESSEX              B,Morgan Stanley,69,-18.7,37.6,73.9
+ESSI               V,Needham & Company,57,31.1,39.6,64.9
+EVANS              D,Keefe Bruyette & Woods,52,26.0,30.5,76.9
+EVANS              R,Bernstein Research,51,148.9,148.9,60.8
+EVANS              T,Boutique/Other,57,-10.2,19.2,73.7
+EVANSON            J,Boutique/Other,71,29.7,53.9,69.0
+EVENSON            J,Bernstein Research,74,54.3,86.7,56.8
+EXSTEIN            M,Boutique/Other,167,50.1,56.4,59.3
+EYAL               S,Boutique/Other,251,-3.3,35.2,74.9
+FABER              H,Boutique/Other,218,18.8,34.5,63.8
+FADEM              Z,Boutique/Other,459,-9.1,62.1,72.3
+FADIA              A,Boutique/Other,57,31.1,34.9,47.4
+FAGHRI             A,Boutique/Other,136,7.7,40.6,66.2
+FAGHRI             A,Susquehanna Financial,69,15.3,32.1,59.4
+FALCONE            M,Boutique/Other,59,108.8,117.4,71.2
+FAN                J,Boutique/Other,145,87.5,87.6,69.7
+"FANDETTI, CFA      D",Boutique/Other,220,16.2,37.5,63.6
+FANNON             D,Jefferies,842,27.4,43.4,69.4
+FARBER             G,Boutique/Other,53,46.8,72.5,62.3
+FARKAS             C,Merrill Lynch / BofA,74,85.7,87.3,81.1
+FARMER             J,Boutique/Other,568,-0.5,38.2,63.2
+FARMER             J,Jefferies,113,11.9,52.0,71.7
+FARRELL            D,Boutique/Other,155,35.3,39.0,69.0
+FASSLER            M,Goldman Sachs,1206,23.6,46.0,68.5
+FAUCETTE           J,Boutique/Other,73,76.8,80.0,68.5
+FAUCETTE           J,Morgan Stanley,434,7.4,29.6,60.8
+FAUCHER            J,JP Morgan,202,37.8,45.4,91.6
+FAVRE              L,Boutique/Other,129,20.0,28.8,58.9
+FEARNLEY JR        B,Boutique/Other,72,129.7,150.3,61.1
+FEATHERSTON        W,Boutique/Other,150,4.4,88.4,44.7
+FEENEY             J,Boutique/Other,572,31.4,42.3,62.2
+FEIN               A,Boutique/Other,82,7.1,29.2,64.6
+FEINSETH           I,Boutique/Other,71,38.1,51.3,57.7
+FEINSTEIN          A,Boutique/Other,112,25.3,42.9,58.9
+FEINSTEIN          A,Lehman Brothers,111,42.2,47.2,45.9
+FELDMAN            B,Boutique/Other,104,91.7,94.3,85.6
+FELDMAN            B,Goldman Sachs,464,27.1,38.4,63.1
+FELDMAN            J,Boutique/Other,703,-11.0,60.6,72.1
+FELDMAN            J,Merrill Lynch / BofA,568,57.8,60.3,70.8
+FENECH             J,Boutique/Other,72,18.7,34.2,79.2
+FENECH             J,Sandler O'Neill,111,83.5,88.0,59.5
+FENIGER            M,Merrill Lynch / BofA,285,-6.5,19.2,80.0
+FERNANDES          M,Merrill Lynch / BofA,61,59.6,60.6,57.4
+FERNANDEZ          B,Boutique/Other,297,72.6,75.1,64.3
+FERNANDEZ          C,Boutique/Other,173,-49.5,89.5,60.1
+FERNANDEZ          S,Boutique/Other,209,29.8,41.7,79.4
+FERRAGU            P,Bernstein Research,90,55.8,64.8,44.4
+FERRARA            C,Merrill Lynch / BofA,159,58.1,63.3,86.8
+FIDEL              S,Boutique/Other,770,-1.9,29.2,71.2
+FILANDRO           T,Susquehanna Financial,152,39.2,48.8,55.3
+FINKELSTEIN        M,Boutique/Other,51,111.3,118.3,52.9
+FINKELSTEIN        M,Evercore ISI,98,49.1,49.7,88.8
+FINTZEN            D,Boutique/Other,149,-9.6,34.1,81.9
+FIQUE              T,Boutique/Other,86,12.7,39.9,58.1
+FISCHBECK          K,Merrill Lynch / BofA,885,4.4,27.4,69.3
+FISCHER            D,Boutique/Other,348,40.5,59.3,71.8
+FISCHER            D,Goldman Sachs,113,14.9,20.5,66.4
+FISH               J,Piper Sandler,152,1.0,34.4,48.0
+FISHBEIN           J,Boutique/Other,180,0.6,37.0,66.1
+FISHBEIN           J,Lazard Capital Markets,60,1.0,36.9,76.7
+FISHER             W,Raymond James,169,65.6,70.4,76.9
+FISHMAN            R,Boutique/Other,50,19.8,37.5,48.0
+FITZ               S,Boutique/Other,52,-43.6,68.8,67.3
+FITZGERALD         B,Boutique/Other,229,15.8,60.6,55.0
+FITZGERALD         B,Jefferies,95,-22.8,47.0,60.0
+FITZGERALD         C,Goldman Sachs,127,9.3,30.9,71.7
+FITZGERALD         M,Boutique/Other,134,51.0,70.3,56.7
+FITZGIBBON         M,Sandler O'Neill,141,76.8,78.7,63.8
+FITZPATRICK        W,Boutique/Other,59,-38.2,103.9,67.8
+FITZSIMMONS        K,Boutique/Other,77,11.7,33.7,66.2
+FITZSIMMONS        K,Sandler O'Neill,276,63.4,69.6,60.1
+FITZSIMONS         K,RBC Capital Markets,122,-14.6,51.6,65.6
+FLANNERY           M,Boutique/Other,204,134.9,136.8,67.2
+FLANNERY           S,Morgan Stanley,292,56.6,63.9,69.9
+FLEISHMAN          S,Merrill Lynch / BofA,312,104.1,104.1,84.6
+FLEISHMAN          S,Wolfe Research,1399,35.3,38.4,70.3
+FLEMING            G,Boutique/Other,81,31.9,47.6,61.7
+FLETCHER           B,Bernstein Research,173,-4.8,20.7,71.1
+FLORES             V,Boutique/Other,87,21.2,40.3,65.5
+FLYNN              K,Boutique/Other,50,48.1,55.2,82.0
+FLYNN              T,Goldman Sachs,536,5.8,35.9,60.6
+FLYNN              T,Morgan Stanley,132,7.8,31.2,56.1
+FOCKENS            S,Lehman Brothers,156,44.0,54.7,60.3
+FODDERWALA         H,Morgan Stanley,85,4.3,42.7,57.6
+FOGERTEY           K,Goldman Sachs,129,-54.3,62.7,79.1
+FOLLOWILL          R,Boutique/Other,307,117.8,119.4,66.1
+FOLTA              L,Jefferies,57,55.1,55.3,54.4
+FONG               H,Boutique/Other,297,32.7,36.1,80.5
+FORAN              B,Goldman Sachs,158,57.4,78.7,46.8
+FORBES             S,Boutique/Other,188,9.2,41.0,63.8
+FORD               D,Boutique/Other,836,73.1,73.7,87.0
+FORD               D,Lehman Brothers,699,160.7,160.9,74.5
+FORD               K,Boutique/Other,241,61.3,62.5,78.8
+FORD               R,Boutique/Other,66,112.3,112.5,66.7
+FORD AGUILAR       R,Merrill Lynch / BofA,65,-9.9,60.2,66.2
+FORESI             J,Boutique/Other,326,11.7,29.2,81.3
+FORST              D,Boutique/Other,88,114.4,146.9,65.9
+FORTE              T,Boutique/Other,55,10.4,53.2,74.5
+FORTE              T,D.A. Davidson,182,-21.5,63.6,55.5
+FORWARD            P,Stifel Nicolaus,94,51.1,60.9,55.3
+FOTHERGILL         N,Boutique/Other,64,51.3,52.9,98.4
+FOTHERINGHAM       J,Boutique/Other,904,15.7,40.2,65.3
+FOWLER             T,Boutique/Other,374,36.3,50.4,69.3
+FOX                E,Boutique/Other,61,68.3,68.3,41.0
+FOX                S,Boutique/Other,499,35.6,48.7,63.5
+FOX                S,Merrill Lynch / BofA,125,28.1,66.5,55.2
+FOX                T,Boutique/Other,51,8.5,29.5,58.8
+FRANCE             J,Boutique/Other,324,1.4,27.3,68.8
+FRANCFORT          G,Boutique/Other,83,13.9,25.1,56.6
+FRANCFORT          G,Merrill Lynch / BofA,238,-3.6,40.1,65.1
+FRANKEL            S,Boutique/Other,66,10.5,46.4,62.1
+FREEDMAN           C,Boutique/Other,53,10.6,40.3,58.5
+FREEDMAN           D,Boutique/Other,228,54.5,63.1,53.9
+FREEDMAN           D,RBC Capital Markets,112,25.8,47.2,67.9
+FREEMAN            J,Raymond James,506,39.7,64.2,53.6
+FREEMAN            R,Boutique/Other,316,66.0,73.4,76.3
+FREEMAN            R,Lehman Brothers,62,80.9,84.4,35.5
+FREMONT            P,Boutique/Other,346,24.2,29.3,69.9
+FREMONT            P,Jefferies,967,113.0,114.2,76.1
+FRIAR              S,Goldman Sachs,134,0.4,43.7,65.7
+FRIEDLAND          P,Boutique/Other,84,44.3,70.1,66.7
+FRIEDMAN           J,Susquehanna Financial,506,11.6,35.9,71.9
+FRIESEN            M,Boutique/Other,72,29.6,42.6,88.9
+FRITZSCHE          J,Boutique/Other,89,33.4,43.8,80.9
+FROHNAPPLE         N,Boutique/Other,57,18.2,31.5,59.6
+FROMMER            J,Boutique/Other,89,-2.7,26.2,67.4
+FULLER             J,Boutique/Other,230,44.1,56.4,50.9
+FUNK               M,Merrill Lynch / BofA,55,47.9,53.3,54.5
+FUNTLEYDER         L,Boutique/Other,68,42.5,53.5,63.2
+FURLONG            B,Boutique/Other,107,43.3,49.6,72.0
+FURLONG            C,Morgan Stanley,70,24.0,31.5,44.3
+FYE                J,JP Morgan,55,13.0,26.5,56.4
+GABRIELE           D,Boutique/Other,150,24.3,43.5,42.0
+GACICIA            D,Boutique/Other,100,21.4,60.3,61.0
+GAFFNER            S,Boutique/Other,198,32.1,37.2,67.2
+GAGLIANO           D,Boutique/Other,417,14.1,73.2,63.5
+GAILEY             B,Keefe Bruyette & Woods,292,23.1,36.6,56.8
+GAIT               P,Bernstein Research,53,222.8,226.7,26.4
+GAJRAWALA          K,Boutique/Other,164,9.1,24.2,64.0
+GAL                R,Bernstein Research,148,18.5,28.3,64.9
+GALAN              J,Merrill Lynch / BofA,65,67.6,67.6,78.5
+GALAPPATTHIGE      A,Canaccord Genuity,67,13.7,27.1,77.6
+GALBO              P,Merrill Lynch / BofA,94,16.5,22.1,52.1
+GALLACHER          C,Boutique/Other,79,0.8,63.1,64.6
+GALLAGHER          T,Boutique/Other,445,76.5,80.1,67.6
+GALLAGHER          T,Evercore ISI,440,15.9,32.3,68.4
+GALLANT            C,Keefe Bruyette & Woods,221,59.4,62.8,64.7
+GALLANT            C,Nomura Securities,62,9.5,15.9,85.5
+GALLO              J,Jefferies,73,-19.6,35.2,69.9
+GALLUCCI           T,Lazard Capital Markets,87,17.9,32.3,81.6
+GALLUCCI           T,Merrill Lynch / BofA,53,45.1,63.8,54.7
+GALVES             D,Boutique/Other,55,27.1,64.8,30.9
+GALVES             D,Wolfe Research,77,-23.8,48.0,63.6
+GAMAITONI          E,Boutique/Other,90,69.4,79.2,57.8
+GAMBARDELLA        M,JP Morgan,341,51.0,69.2,53.4
+GAMMEL             J,Boutique/Other,125,52.4,64.4,86.4
+GAMMEL             J,Jefferies,125,58.5,65.2,48.0
+GAMMEL             J,Macquarie Securities,155,101.4,107.1,60.6
+GARBER             J,Goldman Sachs,210,18.1,25.8,58.1
+GARCEA             R,Boutique/Other,58,39.0,49.4,63.8
+GARCHA             K,Boutique/Other,182,55.6,78.1,61.5
+GARCHITORENA       R,Boutique/Other,67,47.4,48.9,56.7
+GARDINER           W,Evercore ISI,56,11.5,35.3,87.5
+GARG               M,Boutique/Other,108,28.9,61.7,68.5
+GARG               P,Boutique/Other,64,-7.3,24.8,70.3
+GATES              C,Boutique/Other,125,85.5,86.4,57.6
+GAUGLER            M,Boutique/Other,149,21.3,32.6,76.5
+GAUNA              A,Boutique/Other,130,16.7,57.5,60.8
+GAWRELSKI          K,Boutique/Other,60,-21.8,32.1,73.3
+GEIMAN             D,Boutique/Other,115,15.1,42.1,70.4
+GEISSLER           D,Boutique/Other,207,48.7,50.5,81.2
+GELB               J,Boutique/Other,538,32.0,38.7,72.1
+GELB               J,Lehman Brothers,74,76.4,78.2,35.1
+GENDRON            B,Wolfe Research,162,4.2,80.2,33.3
+GENGARO            S,Boutique/Other,185,56.2,57.0,37.8
+GENGARO            S,Jefferies,202,49.5,62.2,72.8
+GENGARO            S,Stifel Nicolaus,158,33.3,58.1,46.2
+GENOVESE           M,Boutique/Other,308,14.4,40.2,58.1
+GENOVESI           D,Boutique/Other,174,19.4,47.8,43.1
+GEORGE             B,Keefe Bruyette & Woods,223,59.8,77.5,62.3
+GEORGE             D,Boutique/Other,56,116.9,116.9,76.8
+GERATY             D,RBC Capital Markets,102,112.7,116.2,65.7
+GERBERRY           J,Boutique/Other,84,31.2,35.9,54.8
+GERBERRY           J,Merrill Lynch / BofA,189,24.1,36.0,54.0
+GERDES             J,Boutique/Other,809,37.1,84.5,57.1
+GERDES             J,Canaccord Genuity,135,72.7,76.4,60.7
+GERE               J,Boutique/Other,62,34.5,55.1,77.4
+GERE               J,RBC Capital Markets,153,29.5,46.8,94.1
+GESUALE            B,Raymond James,72,0.5,27.8,69.4
+GHAI               R,Boutique/Other,84,17.2,43.9,76.2
+GHEIT              F,Boutique/Other,206,95.1,96.2,61.2
+GHOSH              A,Boutique/Other,65,14.9,31.5,76.9
+GIACOBBE           R,Boutique/Other,211,5.2,29.3,78.7
+GIANNAKOULIS       F,Morgan Stanley,58,67.3,69.0,36.2
+GIBBS              P,Boutique/Other,138,-0.9,40.7,72.5
+GIBLAT             A,Boutique/Other,85,-5.2,41.0,68.2
+GIBNEY             J,Boutique/Other,487,57.8,63.9,48.7
+GIKAS              A,Piper Sandler,173,45.9,61.4,56.6
+GILARDI            R,Merrill Lynch / BofA,620,7.2,42.9,60.6
+GILBERT            C,Keefe Bruyette & Woods,56,48.7,55.6,62.5
+GILBERT            G,Boutique/Other,212,37.7,43.2,55.2
+GILBERT            G,Merrill Lynch / BofA,133,27.4,44.0,88.0
+GILL               L,JP Morgan,296,29.3,39.9,70.9
+GILL               R,Needham & Company,241,0.1,47.9,74.3
+GILLIS             C,Boutique/Other,102,21.1,52.1,69.6
+GILMAN             M,Boutique/Other,73,90.3,93.3,74.0
+GINOCCHIO          P,Boutique/Other,111,40.2,48.0,70.3
+GIORDANO           L,Boutique/Other,80,24.8,32.0,55.0
+GIOVANNI           C,Goldman Sachs,113,61.1,62.8,72.6
+GLADUE             J,Boutique/Other,103,48.3,61.3,58.3
+GLASER             J,Boutique/Other,54,45.9,51.5,66.7
+GLASS              J,Boutique/Other,149,102.1,102.1,61.1
+GLASS              J,Morgan Stanley,767,9.6,41.1,65.2
+GLENN              B,D.A. Davidson,72,15.9,40.9,72.2
+GLICK              D,Boutique/Other,334,49.1,57.9,64.4
+GLICK              M,JP Morgan,111,38.3,57.1,45.0
+GLYNN              C,Boutique/Other,497,38.7,54.2,72.8
+GLYNN              D,Boutique/Other,54,-68.5,133.7,72.2
+GOBER              D,Morgan Stanley,63,37.4,73.6,73.0
+GODYN              J,Morgan Stanley,73,3.8,36.7,91.8
+GOKHALE            S,Boutique/Other,81,67.2,70.2,66.7
+GOLDBERG           J,Boutique/Other,838,50.0,56.4,61.5
+GOLDBERG           J,Lehman Brothers,290,105.5,105.5,51.0
+GOLDFARB           A,Piper Sandler,318,23.8,41.7,51.3
+GOLDFARB           A,Sandler O'Neill,661,87.4,88.2,72.2
+GOLDING            P,Macquarie Securities,122,9.5,44.5,54.1
+GOLDMAN            K,JP Morgan,544,30.8,38.2,68.8
+GOLDMAN            R,Boutique/Other,132,103.7,115.8,72.0
+GOLDSTEIN          M,Boutique/Other,52,90.0,93.7,46.2
+GOLDWASSER         R,Morgan Stanley,356,10.7,27.5,71.6
+GOLLADAY           W,RBC Capital Markets,305,47.2,53.6,58.4
+GONCHAROV          I,Boutique/Other,78,-85.3,85.3,94.9
+GONZALEZ           E,Boutique/Other,109,4.5,34.7,68.8
+GOODMAN            M,Boutique/Other,66,21.0,31.8,59.1
+GOPAL              M,Boutique/Other,53,35.6,36.8,67.9
+GORDON             G,Boutique/Other,230,59.9,60.3,86.5
+GORDON             G,Evercore ISI,467,37.7,39.2,67.5
+GORDON             G,Morgan Stanley,112,83.6,83.6,83.9
+GORDON             S,Boutique/Other,96,-1.5,36.5,59.4
+GORMAN             M,Boutique/Other,57,94.3,96.6,42.1
+GOSALIA            M,Morgan Stanley,128,2.0,32.7,71.9
+GOSS               J,Boutique/Other,207,50.8,57.1,61.8
+GOULD              A,Boutique/Other,222,11.3,64.9,55.4
+GOULD              C,Boutique/Other,161,6.2,23.1,65.2
+GOVIL              V,Keefe Bruyette & Woods,79,36.7,39.2,43.0
+GRACE              T,Susquehanna Financial,154,55.0,73.6,67.5
+GRAF               A,Boutique/Other,567,58.3,73.7,26.3
+GRAGER             D,Boutique/Other,142,38.4,58.4,45.1
+GRAHAM             M,Canaccord Genuity,221,5.7,45.1,72.9
+GRAHAM             R,Boutique/Other,248,22.6,36.1,68.1
+GRAHAM             R,Jefferies,108,49.0,52.0,73.1
+GRAHAM             S,Boutique/Other,109,1.0,27.8,73.4
+GRAHAM             W,Boutique/Other,222,36.9,66.2,64.0
+GRAINGER           M,Morgan Stanley,170,49.1,49.2,62.4
+"GRAMBLING, CFA     S",Goldman Sachs,825,16.1,36.4,54.7
+"GRAMBLING, CFA     S",Morgan Stanley,139,3.3,18.1,64.0
+GRAMPP             J,Boutique/Other,115,43.0,87.8,51.3
+GRANDET            L,Boutique/Other,287,13.3,34.6,70.4
+GRASECK            B,Morgan Stanley,1483,47.4,57.7,57.3
+GRASHER            M,Piper Sandler,105,65.7,67.6,56.2
+GRAY               G,Boutique/Other,135,37.8,48.9,62.2
+GRAY               R,Boutique/Other,283,31.9,53.8,52.7
+GREEN              N,Bernstein Research,73,-7.1,69.1,64.4
+GREEN              P,Boutique/Other,51,81.3,83.7,45.1
+GREEN              S,Boutique/Other,130,35.0,57.3,51.5
+GREEN              S,Merrill Lynch / BofA,57,-17.0,27.7,64.9
+GREENBERG          L,Boutique/Other,59,12.4,29.9,61.0
+GREENBERG          M,Boutique/Other,131,73.1,81.8,64.1
+GREENBERGER        K,Morgan Stanley,457,-1.5,45.8,54.9
+GREENDALE          C,Boutique/Other,100,59.0,71.0,83.0
+GREENE             A,Boutique/Other,51,173.8,173.8,37.3
+GREENE             G,Boutique/Other,256,14.8,33.3,77.0
+GREENE             W,Morgan Stanley,325,52.2,57.1,55.4
+GREENSPAN          E,Boutique/Other,536,4.4,22.3,74.1
+GREFF              J,Boutique/Other,86,140.1,151.7,57.0
+GREFF              J,JP Morgan,654,29.1,54.6,61.5
+GRESH              P,JP Morgan,455,32.7,49.5,68.6
+GRIFFIN            R,Raymond James,124,-4.1,46.9,61.3
+GRIGEL             P,Macquarie Securities,198,49.6,57.8,37.9
+GROBERG            J,Macquarie Securities,123,10.3,44.7,77.2
+GROH               J,D.A. Davidson,181,49.4,60.5,68.0
+GROM               C,Boutique/Other,923,3.3,38.5,67.9
+GROM               C,JP Morgan,101,38.1,55.0,75.2
+GRONDAHL           M,Boutique/Other,51,43.1,68.9,45.1
+GRONDAHL           M,Piper Sandler,50,25.0,38.4,40.0
+GROOMS             T,Boutique/Other,379,-1.0,33.0,66.8
+GROSS              R,Boutique/Other,188,138.1,142.0,70.2
+GROSS              R,Lehman Brothers,97,241.7,243.6,66.0
+GROSSMAN           D,Boutique/Other,102,86.3,91.4,52.0
+GROSSMAN           D,Stifel Nicolaus,247,20.4,37.6,72.1
+GROUP              S,Wolfe Research,732,12.3,30.5,64.5
+GROWE              C,Stifel Nicolaus,256,49.1,52.6,67.2
+GRUBER             S,Bernstein Research,144,70.0,71.5,54.9
+GRUBERT            D,Boutique/Other,74,22.8,44.5,87.8
+GRUBERT            D,Susquehanna Financial,51,58.5,60.9,64.7
+GRUNDY             K,Jefferies,635,22.4,33.2,64.1
+GUBINS             S,Merrill Lynch / BofA,215,31.2,42.9,83.7
+GUERRA-GARCIA      A,Boutique/Other,76,28.8,49.0,78.9
+GUILLEN            C,Boutique/Other,64,38.6,54.2,48.4
+GUINEE             J,Stifel Nicolaus,279,56.3,59.2,70.3
+GULLEY             M,Boutique/Other,171,118.6,120.0,78.9
+GUMPORT            M,Boutique/Other,53,26.8,28.2,32.1
+GUNDERSON          T,Piper Sandler,78,0.8,56.8,57.7
+GUPTA              M,Boutique/Other,130,23.8,54.8,56.2
+GUPTE              A,Bernstein Research,91,18.6,29.0,86.8
+GUPTE              A,Boutique/Other,279,13.9,32.0,62.7
+GURDA              J,Boutique/Other,161,21.6,35.7,67.1
+GURKIN             A,Boutique/Other,164,94.0,96.6,73.8
+GUTEK              C,Morgan Stanley,144,74.9,76.5,51.4
+GUTMAN             R,Boutique/Other,78,3.4,20.9,88.5
+GUTMAN             S,Morgan Stanley,756,-6.1,41.2,67.9
+HAAS               I,Boutique/Other,261,43.1,59.0,69.0
+HAAS               I,Canaccord Genuity,73,33.2,46.3,74.0
+HAAS               J,Merrill Lynch / BofA,62,-7.9,38.2,66.1
+HABERMANN          J,Goldman Sachs,403,109.2,111.4,63.3
+"HACKEL, CFA        E",Goldman Sachs,161,32.6,35.6,68.3
+HAGERMAN           T,Boutique/Other,244,69.8,72.7,54.1
+HAIRE              C,Jefferies,528,17.7,36.5,58.9
+HAJDE              G,Boutique/Other,174,9.4,29.8,57.5
+HALL               J,Boutique/Other,162,93.6,97.9,73.5
+HALL               R,Goldman Sachs,285,6.5,46.2,53.7
+HALL               R,JP Morgan,223,22.4,41.0,64.6
+HALLEAD            K,RBC Capital Markets,716,46.6,66.6,53.1
+HALPER             S,Boutique/Other,300,14.3,42.7,65.3
+HALSOR             K,Boutique/Other,98,-16.6,41.2,71.4
+HAMANN             S,Boutique/Other,90,43.6,46.4,83.3
+HAMBRIGHT          L,Bernstein Research,207,9.4,21.3,66.2
+HAMED              F,Boutique/Other,196,38.3,56.8,49.0
+HAMILTON           M,Boutique/Other,144,50.5,57.6,77.1
+HAMMOND            J,Boutique/Other,254,35.9,53.5,73.2
+HAMMOND            P,Boutique/Other,205,51.8,60.2,51.2
+HAMMOND            P,Piper Sandler,150,44.0,72.1,48.0
+HANDLER            B,Boutique/Other,154,37.6,53.1,82.5
+HANDLER            B,Jefferies,336,44.7,56.2,38.7
+HANDLER            E,Boutique/Other,387,16.6,36.0,66.7
+HANNAN             E,Boutique/Other,138,37.1,53.2,76.8
+HANNAN             S,Needham & Company,147,13.7,34.9,58.5
+HANOLD             S,RBC Capital Markets,525,48.0,73.1,54.7
+HANSEN             S,Boutique/Other,81,35.5,47.6,65.4
+HANUS              G,Needham & Company,69,36.0,59.5,58.0
+HARBOUR            B,Morgan Stanley,89,-6.0,37.5,52.8
+HARDIMAN           J,Boutique/Other,319,26.8,50.8,52.7
+HARESCO            J,Boutique/Other,81,-9.8,36.5,71.6
+HARGREAVES         A,Boutique/Other,117,2.7,42.4,70.9
+HARI               T,Goldman Sachs,847,-16.9,39.2,68.8
+HARMON             E,Jefferies,135,19.2,28.6,63.7
+HARNED             D,Bernstein Research,457,35.3,42.4,72.9
+HARR               S,Morgan Stanley,73,22.4,50.5,49.3
+HARRALSON          J,Keefe Bruyette & Woods,178,64.7,69.4,58.4
+HARRIGAN           M,Boutique/Other,291,74.9,90.7,62.2
+HARRIS             C,Boutique/Other,404,2.5,34.3,76.7
+HARRIS             D,Boutique/Other,128,71.8,73.8,88.3
+HARRIS             D,Goldman Sachs,167,57.0,62.5,55.1
+HARRIS             D,Lehman Brothers,122,140.3,140.3,52.5
+HARRISON           K,Piper Sandler,162,7.7,61.7,56.2
+HARRISON           M,Boutique/Other,241,47.4,54.1,71.8
+HARRISON           M,Morgan Stanley,419,16.8,33.8,58.5
+HARRISON           S,Boutique/Other,402,15.8,38.6,68.4
+HARTE              J,Piper Sandler,163,20.7,41.1,57.7
+HARTE              J,Sandler O'Neill,543,50.8,52.7,56.9
+HARTER             D,Boutique/Other,193,99.1,118.9,53.4
+HARTING            B,Boutique/Other,77,46.5,72.0,79.2
+HARTING            B,Lehman Brothers,87,126.1,139.1,48.3
+HASAN              S,Boutique/Other,59,26.9,60.3,67.8
+HATFIELD           A,Boutique/Other,79,54.7,58.3,69.6
+HATFIELD           A,Raymond James,50,37.1,49.2,80.0
+HAUGHTON           D,Boutique/Other,230,46.4,66.6,44.8
+HAVEMEYER          F,Macquarie Securities,77,6.7,32.6,57.1
+HAVENS             D,Boutique/Other,231,26.1,54.4,59.3
+HAYES              T,Boutique/Other,102,15.2,68.4,52.0
+HAYNOR             B,Boutique/Other,54,-22.4,33.2,72.2
+HAZAN              A,Boutique/Other,74,11.9,41.3,52.7
+HAZAN              A,Goldman Sachs,122,11.7,28.3,63.1
+HAZLETT            R,Boutique/Other,106,116.4,124.4,52.8
+HEAGERTY           J,Boutique/Other,365,12.9,31.0,69.9
+HEALY              C,Boutique/Other,55,53.3,53.3,63.6
+HEALY              J,Boutique/Other,60,23.8,44.7,60.0
+HECHT              J,Jefferies,165,10.4,46.7,59.4
+HECHT              M,Boutique/Other,193,99.1,100.9,55.4
+HECK               B,Boutique/Other,129,35.6,44.8,60.5
+HECKMANN           P,Boutique/Other,73,9.9,24.7,71.2
+HEDBERG            M,RBC Capital Markets,368,-5.6,33.0,68.8
+HEFFERN            B,RBC Capital Markets,473,29.7,57.1,49.9
+HEIKKINEN          D,Boutique/Other,221,72.9,79.0,77.4
+HEIKKINEN/CARVER,Boutique/Other,52,42.6,58.1,73.1
+HEIMERMANN         M,JP Morgan,62,30.5,37.9,77.4
+HEINBOCKEL         J,Boutique/Other,170,18.6,32.0,70.0
+HEINI              N,Boutique/Other,55,-6.2,22.2,85.5
+HEINZ              M,Stifel Nicolaus,52,19.1,25.4,96.2
+HELFSTEIN          J,Boutique/Other,511,13.1,58.9,63.0
+HELLER             M,Boutique/Other,96,18.2,39.4,58.3
+HENDERSON          A,Jefferies,109,10.2,28.4,74.3
+HENDERSON          A,Needham & Company,173,-7.1,41.7,67.6
+HENDRIX            B,RBC Capital Markets,59,15.4,37.6,62.7
+HENDRIX            F,Boutique/Other,655,25.9,53.9,63.2
+HENDRIX            F,Lehman Brothers,186,90.4,96.6,47.8
+HENZI              M,Boutique/Other,76,56.6,61.8,55.3
+HERBERT            B,Piper Sandler,131,30.6,54.0,39.7
+HERBERT            K,Boutique/Other,68,27.5,48.0,88.2
+HERBERT            K,Canaccord Genuity,126,4.4,35.8,70.6
+HERBERT            K,RBC Capital Markets,67,3.9,18.5,76.1
+HERLINGHAUS        A,Boutique/Other,119,23.9,43.4,67.2
+HERNANDEZ          I,Boutique/Other,103,2.8,30.7,79.6
+HERNANDEZ          I,Lehman Brothers,72,23.6,42.4,55.6
+HERRLIN            J,Boutique/Other,282,87.1,88.7,52.8
+HERRLIN            J,Merrill Lynch / BofA,70,61.6,70.7,88.6
+HERZOG             B,Boutique/Other,169,21.5,31.9,64.5
+HERZOG             B,Goldman Sachs,154,6.0,24.7,69.5
+HETTENBACH         C,Goldman Sachs,109,10.1,25.4,77.1
+HETTENBACH         C,Morgan Stanley,374,-8.5,30.3,75.1
+HEYLER             D,Merrill Lynch / BofA,56,59.8,59.9,82.1
+HEYMANN            N,Boutique/Other,704,72.1,78.8,66.6
+HICKEY             C,Boutique/Other,193,3.0,27.0,78.8
+HICKEY             M,Boutique/Other,327,-0.2,52.9,67.6
+HIGGINS            J,Boutique/Other,119,54.0,54.7,48.7
+HIGHTOWER          R,Evercore ISI,408,11.9,30.6,53.7
+HILAL              D,Boutique/Other,121,4.2,44.2,60.3
+HILDER             D,Boutique/Other,175,80.5,81.1,64.0
+HILDER             D,Susquehanna Financial,55,99.9,100.7,58.2
+HILL               G,Boutique/Other,320,11.7,30.4,59.1
+HILL               K,Boutique/Other,539,15.9,31.7,72.7
+HILL               R,Morgan Stanley,197,47.4,58.4,43.7
+HINDELONG          J,Boutique/Other,62,43.2,53.0,41.9
+HINDLIAN           S,Macquarie Securities,177,-23.4,30.0,79.7
+HINTZ              B,Bernstein Research,179,67.4,69.3,56.4
+HIRAI              F,Merrill Lynch / BofA,95,95.8,108.3,55.8
+HO                 M,Goldman Sachs,59,24.7,51.9,52.5
+HO                 P,Stifel Nicolaus,253,24.5,53.3,65.6
+HO                 S,Boutique/Other,340,-9.3,42.3,71.5
+HOCEVAR            K,Boutique/Other,87,17.5,35.9,58.6
+HOCHSTIM           D,Boutique/Other,183,63.7,70.7,69.4
+HODESS             B,Merrill Lynch / BofA,61,34.4,98.4,47.5
+HODGSON            M,Boutique/Other,68,64.7,69.0,61.8
+HOEXTER            K,Merrill Lynch / BofA,1229,21.6,38.2,71.0
+HOFFMAN            J,Boutique/Other,91,69.3,71.1,61.5
+HOFFMAN            M,Boutique/Other,114,77.9,88.2,69.3
+HOFFMAN            M,Stifel Nicolaus,146,12.5,22.1,84.9
+HOGLUND            G,Jefferies,83,77.2,77.2,57.8
+HOKANSON           R,Boutique/Other,51,35.0,48.7,56.9
+"HOLDER, CFA        J",Goldman Sachs,98,138.3,141.4,46.9
+HOLFORD            J,Jefferies,404,49.3,51.1,80.7
+HOLLAND            A,Boutique/Other,66,33.9,37.0,75.8
+HOLLEY             B,Boutique/Other,116,13.1,46.0,65.5
+HOLLINS            J,Boutique/Other,71,19.1,38.8,42.3
+HOLT               A,Morgan Stanley,64,20.0,37.6,68.8
+HOLTHOUSE          K,Goldman Sachs,326,7.8,23.4,77.6
+HONE               R,Boutique/Other,83,24.1,44.7,59.0
+HONG               J,Goldman Sachs,706,47.1,57.8,70.5
+HOOD               W,Boutique/Other,487,49.2,55.0,68.4
+HOOKER             D,Boutique/Other,65,0.4,39.1,67.7
+HOPKINS            B,Merrill Lynch / BofA,271,21.8,37.1,75.3
+HOPKINS            T,Boutique/Other,92,76.0,92.0,30.4
+HOPSON             J,Boutique/Other,80,102.2,102.2,80.0
+HOPSON             J,Stifel Nicolaus,101,73.2,73.6,77.2
+HORAN              L,Boutique/Other,117,83.4,86.7,73.5
+HORAN              T,Boutique/Other,231,67.8,75.3,73.6
+HORGAN             S,Boutique/Other,149,24.2,38.0,41.6
+HORNE              B,Raymond James,120,11.0,34.5,69.2
+HORNE/PURYEAR,Raymond James,114,34.7,50.5,71.9
+HOROWITZ           D,Raymond James,94,124.2,124.2,56.4
+HORVERS            C,JP Morgan,676,19.2,41.1,72.8
+HORWITZ            C,Boutique/Other,249,75.2,83.9,54.6
+HOSELTON           B,Boutique/Other,164,42.1,48.0,64.6
+HOSSEINI           M,Boutique/Other,116,55.2,74.6,61.2
+HOSSEINI           M,Susquehanna Financial,549,8.4,49.1,58.5
+HOU                T,Boutique/Other,71,-19.0,58.4,62.0
+HOUCHOIS           P,Jefferies,87,-21.3,73.0,58.6
+HOVORKA            J,Raymond James,150,64.0,65.9,64.7
+HOWARD             A,Bernstein Research,603,37.1,42.2,62.4
+HSUEH              G,Boutique/Other,88,33.0,57.0,58.0
+HUANG              A,Boutique/Other,64,40.6,48.9,48.4
+HUANG              B,Morgan Stanley,57,-20.2,23.1,96.5
+HUANG              T,JP Morgan,622,15.7,31.5,77.0
+HUANG              Y,Merrill Lynch / BofA,135,25.0,39.8,51.1
+HUBER              C,Boutique/Other,230,-0.9,39.7,62.6
+HUBERTY            K,Morgan Stanley,419,49.7,68.7,61.8
+HUDSON             S,Boutique/Other,230,6.6,22.1,71.3
+HUERTA             A,JP Morgan,54,13.0,37.3,55.6
+HUFF               B,Boutique/Other,269,-1.9,21.9,78.4
+HUGEL              E,Boutique/Other,130,51.8,60.6,83.8
+HUGHES             J,Raymond James,64,20.1,31.6,67.2
+HUGHES             K,Boutique/Other,399,9.2,37.0,66.4
+HUGHES             M,Boutique/Other,192,24.3,32.5,76.6
+HUGHES             R,Keefe Bruyette & Woods,79,109.0,109.0,36.7
+HULSHOF            M,Boutique/Other,69,-22.3,66.1,79.7
+HULSING            J,Goldman Sachs,66,-48.5,48.8,36.4
+HUMPHREY           B,Boutique/Other,123,67.2,74.0,52.0
+HUNG               J,Morgan Stanley,57,23.0,44.2,54.4
+HUNT               K,Boutique/Other,69,167.4,168.0,43.5
+HUSAIN             J,Boutique/Other,69,50.3,70.2,55.1
+HUSSON             M,Boutique/Other,60,72.9,72.9,68.3
+HUTCHINSON         B,Boutique/Other,95,50.1,56.7,40.0
+HUTCHINSON         L,Merrill Lynch / BofA,564,21.4,49.7,60.1
+HYNES              A,Boutique/Other,579,6.1,27.1,69.3
+HYNES              D,Canaccord Genuity,126,-14.4,41.0,66.7
+IHLE               H,Boutique/Other,65,40.7,72.0,50.8
+IMBRO              D,Boutique/Other,185,-0.7,28.0,74.1
+INCH               J,Boutique/Other,330,40.4,51.1,69.1
+INCH               J,Merrill Lynch / BofA,190,95.6,97.3,82.6
+ING                I,Boutique/Other,181,2.2,42.1,74.0
+IRIZARRY           M,Goldman Sachs,554,98.2,103.8,64.8
+IRWIN              C,Boutique/Other,50,-39.9,72.9,42.0
+ISAAC              C,Boutique/Other,217,24.6,33.5,68.2
+ISAACSON           B,Boutique/Other,210,21.9,42.5,58.1
+IVANKOE            J,JP Morgan,542,22.6,38.9,75.1
+IVES               D,Boutique/Other,364,-15.9,43.4,70.6
+IYER               J,Piper Sandler,58,16.2,40.8,81.0
+JACKSON            J,Boutique/Other,226,26.4,47.8,56.6
+JACOBOWITZ         A,Merrill Lynch / BofA,167,31.0,34.0,88.0
+JACOBS             B,Boutique/Other,51,90.9,124.3,72.5
+JACOBS             P,Boutique/Other,59,120.5,127.7,52.5
+JACOBS             S,Piper Sandler,77,66.8,67.3,70.1
+JACOBSON           C,Boutique/Other,111,53.8,64.7,51.4
+JADROSICH          R,Merrill Lynch / BofA,241,-16.8,34.4,74.7
+JAFFE              R,Stifel Nicolaus,161,49.2,59.9,55.3
+JAGDALE            A,Jefferies,72,50.7,51.8,52.8
+JAIN               A,Boutique/Other,89,3.6,32.9,67.4
+JAIN               N,Boutique/Other,74,28.2,33.5,37.8
+JAIN               S,Boutique/Other,51,13.4,28.7,51.0
+JAIN               S,Goldman Sachs,55,1.0,37.0,69.1
+JAIN               S,Lehman Brothers,52,42.0,61.3,46.2
+JAKHIA             D,Boutique/Other,63,12.3,34.0,71.4
+JAKOBSEN           R,Boutique/Other,342,91.3,92.4,66.4
+JAKUSCONEK         T,Boutique/Other,599,34.9,52.1,54.8
+JALONEN            M,Merrill Lynch / BofA,610,27.3,56.6,51.5
+JALURIA            R,RBC Capital Markets,58,19.2,37.4,60.3
+JAMES              S,Boutique/Other,244,6.3,24.3,71.7
+JAMES              S,Piper Sandler,154,-5.9,32.4,74.7
+JANEDIS            J,Jefferies,58,2.4,41.2,51.7
+JANEDIS            J,Wolfe Research,81,33.5,44.6,43.2
+JANELA             W,Boutique/Other,155,-29.5,55.3,72.3
+"JANKOWSKI, CFA     S",Goldman Sachs,237,35.9,49.8,62.9
+JAO                A,Lehman Brothers,71,84.4,84.9,33.8
+JAYANT             V,Boutique/Other,65,85.6,98.5,92.3
+JAYANT             V,Evercore ISI,168,41.5,48.1,58.3
+JAYARAM            A,Boutique/Other,118,60.8,66.0,51.7
+JAYARAM            A,JP Morgan,237,20.4,51.7,61.6
+JEFFREY            A,Boutique/Other,572,21.3,39.1,67.0
+JEFFREY            J,Keefe Bruyette & Woods,111,28.9,41.2,71.2
+JEFFREY            S,Nomura Securities,67,22.4,35.7,61.2
+JENKINS            J,Raymond James,399,40.5,47.1,69.2
+JENNINGS           G,Boutique/Other,53,43.5,84.0,26.4
+JENSEN             T,Piper Sandler,254,7.5,48.3,62.2
+JEONG              Y,Boutique/Other,73,24.5,56.9,41.1
+JI                 E,Boutique/Other,87,18.4,63.7,42.5
+JIANG              B,Boutique/Other,55,63.9,107.4,21.8
+JIANG              F,Boutique/Other,60,34.1,68.0,50.0
+JOHNSON            B,Boutique/Other,576,27.1,58.5,60.4
+JOHNSON            G,Boutique/Other,370,-4.8,57.5,56.2
+JOHNSON            W,Raymond James,122,30.0,39.6,77.9
+JOHNSTON           D,Boutique/Other,304,36.0,46.1,50.3
+JOHNSTON           P,Boutique/Other,442,43.7,64.2,54.5
+JOHNSTONE          F,Boutique/Other,185,81.4,86.8,62.2
+JOHONG             L,RBC Capital Markets,131,109.9,116.2,61.8
+JONAS              A,Morgan Stanley,342,4.9,66.4,54.4
+JONAS              B,Boutique/Other,87,-20.9,77.6,52.9
+JONES              C,Boutique/Other,212,17.3,40.6,76.9
+JONES              D,Boutique/Other,111,16.3,31.1,65.8
+JONES              H,Boutique/Other,106,30.7,37.7,59.4
+JONES              N,Stifel Nicolaus,445,10.3,29.1,70.8
+JONES              R,Goldman Sachs,517,4.6,28.2,67.7
+JORDAN             B,Boutique/Other,58,10.0,34.6,81.0
+JORDAN             B,Jefferies,149,-0.8,32.1,67.1
+JOSEY              R,Boutique/Other,190,18.9,68.5,69.5
+JOYCE              D,Boutique/Other,142,84.7,99.9,66.9
+JU                 S,Boutique/Other,719,8.1,53.4,63.7
+JU                 S,RBC Capital Markets,93,-12.6,90.4,81.7
+JUDD               M,Boutique/Other,288,100.0,129.8,60.8
+JUDGE              N,Boutique/Other,93,127.4,127.4,86.0
+JUENGER            T,Bernstein Research,163,1.2,24.8,67.5
+JUHAN              P,Boutique/Other,101,28.8,44.7,74.3
+JUNEJA             V,JP Morgan,539,43.9,51.4,61.6
+JUNGWIRTH          P,Boutique/Other,986,1.7,64.3,57.9
+JUVANE             D,Boutique/Other,117,78.9,94.8,59.0
+KABILI             A,Macquarie Securities,134,30.2,34.6,62.7
+KAD                R,Morgan Stanley,70,36.4,45.7,87.1
+KAHYAOGLU          S,Jefferies,387,5.5,25.7,65.6
+KAIP               A,Boutique/Other,179,24.2,51.3,52.0
+KAISER             M,Piper Sandler,178,38.7,53.4,70.2
+KALIA              S,Boutique/Other,432,-15.8,38.8,63.7
+KALINOWSKI         M,Boutique/Other,359,35.6,45.3,71.9
+KALINOWSKI         M,Nomura Securities,89,15.3,28.9,87.6
+KALLIK             C,D.A. Davidson,58,69.9,88.5,39.7
+KALRA              G,Boutique/Other,55,109.3,109.3,30.9
+KALTON             N,Boutique/Other,575,34.9,36.8,68.2
+KAMATH             S,Bernstein Research,185,112.7,112.8,69.7
+KAMATH             S,Jefferies,145,0.0,23.2,66.2
+KAMDEM             R,Morgan Stanley,108,3.6,33.2,54.6
+KANAGA             T,Boutique/Other,101,-11.9,67.9,47.5
+KANG               D,Boutique/Other,101,-14.0,48.2,66.3
+KANIA              A,Wolfe Research,82,5.8,36.9,78.0
+KANTOR             E,Boutique/Other,55,51.0,65.0,47.3
+KAPADIA            A,Boutique/Other,93,116.8,117.7,57.0
+KAPLAN             M,Boutique/Other,67,1.7,24.0,71.6
+KAPLAN             T,Morgan Stanley,518,-8.1,22.7,67.2
+KAPLOWITZ          A,Boutique/Other,256,74.4,76.5,57.8
+KAPSCH             C,Boutique/Other,155,19.8,40.4,58.7
+KAPUR              A,Piper Sandler,54,38.1,52.8,50.0
+KARAOGLAN          A,Boutique/Other,138,77.2,79.6,58.7
+KARASYOV           V,Boutique/Other,100,-3.0,40.8,67.0
+KARNAUSKAS         R,Boutique/Other,228,16.8,37.2,71.5
+KARP               S,Boutique/Other,222,21.8,29.4,55.0
+KASCHALK           A,Boutique/Other,203,21.1,48.3,68.0
+KASIMOV            C,JP Morgan,211,16.5,37.2,61.1
+KASPRZAK           J,Boutique/Other,131,39.0,51.0,68.7
+KATAI              K,Boutique/Other,233,17.8,36.7,57.9
+KATRI              M,Boutique/Other,227,8.2,28.0,69.2
+KATZ               D,Boutique/Other,245,32.1,68.1,66.5
+KATZ               D,Jefferies,437,15.7,50.2,49.9
+KATZ               W,Boutique/Other,347,85.4,94.9,68.9
+KATZKE             S,Boutique/Other,708,62.7,66.3,56.9
+KATZMAN            E,Boutique/Other,414,66.4,66.6,77.5
+KAUFFMAN           J,Boutique/Other,651,33.6,43.2,66.5
+KAUFMAN            P,Morgan Stanley,142,22.9,27.6,57.0
+KAYE               N,Boutique/Other,260,11.2,24.4,73.8
+KAZARIAN           K,Boutique/Other,99,121.7,123.8,48.5
+KEANE              B,Boutique/Other,415,20.3,35.1,73.3
+KEATING            M,Boutique/Other,255,31.0,39.1,63.9
+KEAY               H,Wolfe Research,564,24.2,38.2,57.1
+KEE                T,Boutique/Other,55,-24.5,34.3,40.0
+KEES               J,Boutique/Other,141,-7.8,51.2,60.3
+KEIRSTEAD          K,Boutique/Other,279,-11.5,35.3,71.3
+KEISER             D,Boutique/Other,83,6.7,18.8,80.7
+KEITH              P,Piper Sandler,432,5.6,32.0,73.4
+KEJRIWAL           A,Boutique/Other,129,53.0,60.2,82.2
+KELLEHER           M,Boutique/Other,69,6.0,60.7,72.5
+KELLEHER           M,D.A. Davidson,96,21.3,37.9,61.5
+KELLEY             D,Jefferies,208,13.6,36.1,56.7
+KELLEY             M,Boutique/Other,71,-42.1,72.6,69.0
+KELLEY             M,Morgan Stanley,124,75.8,76.2,86.3
+KELLEY             M,Stifel Nicolaus,76,-7.6,37.4,68.4
+KELLEY             S,Merrill Lynch / BofA,834,19.3,53.5,61.9
+KELLY              E,Boutique/Other,429,4.6,34.4,65.0
+KELLY              J,Goldman Sachs,88,110.7,114.7,43.2
+KELLY              M,Boutique/Other,210,45.3,55.4,44.3
+KELTER             M,Goldman Sachs,258,29.8,43.0,78.7
+"KENT, CFA          S",Goldman Sachs,591,30.6,57.1,51.4
+KESSLER            A,Boutique/Other,78,18.9,61.0,75.6
+KESSLER            A,Raymond James,149,-3.0,45.0,71.8
+KESSLER            R,Boutique/Other,818,95.6,95.6,79.6
+KESTEN             D,Boutique/Other,218,-2.8,25.2,66.5
+KEUNG              P,Boutique/Other,63,47.7,76.1,66.7
+KEUSCH             L,Boutique/Other,53,30.2,58.6,73.6
+KEUSCH             L,Raymond James,166,13.8,29.5,82.5
+KHAJURIA           S,Evercore ISI,80,39.8,51.9,31.2
+KHAN               I,JP Morgan,75,9.4,61.6,85.3
+KHAN               N,Boutique/Other,201,21.7,63.1,50.2
+KHAN               S,RBC Capital Markets,68,11.6,40.9,54.4
+KHANAL             S,Evercore ISI,114,22.7,41.5,63.2
+KHANI              D,Boutique/Other,107,73.5,81.1,68.2
+KHORSAND           H,Boutique/Other,86,24.4,59.9,55.8
+KIANI              J,Boutique/Other,173,129.9,131.7,56.1
+KIDRON             I,Boutique/Other,272,37.7,60.3,56.6
+KIM                D,Boutique/Other,74,15.1,29.5,67.6
+KIM                I,Goldman Sachs,148,25.1,26.8,58.1
+KIM                J,Boutique/Other,517,37.0,46.5,66.0
+KIM                K,Boutique/Other,354,47.0,57.1,60.5
+KIM                K,Macquarie Securities,55,47.5,69.0,87.3
+KIM                M,Boutique/Other,57,13.4,47.0,70.2
+KIM                M,Sandler O'Neill,441,94.4,99.8,62.6
+KIM                N,Boutique/Other,54,13.1,45.5,63.0
+KIM                S,Boutique/Other,334,15.6,29.9,73.1
+KIM                S,Evercore ISI,482,3.0,35.2,72.2
+KIM                T,Goldman Sachs,242,27.3,31.6,69.8
+KIM                Y,Boutique/Other,173,-0.1,39.1,65.3
+KIMBALL            D,Lehman Brothers,73,33.1,51.9,76.7
+KINAR              Y,Boutique/Other,212,39.9,42.4,79.2
+KINAR              Y,Goldman Sachs,338,4.3,23.2,74.9
+KINAR              Y,Jefferies,232,-5.5,16.7,85.8
+KING               B,Boutique/Other,180,14.1,33.3,68.9
+KING               C,Stifel Nicolaus,59,202.2,202.2,83.1
+KING               M,Boutique/Other,128,23.6,53.5,68.0
+KING               W,Boutique/Other,51,28.0,54.5,56.9
+KINTISHEFF         T,Boutique/Other,203,61.3,83.4,46.3
+KIRJNER            C,Bernstein Research,60,16.0,57.9,75.0
+KIRK               W,Boutique/Other,165,1.1,38.6,53.3
+KIRN               H,Boutique/Other,50,44.0,46.7,74.0
+KIRST              C,Boutique/Other,165,150.7,154.2,72.1
+KISNER             J,Jefferies,111,40.7,57.5,69.4
+KISSANE            J,Boutique/Other,55,73.7,85.3,65.5
+KISSANE            J,Merrill Lynch / BofA,71,31.2,51.9,73.2
+KISSEL             P,Boutique/Other,319,76.1,77.5,39.5
+KISTLER            D,Boutique/Other,219,67.7,73.1,49.3
+KISTLER            D,Piper Sandler,87,66.2,70.4,43.7
+KIVITZ             G,Boutique/Other,58,26.9,38.2,72.4
+KJELLBERG          L,Boutique/Other,108,37.0,45.2,62.0
+KLASELL            T,Boutique/Other,94,26.7,63.1,51.1
+KLASKOW            L,Boutique/Other,61,43.5,47.0,93.4
+KLATZKIN           L,Jefferies,150,153.9,165.9,50.0
+KLAUBER            A,Boutique/Other,70,57.1,61.3,72.9
+KLEIN              A,Boutique/Other,178,0.5,30.3,59.6
+KLEIN              B,Keefe Bruyette & Woods,381,22.0,34.0,58.5
+KLIGERMAN          A,Boutique/Other,136,14.8,32.0,68.4
+KLINE CFA          J,Sandler O'Neill,78,133.0,133.0,79.5
+KLINEFELTER        J,Piper Sandler,556,35.8,68.0,64.4
+KLOCK              B,Keefe Bruyette & Woods,433,34.2,45.1,61.2
+KNIGHT             P,Boutique/Other,222,15.9,41.0,72.1
+KOENIG             S,Boutique/Other,206,-8.2,27.4,61.7
+KOFFMAN            T,Raymond James,63,76.7,86.5,54.0
+KOHLER             A,Boutique/Other,72,91.3,96.2,66.7
+KONEZNY            G,Piper Sandler,62,59.1,79.7,41.9
+KONIK              R,Jefferies,560,4.7,50.1,58.8
+KONOLIGE           K,Boutique/Other,115,93.1,94.0,86.1
+KONRAD             D,D.A. Davidson,101,-9.8,34.5,87.1
+KONRAD             D,Keefe Bruyette & Woods,390,36.9,47.8,54.1
+KONRAD             D,Macquarie Securities,337,36.2,39.1,62.9
+KOONTZ             R,Boutique/Other,75,-30.8,47.9,62.7
+"KOORT, CFA         R",Goldman Sachs,1130,38.3,56.4,67.4
+KORN               M,Boutique/Other,121,36.7,47.1,59.5
+"KORN, CFA          M",Goldman Sachs,80,32.5,56.2,36.2
+KOTOWSKI           C,Boutique/Other,857,58.3,64.7,65.9
+KOUJALGI           I,Boutique/Other,57,7.7,43.6,40.4
+KOVAC              M,Goldman Sachs,95,19.9,28.4,81.1
+KOVALEV            A,Boutique/Other,88,16.6,28.6,63.6
+KOZAK              M,Boutique/Other,83,29.0,57.0,48.2
+KOZLOFF            E,Bernstein Research,72,72.6,75.1,62.5
+KOZNAREK           M,Boutique/Other,113,73.9,73.9,79.6
+KRAFT              B,Boutique/Other,284,34.2,48.1,54.6
+KRAFT              B,Evercore ISI,54,52.7,75.9,75.9
+KRAFT              J,D.A. Davidson,65,59.5,69.5,67.7
+KRAMER             R,Boutique/Other,118,-12.2,40.2,66.9
+KRASIK             S,Boutique/Other,155,3.7,37.9,64.5
+KRAUS              E,Boutique/Other,319,18.6,28.7,70.5
+KRAVEC             T,Boutique/Other,101,97.5,98.6,51.5
+KREPS              L,Boutique/Other,133,100.4,103.5,63.2
+KREWSON            S,Boutique/Other,57,146.0,146.0,86.0
+"KRON, CFA          S",Goldman Sachs,238,67.6,83.0,62.6
+KRUEGER            R,Keefe Bruyette & Woods,546,31.2,37.3,68.3
+KUBACKI            K,Boutique/Other,106,30.0,41.0,67.0
+KUCERA             C,Boutique/Other,88,49.3,66.1,62.5
+KUGELE             R,Needham & Company,168,121.9,124.3,57.7
+KUKLINSKI          P,Boutique/Other,93,55.7,62.7,45.2
+KULJU              K,Boutique/Other,74,143.8,145.9,35.1
+KULKARNI           R,Boutique/Other,149,-11.5,58.4,67.8
+KUMAR              A,Boutique/Other,194,13.9,45.8,54.6
+KUMAR              A,Macquarie Securities,109,20.5,24.5,84.4
+KUMAR              H,Boutique/Other,114,12.0,33.9,71.9
+KUMAR              H,Piper Sandler,280,-12.3,41.1,71.4
+KUMAR              N,Boutique/Other,414,17.9,61.3,65.0
+KUMAR              N,Morgan Stanley,69,-16.7,48.0,69.6
+KUMAR              S,Boutique/Other,148,28.5,51.3,52.0
+KUMAR              V,Evercore ISI,743,4.3,26.3,63.8
+KUMMETZ            M,Boutique/Other,251,5.9,35.6,61.8
+KUMMETZ            M,D.A. Davidson,95,21.0,49.0,73.7
+KUPFERBERG         J,Jefferies,149,12.2,23.3,79.2
+KUPFERBERG         J,Merrill Lynch / BofA,335,4.8,28.3,66.0
+KUPLENT            C,Merrill Lynch / BofA,78,47.3,51.5,55.1
+KURN               S,Boutique/Other,61,12.6,21.8,88.5
+KURNOS             D,Boutique/Other,204,32.2,61.3,65.7
+KURTZ              A,Boutique/Other,146,2.1,38.2,63.7
+KURTZ              E,Morgan Stanley,59,46.5,62.8,55.9
+KVAAL              J,Boutique/Other,245,18.5,51.3,61.6
+KVAAL              J,Nomura Securities,86,9.1,48.7,64.0
+KVAAL              J,Wolfe Research,61,7.6,33.1,54.1
+KWAS               R,Boutique/Other,107,52.4,55.3,59.8
+KWOK               S,Keefe Bruyette & Woods,81,1.4,41.8,67.9
+KWON               E,Boutique/Other,56,21.5,51.3,75.0
+LAAMAN             S,Morgan Stanley,135,1.8,21.6,74.1
+LABOY              C,Boutique/Other,117,54.8,59.8,68.4
+LACHE              R,Boutique/Other,618,50.9,69.2,59.7
+LACHE              R,Wolfe Research,115,35.4,45.3,49.6
+LAFEMINA           C,Jefferies,333,13.9,74.3,58.3
+LAFLEUR            R,Boutique/Other,130,38.6,48.0,63.8
+LAKE               J,JP Morgan,125,-11.5,24.3,88.8
+LAKE               J,Wolfe Research,383,-0.8,24.8,68.4
+LAKNER             D,Boutique/Other,171,25.4,50.8,53.8
+LALWANI            R,Morgan Stanley,539,23.3,31.4,53.4
+LAMBA              A,Boutique/Other,120,41.4,62.1,70.0
+LAMBUJON           J,Boutique/Other,703,21.8,63.6,60.2
+LAMOTTE            M,Boutique/Other,227,65.7,69.5,44.9
+LAMOTTE            M,JP Morgan,63,79.0,84.1,74.6
+LAMPARD            G,Canaccord Genuity,102,114.0,137.8,45.1
+LANDRY             A,Boutique/Other,726,26.7,42.8,71.1
+LANDRY             M,Boutique/Other,52,-2.1,36.7,86.5
+LANE               J,Stifel Nicolaus,68,12.2,44.7,44.1
+LANGAN             C,Boutique/Other,269,20.3,34.8,45.4
+LANGENBERG         B,Boutique/Other,188,75.3,82.6,71.8
+LANGLET            N,Boutique/Other,58,5.7,28.2,56.9
+LANGTON            T,JP Morgan,82,24.0,40.0,51.2
+LANNI              B,Boutique/Other,52,141.7,141.7,86.5
+LAPIDES            M,Goldman Sachs,1720,53.5,55.9,72.8
+LAPLANTE           D,Keefe Bruyette & Woods,53,88.5,88.5,86.8
+LAPRADE            B,Boutique/Other,284,41.3,64.4,65.1
+LARKIN             J,Boutique/Other,75,43.3,53.5,92.0
+LARKIN             J,Stifel Nicolaus,510,49.5,56.5,72.9
+LARSEN             C,Piper Sandler,86,89.1,95.4,86.0
+LARSEN             D,Boutique/Other,166,23.2,35.0,51.8
+LARSON             E,Boutique/Other,148,19.7,32.9,61.5
+LARSON             E,Piper Sandler,81,68.9,77.9,61.7
+LASKY              B,Morgan Stanley,56,168.8,168.8,23.2
+LASSER             M,Boutique/Other,130,38.4,60.1,80.8
+LATIMORE           M,Boutique/Other,67,-10.1,75.8,64.2
+LAU                J,Jefferies,78,66.2,76.5,42.3
+LAU                O,Boutique/Other,144,8.8,19.3,72.9
+LAUNER             C,Boutique/Other,137,184.5,188.1,75.2
+LAVERY             M,Boutique/Other,79,75.8,76.0,82.3
+LAVERY             M,Piper Sandler,257,32.3,37.2,54.9
+LAVIN              S,Boutique/Other,68,-9.7,28.8,79.4
+LAVIN              S,Lazard Capital Markets,99,18.2,35.8,71.7
+LAWRENCE           J,Boutique/Other,102,20.4,37.8,85.3
+LAWS               A,Boutique/Other,153,53.9,65.4,56.9
+LAWSON             P,Boutique/Other,127,1.5,33.2,68.5
+LAZAR              A,Boutique/Other,391,32.3,38.7,66.0
+LAZAR              A,Lehman Brothers,95,76.7,78.4,55.8
+LAZAROVICI         V,Boutique/Other,74,68.8,75.7,77.0
+LEACH              W,Boutique/Other,55,148.3,148.3,72.7
+LEAR               M,Boutique/Other,173,46.0,52.4,53.8
+LEAR               M,Jefferies,100,80.0,81.5,19.0
+LEAR               M,Piper Sandler,245,9.5,53.7,69.0
+LEBIEDZINSKI       A,Boutique/Other,70,-3.9,26.8,78.6
+LECKOW             D,Boutique/Other,76,40.1,59.6,81.6
+LECROY             J,Boutique/Other,176,53.3,68.1,64.2
+LEE                F,Boutique/Other,55,-23.9,56.4,70.9
+LEE                J,Boutique/Other,266,-0.6,47.1,72.2
+LEE                K,RBC Capital Markets,127,34.0,56.6,62.2
+LEE                R,Keefe Bruyette & Woods,1185,68.6,77.6,65.5
+"LEE, CFA           B",Goldman Sachs,371,-8.2,63.9,49.9
+LEES               A,RBC Capital Markets,56,21.2,43.4,92.9
+LEGGATE            D,Merrill Lynch / BofA,892,45.9,61.1,62.7
+LEHRICH            D,Boutique/Other,357,18.5,36.5,65.5
+LEITHEAD           M,Boutique/Other,250,14.5,42.1,61.6
+LEJUEZ             P,Boutique/Other,50,18.6,54.2,74.0
+LEJUEZ             P,Nomura Securities,55,14.9,45.9,63.6
+LEMOINE            L,Boutique/Other,585,42.4,67.7,42.7
+LEMOINE            L,Piper Sandler,67,25.0,42.0,56.7
+LENSCHOW           R,Boutique/Other,517,-2.7,28.9,68.5
+LEON               K,Boutique/Other,70,53.2,59.4,67.1
+LEONARD            D,Boutique/Other,442,-2.3,26.4,71.7
+LEOPOLD            S,Raymond James,212,27.3,44.6,62.3
+LERNER             W,Boutique/Other,111,83.2,105.7,57.7
+LESIAK             T,Canaccord Genuity,143,39.0,58.8,40.6
+LESNICK            T,Boutique/Other,75,48.0,48.0,72.0
+LEUNG              E,Boutique/Other,64,9.5,85.1,56.2
+LEUNG              E,Merrill Lynch / BofA,78,11.4,71.0,51.3
+LEUNG              G,Boutique/Other,128,25.1,31.9,72.7
+LEUPP              J,RBC Capital Markets,134,135.4,135.4,98.5
+LEVENSON           S,Stifel Nicolaus,59,32.1,40.6,66.1
+LEVIN              M,Boutique/Other,117,50.8,60.8,74.4
+LEVINE             M,Boutique/Other,58,-69.8,92.3,81.0
+LEVINE             S,JP Morgan,142,57.9,86.5,68.3
+LEVY               B,Boutique/Other,269,6.0,40.2,66.2
+LEVY               C,Boutique/Other,293,27.6,36.4,83.6
+LEVY               C,Macquarie Securities,98,7.6,26.6,69.4
+LEVY               D,Boutique/Other,194,5.4,61.9,44.3
+LEVY               T,Boutique/Other,225,17.0,49.6,64.0
+LEWANDOWSKI        L,Merrill Lynch / BofA,109,67.2,68.2,74.3
+LEWIS              C,Morgan Stanley,71,110.9,110.9,49.3
+LEWIS              D,Boutique/Other,65,76.1,76.9,56.9
+LEWIS              D,Morgan Stanley,435,15.8,36.5,81.4
+LEWIS              E,Boutique/Other,196,13.7,21.2,62.8
+LEWIS              G,Boutique/Other,136,39.9,68.8,55.1
+LEWIS              H,Boutique/Other,141,83.8,85.2,73.8
+LEWIS              M,Boutique/Other,394,43.0,48.5,55.8
+LI                 C,Merrill Lynch / BofA,51,12.0,42.8,80.4
+LI                 H,Boutique/Other,77,25.7,48.0,58.4
+LI                 S,Boutique/Other,89,27.2,38.0,69.7
+LIANI              T,Merrill Lynch / BofA,528,5.6,38.9,66.9
+LICHTMAN           S,Boutique/Other,358,4.1,29.8,68.2
+LIEBERMAN          L,Boutique/Other,813,22.1,32.9,69.2
+LIEBERMAN          L,Lehman Brothers,50,74.5,74.5,58.0
+LIM                A,Boutique/Other,153,11.0,31.7,68.0
+LINDSAY            J,Bernstein Research,59,33.8,108.3,62.7
+LINENBERG          M,Boutique/Other,369,22.2,38.9,55.3
+LINENBERG          M,Merrill Lynch / BofA,57,47.4,55.6,56.1
+LINZEY             B,Boutique/Other,206,-5.8,27.0,64.6
+LIPACIS            M,Boutique/Other,129,58.7,75.4,48.1
+LIPACIS            M,Jefferies,506,3.6,41.7,75.7
+LIPACIS            M,Morgan Stanley,79,47.5,59.1,67.1
+LIPSCHITZ          D,Boutique/Other,176,25.4,41.8,59.1
+LIPSCHITZ          D,Macquarie Securities,60,44.9,46.2,28.3
+LIPTAK             W,Boutique/Other,323,32.6,51.1,67.8
+LIS                H,Boutique/Other,60,45.1,65.5,55.0
+LISTON             T,Boutique/Other,86,25.9,35.6,74.4
+LIVELY             B,Boutique/Other,134,63.6,68.8,53.0
+LIWAG              K,Morgan Stanley,95,9.5,22.1,75.8
+LOFIEGO            T,Boutique/Other,73,57.5,77.6,63.0
+LOFIEGO            T,Merrill Lynch / BofA,58,70.0,107.5,44.8
+LOGSDON            J,Boutique/Other,230,40.1,64.2,59.1
+LONG               D,Raymond James,353,41.7,46.6,66.9
+LONG               J,Boutique/Other,454,11.4,25.9,65.6
+LONG               T,Boutique/Other,742,24.2,49.0,59.6
+LONGLEY            A,Boutique/Other,244,38.9,45.7,84.4
+LOUTHAN            F,Raymond James,182,69.8,76.3,68.7
+LOVAGLIO           V,Boutique/Other,181,-12.7,62.3,76.2
+LOVALLO            J,Merrill Lynch / BofA,364,-7.2,42.2,74.7
+LOWRANCE           F,Boutique/Other,102,3.0,35.5,86.3
+LOWY               G,Boutique/Other,75,5.1,47.1,41.3
+LU                 M,Boutique/Other,93,17.7,35.5,54.8
+"LU, PH.D           D",Goldman Sachs,84,47.3,51.0,83.3
+LUCAS              C,Boutique/Other,128,109.0,111.9,60.2
+LUCAS              J,Boutique/Other,261,65.6,73.2,80.5
+LUEBCHOW           E,Boutique/Other,113,21.5,29.6,57.5
+LUKE               T,Boutique/Other,119,20.8,56.1,69.7
+LUKE               T,Lehman Brothers,195,75.4,81.9,46.7
+LUNDBERG           G,Boutique/Other,51,138.1,143.3,70.6
+LUNDBERG           J,Boutique/Other,68,-25.0,81.7,38.2
+LURIA              G,Boutique/Other,116,11.3,48.9,87.1
+LUSTGARTEN         E,Boutique/Other,173,64.9,73.1,66.5
+LUTHRA             C,Goldman Sachs,99,35.8,41.3,21.2
+LYNAGH             C,Morgan Stanley,281,15.8,59.6,51.2
+LYNCH              B,Boutique/Other,116,22.0,46.5,48.3
+LYNCH              C,Boutique/Other,74,64.3,68.4,54.1
+LYNCH              J,Boutique/Other,188,-0.0,27.5,70.2
+LYNK               Y,Canaccord Genuity,53,40.4,41.6,50.9
+LYON               C,Boutique/Other,208,12.3,39.2,65.9
+LYON               C,Canaccord Genuity,243,9.7,38.4,60.9
+MACARTHUR          B,Boutique/Other,51,23.3,27.4,52.9
+MACARTHUR          B,Raymond James,190,23.0,54.2,62.1
+MACCARTHY          B,Boutique/Other,97,25.6,58.5,53.6
+MACDONALD          D,Boutique/Other,609,12.2,33.2,60.4
+MACGREGOR          D,Boutique/Other,271,22.4,48.5,65.7
+MACKENZIE          R,Boutique/Other,330,48.8,60.7,64.8
+MACKEY             K,RBC Capital Markets,83,35.6,42.5,48.2
+MACMILLAN          R,Jefferies,197,-3.4,28.9,76.6
+MACMILLAN          R,RBC Capital Markets,176,-18.8,30.8,82.4
+MACPHERSON         I,Piper Sandler,205,-10.8,59.3,58.0
+MACRURY            C,Canaccord Genuity,259,19.2,43.9,60.2
+MADHUKAR           K,Boutique/Other,73,-27.9,81.0,72.6
+MAGEE              D,Boutique/Other,292,75.0,78.9,58.9
+MAGNER             J,Boutique/Other,82,39.8,57.2,70.7
+MAGNER             J,Macquarie Securities,132,44.1,51.6,51.5
+MAGUIRE            E,Boutique/Other,140,14.6,26.8,78.6
+"MAGUIRE, CFA       B",Goldman Sachs,352,17.2,34.0,68.8
+MAHANEY            M,Evercore ISI,175,29.4,50.9,53.7
+MAHANEY            M,RBC Capital Markets,381,-20.6,54.2,75.3
+MAHER              B,Boutique/Other,155,45.9,59.3,59.4
+MAINS              R,Boutique/Other,174,56.3,61.3,68.4
+MAJORS             B,Susquehanna Financial,688,26.3,36.0,67.9
+MAJUMDAR           I,Boutique/Other,1807,12.4,30.7,60.1
+MAKLARI            S,Boutique/Other,88,15.4,35.1,43.2
+MAKLARI            S,Goldman Sachs,341,-9.1,38.1,61.6
+MAKRIS             J,Boutique/Other,73,30.0,50.7,57.5
+MALAT              S,Goldman Sachs,92,46.7,50.2,73.9
+MALDE              K,Boutique/Other,174,8.5,27.1,63.8
+MALHOTRA           V,Boutique/Other,51,27.2,42.4,49.0
+MALHOTRA           V,Morgan Stanley,131,32.1,37.7,61.1
+MALIK              A,Morgan Stanley,59,33.3,57.5,47.5
+MALKIN             N,Boutique/Other,92,30.8,42.4,44.6
+MALLOY             M,Boutique/Other,361,46.1,62.7,54.6
+MAMMONE            C,Boutique/Other,75,18.8,57.1,62.7
+MAMTORA            K,Boutique/Other,61,-10.7,32.3,67.2
+MANAKER            S,Stifel Nicolaus,62,8.7,26.8,72.6
+MANDEL             M,Boutique/Other,104,31.3,47.5,70.2
+MANDEVILLE         C,Jefferies,164,-4.6,29.2,74.4
+MANDLOI            M,Boutique/Other,82,-27.5,91.3,39.0
+MANEATY            C,Boutique/Other,333,57.9,61.4,81.1
+MANNES             D,Boutique/Other,52,1.2,58.2,51.9
+MANNHEIMER         G,Boutique/Other,73,10.4,35.5,64.4
+MANUEL             C,Boutique/Other,111,24.5,40.9,59.5
+MARAL              K,RBC Capital Markets,66,22.3,41.1,43.9
+MARCHON            V,RBC Capital Markets,154,38.8,55.1,70.1
+MARCUS             R,JP Morgan,139,8.3,30.0,60.4
+MARCUSE            I,Boutique/Other,55,41.5,44.7,67.3
+MARESCA            S,Morgan Stanley,142,154.8,154.9,95.8
+MARGOLIN           S,Wolfe Research,269,31.5,49.1,67.3
+MARHULA            D,Piper Sandler,54,69.8,73.8,70.4
+MARIANI            L,Boutique/Other,303,-4.8,55.5,65.3
+MARIANI            L,RBC Capital Markets,239,54.2,58.6,54.0
+MARIETTA           M,Boutique/Other,143,24.5,66.3,32.9
+MARINAC            C,Boutique/Other,264,52.5,65.1,67.4
+MARIS              D,Boutique/Other,82,28.6,37.0,56.1
+MARKS              W,Boutique/Other,113,70.4,71.3,75.2
+MAROSTICA          M,Piper Sandler,77,10.2,44.1,59.7
+MAROTTA            S,Boutique/Other,97,18.3,36.7,61.9
+MARQUARDT          A,Boutique/Other,140,92.8,99.0,39.3
+MARQUARDT          A,Evercore ISI,217,37.5,39.9,82.5
+MARRONE            J,Boutique/Other,53,0.5,15.8,83.0
+MARS               R,Boutique/Other,144,38.3,44.6,72.9
+MARSH              J,Piper Sandler,65,14.4,40.1,75.4
+MARSH              L,Boutique/Other,96,32.7,35.7,85.4
+MARSH              L,Lehman Brothers,150,48.5,65.7,69.3
+MARSHALL           B,Boutique/Other,92,44.1,77.9,68.5
+MARSHALL           C,Boutique/Other,72,162.5,165.8,41.7
+MARSHALL           M,Morgan Stanley,205,-11.2,45.8,53.7
+MARTIN             B,Boutique/Other,53,4.0,26.9,69.8
+MARTIN             D,Boutique/Other,161,39.6,72.6,55.9
+MARTIN             L,Needham & Company,118,-6.8,42.2,72.0
+MARTIN             P,Boutique/Other,90,56.3,64.5,56.7
+MARTINEZ           S,Boutique/Other,76,31.0,65.1,72.4
+MARTINUZZI         E,Boutique/Other,85,6.6,34.2,57.6
+MASDEA             M,Boutique/Other,107,49.8,66.3,47.7
+MASSARO            M,Canaccord Genuity,108,10.3,23.9,62.0
+MATERNE            K,Evercore ISI,386,-9.9,31.6,74.9
+MATHIVANAN         D,Boutique/Other,165,-46.6,66.8,61.8
+MATHIVANAN         D,Wolfe Research,224,15.3,49.0,52.7
+MATSON             M,Boutique/Other,65,30.9,56.5,73.8
+MATSON             M,Needham & Company,149,17.6,26.4,74.5
+MATTAR             F,Goldman Sachs,51,236.9,240.7,33.3
+MATTEIS            P,Stifel Nicolaus,129,16.5,29.6,47.3
+MATUSZEWSKI        J,Jefferies,279,-34.7,68.8,67.0
+MAURER             C,Boutique/Other,207,36.9,55.3,76.8
+MAVRINAC           D,Jefferies,92,74.7,83.8,50.0
+MAY                H,Macquarie Securities,233,60.6,66.7,65.2
+MAY                K,Boutique/Other,97,46.6,79.4,70.1
+MAY                M,Boutique/Other,101,65.9,69.2,93.1
+MAYER              C,Merrill Lynch / BofA,177,88.2,94.1,80.8
+MAYER              M,Boutique/Other,116,141.7,141.7,75.9
+MAYO               M,Boutique/Other,1155,48.1,57.4,62.7
+MAYO               W,Boutique/Other,106,10.0,32.3,66.0
+MAZARI             H,Boutique/Other,136,34.9,41.8,85.3
+MAZARI             H,Jefferies,185,-8.0,34.1,78.9
+MAZARI             H,Macquarie Securities,106,6.9,19.6,75.5
+MAZZAFERRO         A,Goldman Sachs,58,100.6,108.0,50.0
+MAZZAFERRO         A,Macquarie Securities,121,37.7,53.8,59.5
+MCADOO             B,Boutique/Other,141,27.2,51.3,71.6
+MCALLISTER         M,Boutique/Other,79,85.6,90.0,16.5
+MCCALL             M,Boutique/Other,51,3.7,30.3,74.5
+MCCANDLESS         T,Boutique/Other,59,97.2,97.2,64.4
+MCCANLESS          J,Boutique/Other,351,11.3,51.5,65.8
+MCCANN             J,Boutique/Other,50,61.4,61.4,90.0
+MCCARTHY           K,Boutique/Other,872,32.8,51.3,62.5
+MCCARTHY           K,Merrill Lynch / BofA,405,57.0,70.4,74.3
+MCCARTHY           R,Boutique/Other,243,54.8,72.1,68.3
+MCCARTHY           R,Stifel Nicolaus,332,37.1,46.1,70.2
+MCCARVER           B,Boutique/Other,50,44.5,54.6,62.0
+MCCLINTOCK         M,Boutique/Other,162,16.5,35.4,68.5
+MCCONNELL          M,Boutique/Other,179,46.4,58.4,65.9
+"MCCONNELL, CFA     M",RBC Capital Markets,72,17.4,32.1,63.9
+MCCORMACK          M,Boutique/Other,61,101.1,111.6,75.4
+MCCORMACK          M,Jefferies,86,39.9,45.8,83.7
+MCCROHAN           T,Boutique/Other,188,5.8,31.3,75.0
+MCDERMOTT          D,Morgan Stanley,500,9.9,49.9,61.6
+MCDONALD           J,Bernstein Research,394,46.3,48.8,71.8
+MCDONALD           J,Boutique/Other,129,96.4,96.4,47.3
+"MCDONALD, CFA      C",Boutique/Other,124,35.6,42.1,54.8
+MCDOWELL           G,Boutique/Other,60,12.2,28.9,65.0
+MCELROY            C,Boutique/Other,91,186.3,186.3,22.0
+MCEVOY             T,Boutique/Other,304,35.5,50.7,60.9
+MCFADDEN           C,Goldman Sachs,52,25.0,58.5,61.5
+MCGANN             F,Merrill Lynch / BofA,163,200.0,203.4,60.1
+MCGILL             B,Boutique/Other,210,44.4,66.2,62.9
+MCGINNISS          G,Boutique/Other,137,13.2,28.7,64.2
+MCGINTY            J,Boutique/Other,105,78.9,87.2,90.5
+MCGLONE            C,Boutique/Other,104,63.7,64.9,69.2
+MCGOWAN            S,Needham & Company,74,61.5,70.9,68.9
+MCGRANAHAN         C,Bernstein Research,426,46.1,59.5,74.4
+MCGRATH            M,Boutique/Other,221,14.7,31.7,63.3
+MCGRATH            S,Evercore ISI,95,41.1,42.8,74.7
+MCGRATH            S,Keefe Bruyette & Woods,71,98.7,98.7,71.8
+MCGRATTY           C,Keefe Bruyette & Woods,306,18.9,37.0,52.9
+MCKECHNIE          M,Boutique/Other,71,98.2,104.2,39.4
+MCKEEVER           P,Boutique/Other,410,27.2,40.6,75.1
+MCKENZIE           D,Boutique/Other,593,33.9,45.7,54.5
+MCMAHON            N,Bernstein Research,202,164.0,164.0,62.9
+MCMANUS            J,Needham & Company,53,92.2,92.6,15.1
+MCMANUS            S,Boutique/Other,58,31.3,57.8,41.4
+MCMILLIN           J,Boutique/Other,250,74.3,77.0,69.2
+MCMINN             R,Merrill Lynch / BofA,124,-2.9,38.4,87.9
+MCNALLY            C,Evercore ISI,162,4.4,56.4,59.3
+MCNULTY            J,Boutique/Other,902,49.3,59.7,72.2
+MCREYNOLDS         D,RBC Capital Markets,93,41.5,49.9,79.6
+"MCSHANE, CFA       K",Goldman Sachs,651,-18.0,44.0,69.0
+MCSPIRIT           D,Boutique/Other,245,28.0,43.4,44.1
+MCTERNAN           B,Boutique/Other,53,0.9,28.4,58.5
+MCVEIGH            K,Boutique/Other,235,2.3,24.0,69.8
+MCVEIGH            K,Macquarie Securities,112,28.8,40.3,81.2
+MCVEY              H,Morgan Stanley,63,87.2,88.1,54.0
+MEACHAM            G,Boutique/Other,171,24.6,36.7,64.3
+MEACHAM            G,JP Morgan,99,-9.0,51.3,62.6
+MEACHAM            G,Merrill Lynch / BofA,248,10.1,28.5,58.1
+MEADE              C,Boutique/Other,127,47.4,69.7,53.5
+MEAKIM             S,JP Morgan,169,39.1,56.7,40.2
+MEALOR             C,Keefe Bruyette & Woods,76,21.5,37.3,52.6
+MEEHAN             J,Boutique/Other,442,-2.6,25.5,60.6
+MEHROTRA           A,Boutique/Other,486,21.6,44.7,64.0
+MEHROTRA           R,Boutique/Other,66,-1.8,36.8,81.8
+MEHTA              G,Boutique/Other,103,40.1,40.7,71.8
+MEHTA              K,Boutique/Other,101,55.1,62.6,55.4
+MEHTA              N,Goldman Sachs,664,13.3,39.8,71.2
+MELICH             G,Boutique/Other,304,17.0,41.8,82.2
+MELICH             G,Evercore ISI,923,7.2,27.3,66.7
+MELICH             G,Morgan Stanley,71,58.2,60.5,52.1
+MELIKER            R,Boutique/Other,66,45.8,50.2,69.7
+MELIKER            R,Canaccord Genuity,62,27.3,34.5,67.7
+MEREDITH           B,Boutique/Other,115,62.1,63.5,78.3
+MERRIMAN           J,Bernstein Research,154,-4.7,38.9,65.6
+MERWIN             C,Goldman Sachs,73,-39.9,62.8,64.4
+METZ               J,Boutique/Other,75,36.5,48.1,62.7
+MEYER              J,Boutique/Other,61,105.6,105.7,75.4
+MEYER              R,Boutique/Other,184,12.0,45.3,57.1
+MICENKO            J,Susquehanna Financial,435,26.1,48.1,65.1
+MICHELS            M,Boutique/Other,159,90.7,92.0,54.7
+MIHALOS            G,Boutique/Other,81,6.9,26.2,88.9
+MIKSIC             M,Boutique/Other,207,14.7,24.5,61.8
+MIKSIC             M,Piper Sandler,93,58.5,63.2,75.3
+MILLER             D,Boutique/Other,371,12.4,49.1,65.2
+MILLER             G,Boutique/Other,244,62.7,72.0,63.9
+MILLER             G,Canaccord Genuity,120,41.6,49.8,80.8
+MILLER             H,Boutique/Other,67,9.9,39.0,67.2
+MILLER             J,Boutique/Other,68,10.0,31.1,95.6
+MILLER             L,Boutique/Other,55,95.6,95.6,83.6
+MILLER             L,RBC Capital Markets,199,48.5,72.4,68.8
+MILLER             M,Boutique/Other,190,67.9,80.1,54.2
+MILLER             P,Boutique/Other,238,48.0,58.2,65.1
+MILLIGAN/PURYEAR,Raymond James,67,80.2,80.2,94.0
+MILLMAN            M,Boutique/Other,71,35.6,50.7,60.6
+MILLS              J,Canaccord Genuity,160,-11.5,27.5,71.9
+MILNE              S,Boutique/Other,112,65.9,98.2,59.8
+MILNER             W,Boutique/Other,68,53.1,70.2,55.9
+MILOTA             K,JP Morgan,85,26.9,34.7,65.9
+MILSAPS            B,Piper Sandler,94,5.9,44.9,56.4
+MILSAPS            B,Sandler O'Neill,387,28.1,42.2,56.1
+MILUNOVICH         S,Merrill Lynch / BofA,54,88.5,98.6,48.1
+MIMS               J,Boutique/Other,110,52.5,53.7,70.9
+MINERVINO          C,Susquehanna Financial,944,37.3,57.4,49.4
+MINTZ              J,Boutique/Other,80,-4.9,60.0,56.2
+MINYARD            K,JP Morgan,92,68.6,68.6,84.8
+MISCIOSCIA         L,Boutique/Other,353,18.5,58.7,66.9
+MISCIOSCIA         L,Lehman Brothers,112,41.1,64.9,40.2
+MISEK              P,Canaccord Genuity,62,42.8,65.7,71.0
+MISHAN             M,Boutique/Other,78,18.3,26.7,67.9
+MISQUITH           V,Boutique/Other,149,35.4,38.1,82.6
+MISQUITH           V,Evercore ISI,170,18.4,20.6,92.4
+MISRA              P,Boutique/Other,63,-1.0,48.6,60.3
+MISRA              P,Morgan Stanley,57,68.3,68.8,26.3
+MISRA              R,Boutique/Other,74,-4.7,61.6,50.0
+MITCHELL           J,Boutique/Other,1454,35.4,50.8,66.1
+MITCHELL           T,Boutique/Other,577,55.3,67.2,57.0
+MITCHELSON         D,Boutique/Other,238,41.9,52.8,61.8
+MITRA              N,Boutique/Other,159,59.7,60.3,76.1
+MITSCH             F,Boutique/Other,336,54.6,69.7,62.2
+MOAZAMI            B,Boutique/Other,236,81.8,82.6,68.2
+MOBLEY             G,Boutique/Other,255,-0.7,32.1,61.6
+MODI               N,RBC Capital Markets,445,21.5,34.0,68.3
+MODOFF             B,Boutique/Other,222,25.6,52.0,56.8
+MODY               S,Piper Sandler,61,18.0,53.3,75.4
+MOERDLER           M,Bernstein Research,262,-4.6,27.4,71.8
+MOFFETT            C,Bernstein Research,59,144.5,146.9,61.0
+MOFFETT            C,Boutique/Other,158,44.2,47.0,67.7
+MOHAN              W,Merrill Lynch / BofA,689,20.5,43.7,67.3
+MOHANTY            I,Boutique/Other,57,25.5,39.4,52.6
+MOHSENIAN          D,Morgan Stanley,698,18.9,30.1,72.8
+MOK                Y,Needham & Company,121,25.2,45.9,58.7
+MOLCHANOV          P,Raymond James,184,69.5,89.1,60.9
+MOLL               T,Boutique/Other,149,4.7,62.2,53.7
+MOLLINS            R,Boutique/Other,99,-1.6,37.8,56.6
+MONTAGNA           M,Boutique/Other,92,17.8,28.2,77.2
+MONTANARI          B,Morgan Stanley,141,188.2,191.0,58.2
+MONTANI            M,Evercore ISI,397,18.1,47.1,39.0
+MONTGOMERY         L,Bernstein Research,92,64.8,65.7,72.8
+MONTOUR            B,Boutique/Other,145,-6.9,32.8,65.5
+MOORE              J,Morgan Stanley,530,-11.7,42.4,64.0
+MOORE              R,Boutique/Other,68,217.2,217.2,97.1
+MOORE              R,RBC Capital Markets,208,141.1,141.1,71.6
+MOORE              S,Jefferies,83,-4.1,23.8,71.1
+MORAN              C,Boutique/Other,115,22.5,43.2,87.8
+MORAN              F,Boutique/Other,140,54.8,85.5,65.0
+MORAN              J,Macquarie Securities,246,26.5,36.7,75.6
+MOREEN             G,Boutique/Other,146,44.9,55.3,78.8
+MOREEN             G,Merrill Lynch / BofA,215,126.2,129.4,74.4
+MORFORD            J,RBC Capital Markets,365,58.8,65.7,64.1
+MORGAN             F,Jefferies,73,45.9,50.0,54.8
+MORGAN             F,RBC Capital Markets,365,7.7,30.3,66.6
+MORGAN             P,Boutique/Other,138,148.0,148.0,59.4
+MORGAN             P,Morgan Stanley,82,95.1,95.1,86.6
+MORIN              M,Morgan Stanley,55,15.2,47.8,50.9
+MORRIS             E,Merrill Lynch / BofA,57,38.2,40.8,50.9
+MORRIS             J,Boutique/Other,356,-1.2,38.6,66.0
+MORRIS             J,D.A. Davidson,73,-44.8,70.4,63.0
+MORRIS             M,Boutique/Other,350,-1.5,39.7,61.1
+MORRIS             R,Boutique/Other,109,32.8,45.3,83.5
+MORRISON           B,Boutique/Other,115,31.8,48.9,60.0
+MOSBY              M,Boutique/Other,841,51.7,53.5,68.1
+MOSCHOPOULOS       T,Boutique/Other,159,-3.5,29.7,73.0
+MOSESMANN          H,Boutique/Other,289,43.7,71.4,61.6
+MOSESMANN          H,Raymond James,96,26.2,78.8,58.3
+MOSKOW             R,Boutique/Other,626,34.2,39.2,67.9
+MOSKOWITZ          D,Boutique/Other,68,121.7,122.5,58.8
+MOSKOWITZ          G,Boutique/Other,325,-5.0,36.9,60.3
+MOSKOWITZ          M,Boutique/Other,125,14.2,46.7,69.6
+MOSKOWITZ          M,JP Morgan,184,76.3,97.6,73.9
+MOSS               S,Boutique/Other,69,58.1,63.1,58.0
+MOSZKOWSKI         G,Merrill Lynch / BofA,169,95.7,97.7,60.9
+MOTEMADEN          D,Evercore ISI,220,-0.4,14.9,83.6
+"MOUSSATOS, PH.D.   L",Boutique/Other,110,27.1,48.2,56.4
+MUEHL              M,Boutique/Other,60,30.3,44.4,35.0
+MUELLER            M,JP Morgan,419,69.2,77.3,67.5
+MUKEN              R,Boutique/Other,540,14.4,41.4,76.9
+MUKEN              R,Evercore ISI,565,9.1,25.9,66.0
+MULLAN             B,Boutique/Other,247,4.3,33.5,57.5
+MULLAN             B,Piper Sandler,64,-11.7,45.0,53.1
+MULVEHILL          C,Boutique/Other,87,22.1,40.2,48.3
+MULVEHILL          C,Merrill Lynch / BofA,382,10.5,56.0,56.0
+MULVEHILL          C,Wolfe Research,134,38.4,41.6,35.1
+MUNDRA             P,Boutique/Other,75,-28.7,40.6,85.3
+MUNSTER            G,Piper Sandler,419,7.5,55.0,68.7
+MURARKA            R,Boutique/Other,123,12.8,25.3,59.3
+MURCHISON          R,Boutique/Other,81,51.8,80.3,63.0
+MURPHY             C,Boutique/Other,116,-14.3,36.3,74.1
+MURPHY             E,Piper Sandler,484,10.2,37.9,56.2
+MURPHY             J,Merrill Lynch / BofA,797,30.9,69.0,65.0
+MURPHY             M,Boutique/Other,288,16.9,40.4,64.2
+MURPHY             M,JP Morgan,113,-16.2,35.8,74.3
+MURPHY             M,Piper Sandler,70,-21.3,50.0,75.7
+MURTI              A,Goldman Sachs,233,125.9,125.9,59.2
+MUSE               C,Boutique/Other,179,34.8,47.6,67.6
+MUSE               C,Evercore ISI,428,-1.8,40.9,75.0
+MUSHKIN            S,Boutique/Other,293,15.2,34.5,66.6
+MUSHKIN            S,Jefferies,70,20.9,43.0,75.7
+MUSHKIN            S,Wolfe Research,190,15.9,34.1,63.7
+MUTASCIO           C,Boutique/Other,54,106.3,106.3,64.8
+MUTASCIO           C,Keefe Bruyette & Woods,99,53.0,53.7,72.7
+MUZTAFAGO          E,Boutique/Other,263,55.3,57.3,36.9
+NACHMAN            G,Boutique/Other,53,22.7,26.8,67.9
+NADEL              J,Boutique/Other,434,65.2,69.7,76.3
+NADEL              J,Piper Sandler,70,57.0,57.4,70.0
+NADOL              J,JP Morgan,233,27.8,41.4,85.0
+NAG                D,Macquarie Securities,53,-4.3,54.1,73.6
+NAGARAJ            P,Boutique/Other,68,26.0,33.7,29.4
+NAGARAJAN          S,Boutique/Other,80,74.7,78.1,80.0
+NAGEL              B,Boutique/Other,393,18.3,44.8,74.3
+NAGLE              C,Merrill Lynch / BofA,214,-23.6,81.2,48.1
+NAGLE              S,Boutique/Other,81,20.9,29.4,63.0
+NAJAM              F,Boutique/Other,54,15.3,39.3,55.6
+NAJARIAN           E,Boutique/Other,182,61.3,64.8,66.5
+NAJARIAN           E,Merrill Lynch / BofA,740,40.7,49.8,67.6
+NAKAGIRI           N,Boutique/Other,109,3.0,24.5,73.4
+NAM                S,Boutique/Other,219,4.1,28.3,68.5
+NANCE              W,Goldman Sachs,108,8.3,28.2,68.5
+NANDURY            S,Boutique/Other,130,21.5,49.0,46.2
+NANKERVIS          C,Boutique/Other,53,21.0,26.7,62.3
+NANNIZZI           M,Goldman Sachs,229,14.5,21.8,83.4
+NAPOLI             R,Piper Sandler,174,62.6,77.5,59.8
+NASH               E,Boutique/Other,59,21.6,56.0,62.7
+"NASH, CFA          R",Goldman Sachs,1088,30.9,44.2,62.4
+NATHAN             J,Boutique/Other,395,16.6,44.5,55.4
+NATHANSON          M,Bernstein Research,111,65.6,70.7,69.4
+NATHANSON          M,Boutique/Other,331,-9.2,38.2,59.8
+NATTEL             I,RBC Capital Markets,89,-1.9,16.2,77.5
+NAUGHTON           S,Piper Sandler,166,16.7,30.5,62.7
+NECZYPOR           C,Goldman Sachs,131,34.2,55.3,83.2
+NEDIALKOVA         D,Boutique/Other,233,36.5,50.8,57.5
+NEFF               A,Boutique/Other,122,123.1,138.1,56.6
+NEIDL              R,Boutique/Other,132,37.1,47.2,54.5
+NEIVERT            C,Piper Sandler,113,34.6,39.1,49.6
+NEJMEH             G,Boutique/Other,116,20.9,40.7,88.8
+NELSON             D,Boutique/Other,131,76.0,78.8,68.7
+NELSON             G,Boutique/Other,63,54.2,59.9,66.7
+NELSON             J,Goldman Sachs,80,37.9,44.2,68.8
+NELSON             R,Boutique/Other,352,18.1,59.4,64.8
+NEMER              M,Boutique/Other,56,-5.0,85.0,51.8
+NEMEROFF           M,Boutique/Other,102,-23.0,39.4,79.4
+NERSESSIAN         G,Boutique/Other,85,28.6,39.8,47.1
+NESVOLD            P,Jefferies,248,49.4,52.4,76.2
+NEVILLE            M,Boutique/Other,69,33.4,45.0,65.2
+NEWITTER           R,Boutique/Other,417,4.3,27.4,71.9
+NEWSHEL            M,Evercore ISI,130,-1.4,21.9,73.8
+NEWSOME            P,Piper Sandler,178,-5.1,18.1,89.9
+NEWSOME            P,Sandler O'Neill,429,27.0,30.5,82.1
+NEWTON             P,Stifel Nicolaus,51,18.0,37.4,72.5
+NG                 M,Goldman Sachs,288,11.1,43.9,58.3
+NG                 P,Jefferies,626,11.8,37.9,61.5
+NGUYEN             R,Boutique/Other,282,15.1,29.7,70.9
+NICHOLSON          G,Boutique/Other,335,17.1,99.5,56.7
+NIKIC              T,Boutique/Other,175,-7.7,45.1,62.3
+NIKNAM             M,Boutique/Other,219,29.6,41.5,63.9
+NISHIMURA          K,Boutique/Other,167,3.6,27.4,70.7
+NISPEL             B,Boutique/Other,144,22.6,30.1,54.2
+NOKTA              H,Boutique/Other,64,29.9,46.7,50.0
+NOLAN              B,Stifel Nicolaus,158,26.3,53.3,63.3
+NOLAN              P,Boutique/Other,64,55.1,56.5,56.2
+NOLLEN             T,Macquarie Securities,328,5.3,41.6,55.2
+NOME               S,Boutique/Other,141,54.0,71.7,59.6
+NORFLEET           R,Boutique/Other,173,93.7,104.4,64.7
+NOTTER             G,Jefferies,260,4.6,37.5,52.7
+NOVARRO            G,Boutique/Other,175,84.3,92.3,62.9
+NOVARRO            G,RBC Capital Markets,278,24.4,39.5,77.7
+NOWAK              B,Morgan Stanley,428,-13.1,46.8,57.0
+NOWINSKI           A,Boutique/Other,78,12.2,35.6,55.1
+NOWINSKI           A,Piper Sandler,159,11.8,34.2,66.7
+NUDELL             B,Bernstein Research,72,50.6,53.7,41.7
+NUDELL             B,Boutique/Other,128,10.7,27.6,87.5
+NUFER              Q,Lazard Capital Markets,66,62.9,79.0,81.8
+NUSSBAUM           R,Boutique/Other,155,131.7,131.7,60.0
+O'BRIEN            C,Goldman Sachs,314,36.5,48.0,41.1
+O'BRIEN            C,Morgan Stanley,262,-4.9,37.6,61.8
+O'BRIEN            M,Boutique/Other,50,81.4,89.5,54.0
+O'BRIEN            M,Piper Sandler,242,0.7,27.6,68.2
+O'CALLAGHAN        S,Boutique/Other,79,42.0,68.2,82.3
+O'CALLAGHAN        S,Nomura Securities,110,89.6,89.8,78.2
+O'CARROLL          L,Boutique/Other,67,90.3,97.9,53.7
+O'CARROLL/HAYES,Boutique/Other,59,70.9,81.5,57.6
+O'CONNOR           M,Boutique/Other,550,32.2,43.5,69.6
+O'CULL             C,Boutique/Other,108,30.3,39.1,73.1
+O'CULL             C,Stifel Nicolaus,368,-2.1,34.8,64.4
+O'DEA              J,Boutique/Other,332,-8.3,34.8,71.1
+O'HARA             G,Jefferies,152,6.4,32.6,82.2
+O'HARA             S,Boutique/Other,125,9.5,27.3,70.4
+O'MALLEY           T,Boutique/Other,90,4.0,34.2,58.9
+O'NEIL             S,Boutique/Other,115,173.5,173.6,70.4
+O'NEILL            M,Goldman Sachs,71,15.1,29.9,59.2
+O'NEILL            T,Boutique/Other,56,44.3,71.3,57.1
+O'ROURKE           S,Boutique/Other,76,35.1,54.6,52.6
+O'SHAUGHNESSY      P,Raymond James,333,18.5,29.5,78.1
+O'SHEA             F,Boutique/Other,86,-8.3,33.2,76.7
+OAKES              P,Piper Sandler,66,84.5,90.1,83.3
+OATMAN             R,Boutique/Other,76,41.8,68.6,50.0
+OBIN               A,Merrill Lynch / BofA,734,36.0,50.7,69.5
+OFFUTT             B,Boutique/Other,71,24.6,51.1,54.9
+OGLENSKI           B,Boutique/Other,707,25.3,39.8,66.9
+OH                 J,Boutique/Other,126,28.6,48.1,67.5
+OHMES              R,Boutique/Other,82,45.8,46.3,61.0
+OHMES              R,Merrill Lynch / BofA,640,11.3,36.2,68.4
+OKUSANYA           O,Boutique/Other,111,16.5,27.3,65.8
+OKUSANYA           O,Jefferies,636,68.4,69.0,77.5
+OLIN               C,Boutique/Other,200,19.5,50.2,68.0
+OLNEY              M,Boutique/Other,518,19.0,32.1,59.5
+OLSEN              T,Boutique/Other,50,-14.1,74.5,54.0
+OLSON              M,Piper Sandler,399,-12.6,49.2,68.4
+"OLSON, CFA         J",Boutique/Other,127,24.8,30.0,46.5
+OMANADZE           M,Boutique/Other,50,19.2,29.5,68.0
+OMOHUNDRO          J,Boutique/Other,69,71.5,79.4,71.0
+ONG                B,Boutique/Other,67,50.8,70.3,49.3
+OPPENHEIM          D,Boutique/Other,369,20.2,47.1,49.1
+ORENBUCH           M,Boutique/Other,538,36.9,55.9,64.5
+ORRILL             G,Boutique/Other,210,54.9,59.3,69.5
+ORRILL             G,Lehman Brothers,91,115.9,117.4,63.7
+OSHA               J,Boutique/Other,118,-15.9,85.1,54.2
+OSSENBECK          B,JP Morgan,326,28.3,38.8,65.0
+OSTROWER           M,Morgan Stanley,215,181.4,181.4,65.6
+OTIS               N,Keefe Bruyette & Woods,50,50.6,75.3,52.0
+OTTENSTEIN         R,Evercore ISI,244,30.2,32.2,64.8
+OVSHEY             A,Goldman Sachs,207,30.0,37.4,74.9
+OWENS              R,Boutique/Other,102,-8.0,41.2,76.5
+OWENS              R,Piper Sandler,149,-19.3,41.9,68.5
+OXFORD             B,D.A. Davidson,90,49.4,49.4,75.6
+OXGAARD            J,Bernstein Research,66,50.0,73.1,75.8
+PACHTER            M,Boutique/Other,387,-24.9,74.6,52.2
+PAI                A,Boutique/Other,111,74.3,85.0,66.7
+PAJJURI            S,Boutique/Other,315,11.6,39.1,61.6
+PAJJURI            S,Macquarie Securities,109,6.1,36.1,67.0
+PAJJURI            S,Raymond James,52,-23.0,46.7,73.1
+PAK                S,Boutique/Other,132,13.7,33.3,73.5
+PALMER             D,Evercore ISI,306,7.4,33.7,66.3
+PALMER             D,RBC Capital Markets,295,34.4,41.5,66.4
+PALMER             M,Boutique/Other,91,40.9,54.3,57.1
+PAN                K,Morgan Stanley,171,7.1,19.4,76.0
+PANCARI            J,Evercore ISI,836,25.4,40.8,61.6
+PANG               B,Boutique/Other,103,38.7,56.4,67.0
+PANIGRAHI          S,Boutique/Other,129,-1.5,50.4,52.7
+PANJWANI           S,Boutique/Other,148,65.1,139.9,35.1
+PAOLONE            A,JP Morgan,482,57.7,60.6,74.9
+PAPAGEORGIOU       G,Boutique/Other,253,50.0,77.5,52.2
+PAPAGEORGIOU       G,Macquarie Securities,53,-7.8,49.5,60.4
+PAPPU              S,Boutique/Other,60,60.8,74.2,65.0
+PARENT             N,Boutique/Other,171,104.0,106.8,66.1
+PARIKH             R,Boutique/Other,304,10.0,25.3,65.1
+PARIS              A,Boutique/Other,105,33.9,51.2,64.8
+PARKER             A,Bernstein Research,106,55.6,68.6,62.3
+PARKER/SYTH,Raymond James,50,12.5,33.1,82.0
+PARKIN             M,Boutique/Other,245,34.8,53.6,51.4
+PARKINSON          C,Boutique/Other,450,30.8,40.1,63.6
+PARR               M,Boutique/Other,172,94.2,95.5,63.4
+PARSONS            S,Boutique/Other,69,15.3,45.5,50.7
+PASQUALE           C,Boutique/Other,163,9.5,22.6,68.7
+PATE               C,Morgan Stanley,50,229.7,232.3,46.0
+PATEL              H,JP Morgan,183,43.5,69.0,69.4
+PATEL              J,Boutique/Other,102,55.8,88.5,65.7
+PATEL              R,Boutique/Other,104,12.4,41.7,57.7
+PATEL              R,Needham & Company,52,-39.2,60.9,84.6
+PATERSON           R,Boutique/Other,352,18.7,32.1,69.0
+"PATIL, CFA         S",Susquehanna Financial,334,-11.4,49.3,63.2
+PATNAIK            M,Boutique/Other,383,3.2,23.3,78.3
+PATTEN             R,Boutique/Other,53,72.8,82.4,56.6
+PATTERSON          J,Boutique/Other,182,35.8,65.4,48.9
+PATTERSON          T,Boutique/Other,73,-28.1,37.5,89.0
+PAYNE              C,Boutique/Other,278,55.6,61.6,55.8
+PEARSON            S,Boutique/Other,60,-66.1,86.1,51.7
+PECK               R,Boutique/Other,142,38.9,76.7,62.7
+PECKHAM            C,Jefferies,60,47.8,58.1,81.7
+PECORIELLO         B,Morgan Stanley,146,88.5,88.5,61.0
+PELAYO             S,Boutique/Other,51,43.0,49.5,58.8
+PELLER             D,Boutique/Other,345,2.9,28.4,84.6
+PELLER             D,Wolfe Research,316,9.4,30.4,65.5
+PENNER             S,Boutique/Other,75,35.8,42.7,73.3
+PENNY              H,Boutique/Other,62,93.3,99.2,58.1
+PERCHER            E,Boutique/Other,145,18.5,36.5,62.1
+PERINCHERIL        B,Jefferies,100,56.0,61.9,55.0
+PERINCHERIL        B,Susquehanna Financial,481,7.2,79.1,51.4
+PERLIN             D,RBC Capital Markets,453,15.2,31.3,80.1
+PERRY              J,Boutique/Other,230,77.7,81.9,91.3
+PETERS             C,Raymond James,282,24.2,31.2,84.0
+PETERSEN           J,Jefferies,621,27.6,38.1,52.0
+PETERSON           B,Raymond James,94,-11.8,55.1,72.3
+PETERSON           T,JP Morgan,359,-12.2,32.9,64.1
+PETRIE             M,Boutique/Other,50,20.3,35.6,66.0
+PETRIK             R,Stifel Nicolaus,146,83.2,85.1,61.0
+PETRONE            A,Boutique/Other,56,-2.8,24.7,62.5
+PETRONE            A,Jefferies,58,8.5,28.7,37.9
+PEYRELONGUE        C,Merrill Lynch / BofA,73,12.6,48.7,46.6
+PFENNIGWERTH       D,Evercore ISI,494,10.2,39.0,58.3
+PHAM               M,Boutique/Other,55,17.0,61.6,43.6
+PHILLIPS           D,Boutique/Other,61,46.8,48.5,73.8
+PHILLIPS           H,RBC Capital Markets,193,78.9,89.4,41.5
+PHILLIPS           M,Boutique/Other,53,99.3,105.9,52.8
+PHILLIPS           M,Morgan Stanley,293,1.9,20.2,71.7
+PICARIELLO         J,Boutique/Other,167,23.9,43.8,52.7
+PICHEL             J,Piper Sandler,52,-3.1,76.1,53.8
+PIECYK             W,Boutique/Other,71,39.3,54.5,78.9
+PIERCE             E,Boutique/Other,85,-8.4,47.8,67.1
+PINHEIRO           M,Boutique/Other,60,59.7,62.3,71.7
+PIPES              L,Boutique/Other,287,10.0,74.8,48.8
+PIRSOS             N,Sandler O'Neill,86,70.7,71.9,73.3
+PITZ               B,Boutique/Other,61,53.5,82.1,60.7
+PITZ               B,Jefferies,55,15.1,58.0,74.5
+PITZER             J,Boutique/Other,417,19.5,49.0,62.1
+PLEXMAN            R,Boutique/Other,88,166.5,166.5,62.5
+PLOVANIC           W,Canaccord Genuity,174,3.6,39.3,66.1
+POHN               M,Boutique/Other,159,-3.2,20.9,66.0
+POKRZYWINSKI       J,Boutique/Other,218,27.3,38.0,72.5
+POKRZYWINSKI       J,Morgan Stanley,635,0.7,38.4,67.2
+POLINI             A,Boutique/Other,63,100.0,100.3,66.7
+POLINI             A,Raymond James,104,80.6,80.8,71.2
+POLINIAK-CUSIC     A,Boutique/Other,479,3.9,30.2,66.4
+POLITZER           D,Boutique/Other,113,6.7,38.8,56.6
+POONAWALA          E,Merrill Lynch / BofA,534,13.9,33.7,63.1
+"POPONAK, CFA       N",Goldman Sachs,810,10.6,33.6,69.9
+PORGES             G,Bernstein Research,260,25.1,47.9,64.6
+PORGES             G,Boutique/Other,258,24.3,32.3,65.9
+PORTILLO           M,Boutique/Other,792,45.7,77.1,44.9
+POSER              S,Boutique/Other,222,17.2,43.0,55.0
+POSER              S,Susquehanna Financial,187,-18.6,47.8,66.8
+POSNER             K,Morgan Stanley,121,90.2,100.8,62.0
+POST               J,Merrill Lynch / BofA,596,5.4,55.3,73.7
+POTHIWALA          M,Morgan Stanley,55,-35.9,38.3,76.4
+POTTER             A,Piper Sandler,234,23.1,82.0,62.8
+"POURREZA, CFA      S",Boutique/Other,703,28.8,33.5,73.1
+POWELL             A,Boutique/Other,189,20.6,39.3,53.4
+POWELL             B,Boutique/Other,81,21.6,34.4,81.5
+POWELL             G,Boutique/Other,121,-8.6,46.7,63.6
+POWERS             S,Boutique/Other,804,15.3,24.5,65.2
+PRAMANICK          S,Boutique/Other,87,83.3,88.7,43.7
+PRENTISS           R,Raymond James,247,38.1,44.0,74.5
+PRENTISS/DERUSSY,Raymond James,80,42.0,70.7,80.0
+PRICE              S,Boutique/Other,93,17.5,40.2,65.6
+PROFITI            R,Boutique/Other,96,21.6,54.1,54.2
+PRYKULL            C,Goldman Sachs,91,-2.3,26.6,64.8
+PRZYBYLOWSKI       J,Boutique/Other,294,31.8,44.8,58.8
+PURKISS            R,Boutique/Other,123,57.3,63.5,92.7
+PURKISS            R,Piper Sandler,62,61.7,62.0,69.4
+PYYKKONEN          M,Boutique/Other,108,38.2,67.1,58.3
+QIU                T,Boutique/Other,80,4.6,41.3,68.8
+QUADRANI           A,JP Morgan,195,32.1,42.1,64.6
+QUAIL              A,Goldman Sachs,158,-2.7,49.9,55.7
+QUAST              B,Boutique/Other,65,37.5,54.3,50.8
+QUATROCHI          J,Boutique/Other,115,-25.6,40.8,74.8
+QUEALY             J,Canaccord Genuity,146,19.3,40.7,76.0
+QUETTAWALA         T,Boutique/Other,61,-0.2,15.5,93.4
+QUINN              P,RBC Capital Markets,175,33.7,56.7,73.1
+QUINTEROS          J,Goldman Sachs,392,22.2,43.2,78.8
+QUINTILIANO        P,Boutique/Other,213,17.9,38.2,57.7
+QUIRK              W,Piper Sandler,231,12.8,35.6,70.1
+RABATIN            B,Boutique/Other,282,36.5,44.2,67.7
+RABATIN            B,Piper Sandler,130,25.0,36.3,56.2
+RACE               N,Piper Sandler,86,1.6,28.8,60.5
+RADBOURNE          C,Boutique/Other,356,19.8,33.0,69.4
+RADBOURNE          R,Boutique/Other,533,23.7,35.8,74.5
+RAGAN              J,Boutique/Other,53,46.9,51.2,77.4
+RAGHAVAN           D,Boutique/Other,173,7.3,40.2,61.8
+RAHMANI            J,Keefe Bruyette & Woods,290,-2.7,32.6,66.9
+RAIMAN             L,Boutique/Other,67,186.3,186.3,85.1
+RAJEEV             S,Boutique/Other,51,1.4,27.5,64.7
+RAJGOPAL           S,Boutique/Other,89,53.9,64.6,58.4
+RAKER              T,Boutique/Other,133,20.5,57.2,58.6
+RAKERS             A,Boutique/Other,292,-0.7,49.4,70.2
+RAKERS             A,Stifel Nicolaus,90,61.7,82.6,71.1
+RAKERS             B,Boutique/Other,56,27.2,28.6,89.3
+RAKESH             V,Boutique/Other,994,4.0,45.3,66.9
+RAMA               A,JP Morgan,77,-6.5,53.0,64.9
+RAMBOURG           E,Boutique/Other,72,17.0,40.0,55.6
+RAMEL              J,Boutique/Other,262,-2.6,41.7,64.9
+RAMEY              T,D.A. Davidson,88,39.5,51.6,75.0
+RAMIREZ            M,Keefe Bruyette & Woods,76,70.1,70.3,40.8
+RAMNANI            A,Boutique/Other,93,3.2,24.2,82.8
+RAMNANI            A,Piper Sandler,69,0.1,38.0,56.5
+RAMSAY             M,Canaccord Genuity,91,-25.2,55.4,68.1
+RAMSDEN            R,Goldman Sachs,956,22.6,40.3,63.4
+RAMSEY             B,Boutique/Other,101,32.5,42.6,86.1
+RAMSEY             S,Boutique/Other,50,-0.6,35.9,68.0
+RANGAN             K,Goldman Sachs,128,32.6,46.0,50.0
+RANGAN             K,Merrill Lynch / BofA,341,-5.4,25.1,82.7
+RANIERI            A,Morgan Stanley,75,18.9,36.5,45.3
+RANSOM             J,Raymond James,346,36.2,47.8,62.1
+RANSOM/JANSEN,Raymond James,90,8.2,25.9,73.3
+RASGON             S,Bernstein Research,390,3.4,43.4,70.0
+RASHID             R,Boutique/Other,256,32.0,51.7,57.0
+RASHTCHY           S,Piper Sandler,61,50.3,98.7,55.7
+RASKIN             J,Boutique/Other,602,4.5,29.3,71.9
+RASKIN             J,Lehman Brothers,127,17.5,40.2,63.0
+RASO               D,Boutique/Other,286,31.8,45.7,72.7
+RASO               D,Evercore ISI,484,12.8,37.8,69.6
+RATCLIFFE          J,Boutique/Other,94,99.5,109.2,86.2
+RATH               J,Canaccord Genuity,88,22.4,68.0,48.9
+RATHOD             S,Macquarie Securities,337,48.8,66.3,57.0
+RATLIFF            R,Boutique/Other,59,14.8,49.8,50.8
+RATTIGAN           C,Boutique/Other,75,31.6,33.3,40.0
+RAWAT              H,Bernstein Research,106,1.0,25.8,70.8
+RAY                J,Boutique/Other,71,61.0,65.3,62.0
+RAYCROFT           M,Jefferies,61,41.6,64.2,57.4
+RAYLE              B,Boutique/Other,77,80.5,86.8,62.3
+RAYMOND            C,Piper Sandler,133,27.1,35.5,54.9
+READ               R,Boutique/Other,724,29.1,51.8,60.8
+REAGOR             J,Boutique/Other,98,14.3,59.1,44.9
+REBACK             B,Boutique/Other,51,37.9,49.2,72.5
+REBACK             B,Stifel Nicolaus,187,-7.8,30.0,67.4
+REDDING            J,Boutique/Other,134,-26.1,66.2,54.5
+REDDOCH            J,Boutique/Other,51,48.1,51.6,54.9
+REEVES             J,Boutique/Other,88,78.7,78.7,75.0
+REGAN              N,Piper Sandler,449,7.8,45.1,61.2
+REHAUT             M,JP Morgan,470,9.4,36.2,67.0
+REICHARDT          C,Boutique/Other,146,3.9,38.1,76.7
+REICHMAN           M,Boutique/Other,94,119.3,132.6,69.1
+REICIN             G,Morgan Stanley,187,141.6,148.6,66.8
+REID               D,Boutique/Other,87,77.4,112.6,55.2
+REIF COHEN         J,Merrill Lynch / BofA,213,37.4,48.1,65.7
+REINER             Y,Boutique/Other,66,30.3,45.0,72.7
+REITZES            B,Boutique/Other,237,82.4,92.5,73.8
+RENTSCHLER         C,Boutique/Other,80,74.7,108.8,68.8
+REPETTO            R,Piper Sandler,125,4.6,30.2,63.2
+REPETTO            R,Sandler O'Neill,448,24.2,42.2,80.1
+RESEARCH DEPARTMEN,Boutique/Other,320,50.4,75.7,56.9
+REUSTLE            M,Goldman Sachs,117,52.4,63.3,59.0
+"REVICH, CFA        J",Goldman Sachs,1030,15.8,46.4,65.2
+REX                J,Boutique/Other,75,25.2,42.8,62.7
+REX                J,JP Morgan,104,6.6,29.3,76.0
+REYNOLDS           K,Boutique/Other,121,56.0,61.5,58.7
+REZVAN             T,Boutique/Other,117,47.4,56.6,54.7
+RHAMEY             P,Boutique/Other,71,269.9,269.9,76.1
+RHYEE              C,Boutique/Other,105,65.6,74.9,57.1
+RIBEIRO            C,Merrill Lynch / BofA,52,20.3,65.3,40.4
+RICCHIUTI          J,Needham & Company,79,5.1,35.0,62.0
+RICE               A,Boutique/Other,304,9.3,35.9,64.1
+RICE               K,Needham & Company,72,0.5,41.1,81.9
+RICH               N,Goldman Sachs,174,13.2,30.4,50.0
+RICHARD            G,Boutique/Other,220,4.4,56.0,60.5
+RICHARD            G,Piper Sandler,141,22.6,46.6,66.7
+RICHARDSON         S,Boutique/Other,150,62.5,64.6,48.7
+RICHARDSON         S,Evercore ISI,440,30.0,57.9,59.3
+RICHARDSON         T,Boutique/Other,149,66.5,82.6,62.4
+RICHTER            S,Goldman Sachs,296,38.3,53.5,57.8
+RIDDICK            M,Boutique/Other,60,49.6,58.9,78.3
+RIDLEY-LANE        D,Merrill Lynch / BofA,54,6.0,15.2,94.4
+RIDZON             P,Boutique/Other,237,87.0,87.1,89.5
+RIFKIN             A,Boutique/Other,184,18.0,40.0,75.0
+RIFKIN             A,Lehman Brothers,166,40.7,55.0,65.1
+RIFKIN             A,Merrill Lynch / BofA,192,25.5,50.5,80.7
+RIGG               C,Boutique/Other,60,-4.3,27.4,83.3
+RIGG               C,Susquehanna Financial,217,6.2,27.9,70.5
+RIPPS              M,Canaccord Genuity,160,7.4,67.0,56.2
+RISINGER           D,Boutique/Other,57,6.0,24.9,70.2
+RISINGER           D,Morgan Stanley,232,32.6,44.2,67.7
+RITCHIE            J,Goldman Sachs,1336,20.1,39.9,64.5
+RITZENTHALER       M,Piper Sandler,99,80.5,86.3,69.7
+RIZZUTO            A,Boutique/Other,156,90.2,100.0,59.6
+RO                 I,Goldman Sachs,515,0.2,33.4,69.3
+ROACH              B,Goldman Sachs,122,8.8,37.0,50.0
+ROBERTS            D,Boutique/Other,75,113.6,116.6,53.3
+ROBERTS            J,Boutique/Other,410,93.3,104.7,70.5
+ROBERTS            R,Boutique/Other,61,100.4,114.3,47.5
+ROBERTSON          J,Boutique/Other,226,33.0,52.3,47.8
+ROBERTSON          J,Lehman Brothers,60,23.3,46.8,63.3
+ROBILLARD          T,Boutique/Other,54,108.5,108.9,38.9
+ROBISON            M,Boutique/Other,76,28.3,40.5,57.9
+ROBSON             T,Boutique/Other,78,82.0,95.5,37.2
+ROCHESTER          D,Boutique/Other,552,16.0,36.7,65.9
+RODERICK           T,Stifel Nicolaus,140,-19.6,36.8,85.0
+RODGERS            D,RBC Capital Markets,139,103.5,110.7,60.4
+RODIS              J,Boutique/Other,255,4.7,28.6,62.0
+ROGER              P,Boutique/Other,141,-14.3,40.6,62.4
+ROGERS             J,D.A. Davidson,315,36.2,64.5,55.9
+ROHAN              J,RBC Capital Markets,53,83.8,122.0,49.1
+ROLLAND            C,Boutique/Other,76,31.3,42.7,55.3
+ROLLAND            C,Susquehanna Financial,553,-10.6,43.7,65.8
+ROLLINS            D,RBC Capital Markets,85,23.3,66.9,36.5
+ROLLO              J,Morgan Stanley,134,14.9,50.2,57.5
+ROLLYSON           J,Raymond James,95,72.8,78.8,46.3
+ROMAN              D,Goldman Sachs,456,24.6,44.9,71.9
+ROMEO              G,Jefferies,52,-21.7,35.8,84.6
+ROSA               A,Boutique/Other,147,1.4,37.9,62.6
+ROSA               A,Merrill Lynch / BofA,89,53.2,105.0,59.6
+ROSE               K,Canaccord Genuity,132,-10.7,32.6,65.2
+ROSE               M,Raymond James,323,43.3,53.4,61.9
+ROSE               S,Keefe Bruyette & Woods,95,53.2,63.0,69.5
+"ROSE, CFA          D",Boutique/Other,61,45.4,54.5,72.1
+ROSEN              M,Boutique/Other,93,33.5,46.2,68.8
+ROSENBAUM          S,Stifel Nicolaus,223,-3.6,22.2,69.5
+ROSENFELD          A,Boutique/Other,70,160.0,181.4,64.3
+ROSENFELD          S,Boutique/Other,105,-41.9,67.1,88.6
+ROSENFELD          S,Jefferies,79,23.9,39.5,62.0
+"ROSIVACH, CFA      A",Boutique/Other,126,74.9,78.3,90.5
+"ROSIVACH, CFA      A",Goldman Sachs,237,79.2,80.1,65.8
+"ROSIVACH, CFA      A",Wolfe Research,121,41.5,44.7,34.7
+ROSNER             E,Boutique/Other,524,23.7,59.5,54.6
+ROSS               D,Stifel Nicolaus,337,9.4,42.4,69.4
+ROSS               E,Boutique/Other,147,50.2,79.3,55.1
+ROSS               M,Boutique/Other,82,166.4,167.8,80.5
+ROTHMAN            R,Boutique/Other,52,-16.8,53.2,78.8
+ROTHMAN            R,Susquehanna Financial,588,27.6,39.2,67.7
+ROUSSEAU           J,Boutique/Other,153,132.1,136.3,84.3
+ROUSSEAU           J,RBC Capital Markets,72,84.5,87.8,80.6
+ROWAN              J,Boutique/Other,56,31.6,53.7,50.0
+ROWEN              M,Boutique/Other,70,67.2,94.4,60.0
+ROXLAND            M,Boutique/Other,102,17.6,30.1,51.0
+ROXLAND            M,Merrill Lynch / BofA,61,32.6,38.2,45.9
+ROY                R,Boutique/Other,211,6.1,39.5,66.8
+ROYALL             J,JP Morgan,63,13.3,20.2,68.3
+ROZWADOWSKI        A,Boutique/Other,181,34.5,48.7,75.1
+RUBEL              H,Jefferies,185,36.1,44.1,85.9
+RUBIN              J,Goldman Sachs,320,52.9,56.0,75.0
+RUBIN              J,Morgan Stanley,112,164.7,164.7,33.0
+RUBINSON           A,Boutique/Other,89,32.6,46.7,73.0
+RUBINSON           A,Nomura Securities,105,24.1,44.6,82.9
+RUBINSON           A,Wolfe Research,114,21.3,39.0,63.2
+RUEDY              G,Boutique/Other,67,2.8,54.6,62.7
+RULIS              J,D.A. Davidson,223,44.1,51.8,65.0
+RUSCH              C,Boutique/Other,223,-6.4,90.1,51.1
+RUSCHMEIER         P,Boutique/Other,89,55.8,74.8,69.7
+RUSCHMEIER         P,Lehman Brothers,113,152.8,156.1,51.3
+RUSSO              B,Boutique/Other,216,53.9,54.7,78.2
+RUSSO              P,Boutique/Other,60,41.0,61.0,55.0
+RUTHERFORD         J,Boutique/Other,140,7.2,40.8,57.9
+RUTSCHOW           R,Boutique/Other,181,25.4,36.6,78.5
+RUTTENBUR          B,Boutique/Other,55,14.1,28.0,85.5
+RUYKHAVER          J,Boutique/Other,139,-23.0,41.2,73.4
+RYAN               B,Boutique/Other,127,139.2,139.4,55.9
+RYAN               D,Boutique/Other,198,42.7,52.6,69.7
+RYAN               D,Sandler O'Neill,87,44.2,55.7,82.8
+RYAN               W,Boutique/Other,67,-2.2,53.7,58.2
+RYGIEL             A,Boutique/Other,327,-5.2,49.6,63.3
+RYSTROM            B,Boutique/Other,142,20.1,30.8,76.8
+RYSTROM            B,Piper Sandler,55,78.5,83.0,61.8
+SAAD               O,Boutique/Other,192,13.4,44.6,66.1
+SAAD               O,Evercore ISI,212,26.2,49.0,52.8
+SABADRA            A,Boutique/Other,106,-10.4,29.0,69.8
+SABADRA            A,RBC Capital Markets,72,11.5,21.7,59.7
+SACCONAGHI         T,Bernstein Research,226,76.3,111.0,69.0
+SADLER             J,Boutique/Other,83,38.2,63.6,74.7
+SAFRAN             R,Boutique/Other,214,17.4,33.5,68.7
+SAI                N,Boutique/Other,92,20.9,29.0,46.7
+SAKAKEENY          B,Boutique/Other,108,76.0,78.5,55.6
+SAKHRANI           S,Keefe Bruyette & Woods,439,18.6,39.7,71.3
+SAKWA              S,Boutique/Other,721,70.5,70.5,87.7
+SAKWA              S,Evercore ISI,1633,42.2,49.7,57.9
+SAKWA              S,Merrill Lynch / BofA,281,131.9,141.5,69.8
+SALAZAR            A,Boutique/Other,112,119.5,121.1,53.6
+SALEH              P,Boutique/Other,240,18.8,32.8,72.5
+SALINSKY           M,RBC Capital Markets,372,72.8,79.1,74.2
+SALISBURY          J,Bernstein Research,116,41.5,55.1,79.3
+SALMON             D,Boutique/Other,311,20.7,48.3,66.6
+SALMON             R,Boutique/Other,160,48.6,54.9,64.4
+SAMANA             S,Boutique/Other,71,-21.3,30.7,83.1
+SAMANA             S,Jefferies,151,-6.6,46.5,63.6
+SAMUELSON          A,Goldman Sachs,463,28.4,39.6,56.2
+SAN MARCO          J,Boutique/Other,50,49.6,49.6,100.0
+SANABRIA           J,Boutique/Other,179,19.5,26.6,64.2
+SANABRIA           J,Merrill Lynch / BofA,91,37.7,38.2,85.7
+SANCHEZ            B,Boutique/Other,124,57.2,59.5,53.2
+SANDERS            S,Boutique/Other,71,32.3,51.6,71.8
+SANDERSON          J,Boutique/Other,94,12.6,33.0,68.1
+SANDERSON          R,Boutique/Other,220,8.0,49.6,59.5
+SANDHAR            K,Boutique/Other,107,65.6,66.7,57.0
+SANDLER            R,Boutique/Other,326,7.3,53.0,67.5
+SANGANERIA         M,RBC Capital Markets,126,22.0,41.3,62.7
+SANKAR             K,Merrill Lynch / BofA,245,18.4,38.3,65.7
+SANKEY             P,Boutique/Other,370,94.4,110.4,55.1
+SANKEY             P,Wolfe Research,222,48.1,51.6,54.5
+SANSBURY           S,Boutique/Other,69,21.0,31.2,73.9
+SANTANGELO         G,Boutique/Other,334,26.2,41.3,70.7
+SANTARELLI         C,Boutique/Other,477,15.7,44.5,57.7
+SAVAGEAUX          T,Boutique/Other,112,19.8,36.8,60.7
+SAVASTANO          A,Boutique/Other,88,72.4,75.5,47.7
+SAVASTANO          A,Macquarie Securities,56,72.3,72.3,51.8
+SAVNER             M,Boutique/Other,63,67.1,81.5,20.6
+SAWANT             G,Boutique/Other,70,17.9,24.8,60.0
+SAWYER             A,Goldman Sachs,158,42.3,58.7,83.5
+SCEE               A,Boutique/Other,173,52.3,55.0,69.4
+SCEMAMA            D,Merrill Lynch / BofA,63,21.1,50.1,46.0
+SCHACHTER          B,Macquarie Securities,201,9.0,39.3,77.1
+SCHAFER            R,Boutique/Other,279,4.6,40.8,74.2
+SCHAFER            S,Goldman Sachs,59,49.3,71.6,67.8
+SCHALOP            L,Boutique/Other,109,177.3,177.3,79.8
+SCHANZER           D,Boutique/Other,93,196.4,198.4,79.6
+SCHARF             D,Boutique/Other,84,30.5,47.5,54.8
+SCHENKER           A,Morgan Stanley,79,20.7,29.1,64.6
+SCHICK             D,Boutique/Other,127,19.0,41.3,66.9
+SCHICK             D,Stifel Nicolaus,73,40.8,51.3,69.9
+SCHILDKRAUT        J,Evercore ISI,205,44.4,50.5,90.2
+SCHILDKRAUT        J,Jefferies,64,69.9,73.8,68.8
+SCHIMMER           J,Evercore ISI,84,22.6,31.0,53.6
+SCHIMMER           J,Piper Sandler,82,24.9,41.6,57.3
+SCHINDLER          N,Merrill Lynch / BofA,218,-0.0,71.8,58.7
+SCHIRALDI          F,Piper Sandler,64,20.0,32.0,60.9
+SCHIRALDI          F,Sandler O'Neill,96,56.3,56.8,50.0
+SCHLANG            E,Boutique/Other,207,38.6,47.9,76.3
+SCHMIDT            C,Merrill Lynch / BofA,269,122.7,129.6,64.3
+SCHMIDT            M,Boutique/Other,59,11.6,41.8,57.6
+SCHMITT            W,Boutique/Other,61,135.8,163.6,80.3
+SCHMITZ            M,Boutique/Other,155,78.9,104.3,43.9
+SCHMITZ JR         B,Boutique/Other,325,45.8,49.5,83.4
+SCHNEEBERGER       S,Boutique/Other,247,50.8,69.1,70.0
+"SCHNEIDER, PH.D.   J",Goldman Sachs,311,7.6,23.4,78.8
+SCHOENEBAUM        M,Boutique/Other,149,19.3,44.1,67.8
+SCHOENEBAUM        M,Evercore ISI,113,31.9,42.2,48.7
+SCHOLES            C,Boutique/Other,542,13.7,42.3,60.1
+SCHORR             G,Boutique/Other,96,53.8,53.8,83.3
+SCHORR             G,Evercore ISI,863,20.8,37.5,62.6
+SCHORR             G,Nomura Securities,196,48.7,52.1,74.0
+SCHOTT             C,JP Morgan,231,42.7,48.7,68.4
+SCHULTZ            T,RBC Capital Markets,230,36.1,62.4,80.9
+SCHUMAN            J,Keefe Bruyette & Woods,362,81.7,83.9,68.0
+SCHWAB             C,Boutique/Other,387,42.6,67.3,65.4
+SCHWARTZ           A,Jefferies,63,-14.2,32.9,52.4
+SCHWARTZ           B,Boutique/Other,161,-17.5,41.4,73.9
+SCHWARTZ           J,Boutique/Other,163,8.6,46.7,54.6
+SCHWARTZ           S,Raymond James,403,76.2,77.5,69.7
+SCIALLA            M,Stifel Nicolaus,346,30.3,94.8,51.7
+SCOBIE             A,Boutique/Other,69,37.5,46.8,79.7
+SCOTT              D,Boutique/Other,93,44.2,52.6,54.8
+SCOTT              J,Boutique/Other,96,20.5,35.3,61.5
+SCOTT              T,Goldman Sachs,374,16.4,34.6,63.9
+SCOTTO             E,RBC Capital Markets,220,86.3,101.4,70.9
+SCOUTEN            S,Piper Sandler,76,1.5,33.7,75.0
+SCOUTEN            S,Sandler O'Neill,101,53.6,54.6,52.5
+SCRIBNER           S,Boutique/Other,439,31.2,53.6,57.4
+SEBASKI            C,Boutique/Other,152,14.8,21.6,88.2
+SEDA               E,Boutique/Other,72,191.4,191.4,81.9
+SEDITA             A,Goldman Sachs,105,21.4,91.3,43.8
+SEIDEN             A,Boutique/Other,192,-0.2,37.9,51.0
+SEIDL              J,Boutique/Other,322,48.4,54.8,69.9
+SEIFMAN            S,JP Morgan,167,8.7,25.6,75.4
+SEIGERMAN          E,Boutique/Other,224,7.7,27.9,56.2
+SEITZ              D,Boutique/Other,91,166.3,166.3,79.1
+SEN                A,Boutique/Other,60,69.7,72.1,66.7
+SEN                A,Merrill Lynch / BofA,106,-106.4,189.2,57.5
+SENA               K,Evercore ISI,167,12.8,43.1,70.1
+SENATORE           S,Bernstein Research,241,24.7,41.7,77.2
+SENATORE           S,Merrill Lynch / BofA,115,20.1,30.7,62.6
+SENDEK             J,Lazard Capital Markets,63,44.2,48.0,65.1
+SEPENZIS           T,Boutique/Other,89,38.6,56.9,61.8
+SERGOTT            L,Boutique/Other,96,6.3,22.4,53.1
+SERRAO             A,Boutique/Other,95,18.9,40.6,72.6
+SETH               R,Boutique/Other,55,-5.6,22.8,81.8
+SETYAN             N,Boutique/Other,503,1.2,37.9,61.8
+SEYMORE            R,Boutique/Other,676,-1.2,42.9,66.3
+SEYRAFI            S,Boutique/Other,956,21.6,53.8,68.5
+SGARZ              I,Goldman Sachs,65,-7.9,53.6,78.5
+SHAH               A,D.A. Davidson,105,14.8,52.5,62.9
+SHAH               R,Boutique/Other,78,14.0,41.4,73.1
+SHAH               R,Nomura Securities,263,9.1,37.0,73.8
+SHAH               V,Boutique/Other,209,29.4,57.9,53.1
+SHANE              R,JP Morgan,271,73.4,93.0,59.0
+SHANK              C,JP Morgan,71,30.4,46.7,83.1
+SHANKAR            K,Boutique/Other,139,40.2,62.6,54.7
+SHANKER            J,Boutique/Other,613,17.2,25.0,73.9
+SHANKER            J,Merrill Lynch / BofA,600,3.4,22.7,78.3
+SHANKER            R,Morgan Stanley,786,4.0,47.0,51.7
+SHANNON            R,Boutique/Other,68,-24.9,62.3,63.2
+SHAPIRA            A,Goldman Sachs,455,37.0,55.4,74.1
+SHARMA             A,Boutique/Other,116,8.6,36.2,59.5
+SHAW               C,Boutique/Other,80,79.9,82.1,68.8
+SHAW               J,Boutique/Other,167,11.7,40.8,55.1
+SHEEHAN            J,Boutique/Other,310,37.4,61.0,73.2
+SHEERIN            M,Boutique/Other,110,31.2,58.1,60.0
+SHEERIN            M,Stifel Nicolaus,332,6.5,31.8,63.9
+SHEMESH            S,RBC Capital Markets,84,15.0,38.6,56.0
+SHEN               P,Boutique/Other,144,-20.2,88.8,50.7
+SHEPHERD           A,Boutique/Other,92,1.2,44.2,57.6
+SHERIDAN           E,Goldman Sachs,185,13.9,46.8,52.4
+SHERLUND           R,Nomura Securities,51,13.1,19.3,76.5
+SHERMAN            A,Bernstein Research,59,1.1,24.5,72.9
+SHEROWSKI          S,Goldman Sachs,52,101.2,103.9,48.1
+SHIBUTANI          C,Goldman Sachs,122,5.4,36.8,48.4
+SHIELDS            E,Sandler O'Neill,130,52.5,56.6,78.5
+SHIELDS            M,Keefe Bruyette & Woods,661,7.6,21.7,76.4
+SHIELDS            M,Stifel Nicolaus,54,64.6,65.6,74.1
+SHINE              A,Boutique/Other,58,20.1,29.9,87.9
+SHLISKY            M,Boutique/Other,152,38.2,62.9,62.5
+SHMOIS             G,Boutique/Other,329,10.5,35.2,67.5
+SHMULIK            M,Bernstein Research,134,-17.4,58.1,61.2
+SHOJAIAN           J,Wolfe Research,205,25.4,42.8,44.4
+SHOOP              C,Boutique/Other,138,26.0,42.8,48.6
+"SHOPE, CFA         B",Goldman Sachs,124,82.7,87.8,56.5
+SHORT              K,Boutique/Other,319,0.3,28.7,67.1
+SHOVE              D,Boutique/Other,331,9.3,37.0,68.0
+SHREEDHAR          V,Boutique/Other,81,13.6,31.5,66.7
+SHRESTHA           S,Lazard Capital Markets,71,6.3,66.8,54.9
+SHULMAN            D,Lehman Brothers,141,154.6,154.6,86.5
+SIBAL              S,Boutique/Other,113,95.3,112.0,48.7
+SIEDMAN            C,Boutique/Other,50,86.1,86.1,80.0
+SIEFERS            R,Piper Sandler,248,8.2,33.7,64.5
+SIEFERS            R,Sandler O'Neill,560,63.4,67.8,60.4
+SIEGEL             C,Boutique/Other,445,-9.1,69.6,58.4
+SIEGEL             S,Boutique/Other,256,-4.0,41.0,56.6
+SIEGEL             S,Nomura Securities,153,2.5,35.5,60.8
+SIEGENTHALER       C,Boutique/Other,1265,60.1,73.6,67.4
+SIEGENTHALER       C,Merrill Lynch / BofA,329,8.1,30.1,65.0
+SIEGNER            K,Boutique/Other,147,44.1,55.7,78.2
+SIGHINOLFI         C,Jefferies,230,96.8,99.4,57.4
+SIGMAN             S,Boutique/Other,385,-23.4,59.8,67.8
+SILBER             J,Boutique/Other,546,17.1,31.2,73.6
+SILBERMAN          L,Boutique/Other,225,10.9,30.2,64.0
+SILL               K,Boutique/Other,245,58.4,63.5,51.0
+SILLS              B,Merrill Lynch / BofA,232,-7.4,39.9,62.1
+SILVER             A,Boutique/Other,163,53.7,63.0,67.5
+SILVER             D,Boutique/Other,240,51.6,63.6,71.2
+SILVER             S,Boutique/Other,50,-5.3,27.0,92.0
+SILVERSTEIN        J,Boutique/Other,149,32.7,52.0,55.0
+SILVERSTEIN        J,Wolfe Research,370,25.5,63.0,50.3
+SILVERSTEIN        P,Boutique/Other,111,39.5,58.1,45.9
+SILVERSTEYN        D,Boutique/Other,191,45.2,56.5,73.3
+SIMKINS            J,Boutique/Other,245,42.7,53.0,66.9
+SIMKINS            J,Macquarie Securities,108,37.1,105.6,59.3
+SIMPSON            B,Boutique/Other,119,1.9,46.6,65.5
+SIMPSON            D,Merrill Lynch / BofA,51,24.3,38.2,54.9
+SIMPSON            K,Boutique/Other,206,61.3,67.2,50.0
+SINDEREN           J,Boutique/Other,172,19.0,43.2,59.9
+SINDLER            A,Boutique/Other,57,-14.7,52.6,68.4
+"SINGER, CFA        B",Goldman Sachs,592,28.7,86.7,41.7
+SINGH              A,Boutique/Other,76,0.4,47.5,82.9
+SINGH              H,Boutique/Other,70,22.1,32.2,62.9
+SINGH              I,Boutique/Other,52,75.2,80.3,71.2
+SINGH              S,RBC Capital Markets,73,10.3,27.1,63.0
+SINHA              P,Boutique/Other,60,24.0,29.4,48.3
+SINHA              S,Boutique/Other,123,1.5,28.7,75.6
+SINISI             V,Morgan Stanley,133,6.3,26.1,66.2
+SINKEVICIUS        A,Morgan Stanley,148,-46.1,72.6,54.1
+SIPKIN             D,Boutique/Other,84,74.6,76.1,60.7
+SIPKIN             D,Susquehanna Financial,261,45.1,50.7,66.3
+SISON              M,Boutique/Other,775,37.8,53.6,65.7
+SKIBITSKI          P,Boutique/Other,291,17.8,31.7,70.8
+SKIDMORE           R,Goldman Sachs,282,37.8,52.9,71.3
+SKLAR              P,Boutique/Other,108,71.7,78.8,62.0
+SKOLNICK           S,Boutique/Other,115,26.0,40.4,54.8
+SLABAUGH           W,Boutique/Other,244,18.6,34.6,67.6
+SLAGLE             A,Jefferies,251,1.1,47.6,57.0
+SLATER             T,Lazard Capital Markets,119,48.7,69.0,71.4
+SLORER             O,Morgan Stanley,640,68.4,81.6,53.0
+SLOWINSKI          S,Boutique/Other,281,0.7,38.3,51.6
+SMIGIE             J,Raymond James,203,1.4,35.7,77.8
+SMITH              A,Boutique/Other,59,71.6,72.1,64.4
+SMITH              A,JP Morgan,235,75.8,76.3,90.6
+SMITH              G,Boutique/Other,126,85.8,94.4,69.0
+SMITH              J,Boutique/Other,129,53.9,56.7,78.3
+SMITH              K,Boutique/Other,67,66.8,81.1,53.7
+SMITH              L,Keefe Bruyette & Woods,127,66.7,74.4,64.6
+SMITH              M,Boutique/Other,296,50.6,63.5,67.9
+SMITH              R,Boutique/Other,112,99.6,110.7,57.1
+SMITHEN            K,Macquarie Securities,200,73.3,81.0,79.0
+SMOTRICH           R,Boutique/Other,1479,85.9,86.6,69.0
+SNOWLING           M,Boutique/Other,159,121.3,124.0,63.5
+SNYDER             E,Boutique/Other,117,17.9,42.9,76.9
+SOLE               J,Morgan Stanley,110,0.1,29.7,60.9
+SOLOW              L,Boutique/Other,65,-10.0,26.6,55.4
+SOMAIYA            M,Boutique/Other,156,43.9,49.2,54.5
+SOMAIYA            M,Piper Sandler,84,-4.6,45.7,91.7
+SOMMER             T,Boutique/Other,120,14.4,30.1,63.3
+SONI               A,Boutique/Other,390,40.6,54.5,51.0
+SOOD               N,Boutique/Other,303,13.4,35.7,57.1
+SOPCAK             Z,Morgan Stanley,113,0.1,29.7,69.9
+SORBARA            G,Boutique/Other,352,6.8,83.3,61.1
+SOUDA              P,Boutique/Other,217,3.1,27.1,59.9
+SOZZI              B,Boutique/Other,451,32.3,47.9,71.0
+SPAGNA             F,Boutique/Other,74,60.4,62.1,74.3
+SPAHR              C,Boutique/Other,245,82.1,85.5,58.8
+SPAK               J,RBC Capital Markets,772,22.1,49.3,57.0
+SPECTOR            J,Merrill Lynch / BofA,997,46.0,53.4,68.9
+SPEHAR             E,Merrill Lynch / BofA,125,117.5,123.9,68.8
+SPEISER            M,Boutique/Other,119,31.4,56.8,81.5
+SPEISER            M,Lehman Brothers,55,93.4,99.5,78.2
+SPENCE             A,Jefferies,59,21.3,68.1,62.7
+SPILLANE           B,Boutique/Other,85,61.1,66.2,71.8
+SPILLANE           B,Merrill Lynch / BofA,468,34.5,39.9,70.9
+SPINGARN           R,Boutique/Other,528,30.3,44.8,75.4
+SPITTEL            J,Boutique/Other,249,44.1,65.4,51.4
+SPRACKLIN          W,RBC Capital Markets,307,8.0,22.4,81.4
+SPRAGUE            J,Boutique/Other,351,5.5,38.3,67.0
+SQUALI             Y,Boutique/Other,379,10.5,61.5,64.1
+SQUALI             Y,Jefferies,94,70.2,110.4,68.1
+SRETHAPRAMOTE      S,Morgan Stanley,89,7.1,24.3,67.4
+SRIVASTAVA         A,Boutique/Other,514,-1.1,45.3,62.6
+ST. JUSTE          H,Boutique/Other,422,41.4,52.3,46.9
+ST. JUSTE          H,Morgan Stanley,109,57.5,57.6,74.3
+ST. PIERRE         K,Bernstein Research,533,77.3,79.2,58.3
+STABLER            P,Boutique/Other,66,-3.5,58.7,71.2
+STAFFORD           T,Boutique/Other,60,22.4,41.8,45.0
+STAITE             R,Boutique/Other,136,54.0,56.9,69.1
+STALLARD           R,Boutique/Other,373,12.7,32.5,67.8
+STALLARD           R,Macquarie Securities,75,51.7,72.4,78.7
+STALLARD           R,RBC Capital Markets,192,22.0,32.4,85.9
+STANICKY           R,Goldman Sachs,77,35.6,48.9,57.1
+STANICKY           R,RBC Capital Markets,98,27.7,38.3,52.0
+STANLEY            G,Boutique/Other,73,27.5,45.2,71.2
+STANLEY            K,Wolfe Research,150,29.8,64.4,68.7
+STAPHOS            G,Boutique/Other,242,67.1,81.2,57.4
+STAPHOS            G,Merrill Lynch / BofA,1103,26.4,38.5,70.3
+STAPP              A,Boutique/Other,225,42.2,49.0,64.4
+STATHOULOPOULOS    C,Susquehanna Financial,202,3.7,43.4,49.0
+STEED              T,Merrill Lynch / BofA,96,3.0,29.6,62.5
+STEELE             W,Boutique/Other,60,77.1,79.7,71.7
+STEEP              P,Boutique/Other,218,23.0,34.6,71.6
+STEFANO            P,Boutique/Other,146,9.2,28.3,78.8
+STEIB              M,Boutique/Other,52,16.6,31.6,88.5
+STEIN              D,Boutique/Other,56,19.9,47.3,73.2
+STEIN              J,Boutique/Other,52,46.4,55.6,92.3
+STEIN              W,Boutique/Other,838,4.2,37.0,71.8
+STEINBERG          D,Jefferies,59,35.0,38.8,40.7
+STEINERMAN         A,Boutique/Other,71,64.4,77.3,62.0
+STEINERMAN         A,JP Morgan,200,18.2,29.5,80.5
+STELMACH           S,Boutique/Other,143,29.7,66.0,57.3
+STEMBER            S,Boutique/Other,107,30.0,39.5,78.5
+STENDER            T,Boutique/Other,67,27.6,45.2,76.1
+STERLING           K,Boutique/Other,85,87.2,92.5,64.7
+STEUART            S,Boutique/Other,100,-8.1,50.6,64.0
+STEVENSON          R,Boutique/Other,360,28.2,35.1,58.3
+STEVENSON          R,Macquarie Securities,106,77.3,77.3,85.8
+STEVENSON          R,Morgan Stanley,152,116.2,116.3,59.9
+STEVES             M,RBC Capital Markets,260,-20.4,41.4,82.7
+STEWART            H,Boutique/Other,265,51.4,95.5,39.2
+STEWART            J,Boutique/Other,63,136.0,156.2,60.3
+STEWART            K,Boutique/Other,365,30.0,46.7,74.2
+STICHTER           J,Jefferies,154,0.2,52.0,52.6
+STINE              E,Boutique/Other,86,-34.9,84.6,65.1
+STINSON            J,Boutique/Other,55,104.6,104.6,60.0
+STIRLING           J,Bernstein Research,62,22.0,24.1,88.7
+STIRLING           T,Bernstein Research,129,39.5,39.8,72.1
+STOCHEL            R,Boutique/Other,59,-124.5,150.4,66.1
+STOLZ              T,Boutique/Other,82,18.0,66.6,36.6
+"STORMS, CFA        J",Boutique/Other,252,31.1,52.4,68.3
+STOROZYNSKI        A,Boutique/Other,230,37.3,43.6,69.1
+STOROZYNSKI        A,Macquarie Securities,713,59.2,60.6,75.2
+STOSS              A,Boutique/Other,274,1.5,41.2,66.1
+STOVER             M,Boutique/Other,64,40.0,43.2,95.3
+STOVER             M,Susquehanna Financial,144,38.4,48.3,64.6
+STRASSER           D,Boutique/Other,258,37.4,52.5,62.0
+STRATON            A,Morgan Stanley,71,-17.4,45.6,50.7
+STRAUSS            D,Boutique/Other,151,4.5,33.3,64.9
+STRAUSS            R,Boutique/Other,90,-17.6,76.8,54.4
+STRAWN             M,Morgan Stanley,63,71.3,81.3,71.4
+STRELZIK           A,Boutique/Other,365,5.9,34.9,63.3
+STROUSE            M,JP Morgan,103,0.7,81.9,53.4
+STULPIN            C,D.A. Davidson,60,57.0,68.6,50.0
+STUMP              A,Boutique/Other,456,27.1,40.2,64.7
+SUAREZ             F,Boutique/Other,64,1.8,60.8,37.5
+SUBIN              B,Stifel Nicolaus,59,14.7,24.4,66.1
+SUBRAHMANYAN       N,Boutique/Other,51,56.4,58.7,52.9
+SUE                M,RBC Capital Markets,331,51.7,64.9,55.3
+SULLIVAN           C,Boutique/Other,53,35.3,79.7,39.6
+SULLIVAN           J,Boutique/Other,574,67.0,74.9,67.8
+SULLIVAN           J,RBC Capital Markets,155,31.3,37.5,74.2
+SULTANIA           A,Boutique/Other,81,24.3,37.5,46.9
+SUMMERVILLE        M,Boutique/Other,192,43.3,53.5,88.0
+SUMMERVILLE        M,D.A. Davidson,60,2.2,18.1,68.3
+SUNDARARAJAN       S,Boutique/Other,58,23.1,43.5,72.4
+SUNEJA             Y,Boutique/Other,71,10.2,25.2,52.1
+SUNG               D,Bernstein Research,123,54.4,63.0,76.4
+SUPINO             P,Bernstein Research,50,39.3,45.2,68.0
+SUPPIGER           E,Boutique/Other,96,-19.2,46.8,69.8
+SUR                H,JP Morgan,362,9.5,42.9,69.6
+SUSSMAN            J,Boutique/Other,167,50.0,76.6,49.1
+SUTHERLAND         S,Boutique/Other,134,41.9,58.5,47.8
+SUZUKI             E,Merrill Lynch / BofA,278,1.0,29.4,74.8
+SVANBERG           T,Piper Sandler,80,41.0,62.3,45.0
+SVANBERG           T,Stifel Nicolaus,386,3.2,31.1,72.8
+SVEZIA             C,Boutique/Other,143,-18.1,44.7,65.7
+SVEZIA             C,Susquehanna Financial,185,14.8,39.6,62.2
+SWARTZ             M,Boutique/Other,157,18.0,35.6,59.9
+SWARTZBERG         M,Stifel Nicolaus,148,45.1,52.3,68.2
+SWEIG/ZHAO,Boutique/Other,58,133.5,133.5,48.3
+SWETT              S,Boutique/Other,66,107.6,107.6,83.3
+SWETT              S,Keefe Bruyette & Woods,57,100.1,100.8,54.4
+SWINBURNE          B,Morgan Stanley,559,26.2,48.1,68.7
+SYED               S,Boutique/Other,56,23.1,30.7,62.5
+SYED               W,Boutique/Other,339,33.4,69.8,59.0
+SYED               W,Goldman Sachs,341,33.2,60.0,39.9
+SYKES              M,Goldman Sachs,128,8.9,22.1,55.5
+SYNAGOWITZ         B,Boutique/Other,53,32.2,65.9,47.2
+SYTH               S,Raymond James,221,34.1,44.1,48.4
+SYTH/PARKER,Raymond James,50,-12.0,29.6,90.0
+TADROSS            R,Boutique/Other,177,76.3,85.7,60.5
+TAIANO             M,Sandler O'Neill,68,67.7,110.1,79.4
+TALSANIA           P,Boutique/Other,344,-2.1,29.8,70.6
+TAMADA             K,Boutique/Other,400,0.7,25.7,68.0
+TAMBERRINO         D,Goldman Sachs,105,15.5,41.0,45.7
+TAMMINGA           N,Piper Sandler,342,18.6,53.2,60.5
+TANAKA             S,Boutique/Other,167,0.7,32.7,74.3
+"TANAL, CFA         S",Goldman Sachs,197,12.1,32.1,57.4
+TANDON             M,Needham & Company,82,5.2,41.5,61.0
+TANG               N,Boutique/Other,89,40.6,54.1,73.0
+TANNER             W,Boutique/Other,52,26.0,44.3,59.6
+TANNERS            T,Merrill Lynch / BofA,597,19.0,54.6,55.8
+TANNERS            T,Wolfe Research,148,-12.6,34.9,54.7
+TANQUILUT          B,Jefferies,278,12.7,37.2,65.1
+TARGETT            J,Boutique/Other,68,24.6,31.7,69.1
+TARIQ              F,Boutique/Other,225,15.5,40.8,53.8
+TARKAN             M,Boutique/Other,69,50.2,67.2,59.4
+TARLOWE            C,Jefferies,133,-20.9,53.0,70.7
+TASDEMIR           J,Canaccord Genuity,73,57.6,69.7,65.8
+TAYLOR             F,Boutique/Other,55,22.0,45.4,61.8
+TAYLOR             G,Boutique/Other,143,37.6,47.4,55.9
+TAYLOR             G,JP Morgan,118,2.0,32.3,54.2
+TAYLOR             L,Boutique/Other,318,163.5,163.9,69.2
+TAYLOR             M,Boutique/Other,312,11.5,38.0,87.2
+TAYLOR             M,Jefferies,91,15.5,30.8,49.5
+TEITELBAUM         L,Merrill Lynch / BofA,66,107.5,107.5,74.2
+TEIXEIRA           A,JP Morgan,265,21.4,30.4,63.4
+TELSEY             D,Boutique/Other,906,20.5,50.8,61.1
+TENNANT            A,Boutique/Other,767,6.9,50.7,56.1
+TENNANT            A,Wolfe Research,206,9.3,38.5,61.7
+TENNER             G,D.A. Davidson,341,16.8,40.5,64.8
+TENTHOFF           E,Piper Sandler,194,-8.0,52.3,65.5
+TERRELL            A,Boutique/Other,73,28.3,40.5,46.6
+TERRESON           D,Boutique/Other,69,85.2,85.5,73.9
+TERRESON           D,Evercore ISI,83,65.1,69.6,55.4
+TERRESON           D,Morgan Stanley,89,138.1,138.5,78.7
+TERRY              C,Boutique/Other,180,3.3,72.8,65.6
+"TERRY, CFA         H",Boutique/Other,95,50.0,96.6,65.3
+"TERRY, CFA         H",Goldman Sachs,469,-15.0,58.4,68.2
+TEWARI             A,Jefferies,78,7.9,36.2,51.3
+THADHANI           A,Boutique/Other,56,23.7,53.7,80.4
+THAKKAR            A,Boutique/Other,64,59.6,66.7,39.1
+THAKKAR            M,Boutique/Other,61,78.4,78.4,31.1
+THALACKER          J,Boutique/Other,498,19.5,25.7,60.0
+THALHIMER          A,Boutique/Other,156,9.0,32.3,66.7
+THEURER            B,Boutique/Other,106,20.2,38.7,49.1
+THIBAULT           E,Morgan Stanley,58,98.6,98.8,65.5
+THIBAULT           M,Boutique/Other,56,13.2,27.9,58.9
+THIELMAN           B,D.A. Davidson,292,-3.6,30.9,61.6
+THILL              B,Jefferies,547,-5.3,52.1,64.0
+THIND              S,Jefferies,110,22.3,44.5,64.5
+THOMAS             B,Boutique/Other,106,-17.5,54.3,80.2
+THOMAS             T,Boutique/Other,88,74.2,84.2,68.2
+THOMISON           J,Boutique/Other,99,35.5,41.5,75.8
+THOMPSON           J,Boutique/Other,71,134.1,134.1,69.0
+THOMPSON           K,Boutique/Other,136,22.5,35.0,64.0
+THOMPSON           R,Boutique/Other,112,9.4,54.1,40.2
+THORNTON           M,Boutique/Other,137,8.5,47.0,53.3
+TIBERIO            T,Boutique/Other,84,32.1,36.9,72.6
+TILGHMAN           S,Boutique/Other,95,46.0,89.1,56.8
+TILLMAN            T,Boutique/Other,106,-25.3,60.6,67.0
+TILTON             J,Wolfe Research,67,6.3,31.1,62.7
+TINDLE             A,Raymond James,70,9.2,33.7,62.9
+TISHCHENKO         N,Boutique/Other,58,89.3,92.4,51.7
+TISS               J,Boutique/Other,393,36.8,50.5,67.2
+TISS               J,Lehman Brothers,147,75.0,83.1,70.1
+TODD               R,Boutique/Other,228,68.7,70.7,50.4
+TODD               R,Piper Sandler,327,41.3,56.9,60.2
+TODOROV            N,Boutique/Other,56,42.5,51.3,48.2
+TOGUT              D,Evercore ISI,755,9.6,27.1,73.4
+TOGUT              D,Morgan Stanley,51,62.3,62.3,66.7
+TOMASSI            G,Boutique/Other,54,47.9,49.9,50.0
+TONET              J,JP Morgan,463,68.8,74.3,67.2
+TONG               G,Goldman Sachs,303,-7.0,22.4,70.0
+TONG               G,Piper Sandler,58,14.2,39.8,74.1
+TONG               O,Merrill Lynch / BofA,352,25.8,35.2,74.4
+TONG               O,Raymond James,67,40.3,42.4,40.3
+TOOMEY             R,Boutique/Other,83,90.1,93.3,69.9
+TORMA              A,Boutique/Other,72,65.4,78.6,54.2
+TORRES             L,Boutique/Other,81,47.2,59.9,72.8
+TOTI               D,Boutique/Other,313,54.2,54.5,79.9
+TOTI               D,Lehman Brothers,79,173.5,173.5,40.5
+TOWER              J,Boutique/Other,393,7.2,36.7,52.4
+TOWNSEND           G,Boutique/Other,94,115.0,115.0,48.9
+TRACY              E,Boutique/Other,319,16.1,31.0,66.1
+TREBNICK           C,Boutique/Other,248,-1.5,44.5,65.3
+TREIBER            P,RBC Capital Markets,97,9.3,37.2,77.3
+TRIMBLE            C,Boutique/Other,91,49.0,69.0,53.8
+TRONE              D,Boutique/Other,146,58.1,72.9,58.2
+TROTSENKO          J,Stifel Nicolaus,73,55.3,96.8,45.2
+TROTT              D,Jefferies,179,70.7,77.5,57.5
+TROY               M,Susquehanna Financial,70,35.3,35.7,72.9
+TRUSSELL           P,Boutique/Other,710,6.3,37.8,68.0
+TSAI               L,Boutique/Other,121,17.4,56.2,58.7
+TSAI               L,Jefferies,214,12.5,33.3,64.5
+TSAO               D,Boutique/Other,96,3.9,34.7,62.5
+TSE                R,Boutique/Other,80,11.0,58.8,73.8
+TUBIN              H,Boutique/Other,53,33.7,37.3,69.8
+TUBIN              H,RBC Capital Markets,241,10.8,45.9,71.4
+TUCKER             S,Boutique/Other,466,143.3,144.1,70.8
+TUCKER             S,RBC Capital Markets,723,46.0,47.1,75.4
+TULLIS             R,Boutique/Other,524,19.7,70.9,47.1
+TUMAZOS            J,Boutique/Other,124,48.2,73.2,70.2
+TUNICK             B,JP Morgan,194,-3.1,37.6,73.7
+TUNICK             B,RBC Capital Markets,156,9.7,41.0,58.3
+TUNIS              R,Boutique/Other,108,10.1,20.5,75.9
+TURITS             M,Boutique/Other,211,-0.1,50.0,62.1
+TURITS             M,Raymond James,163,-2.8,27.5,72.4
+TURKALY            D,Boutique/Other,74,19.4,26.1,68.9
+TURNBULL           T,Boutique/Other,100,6.7,63.4,43.0
+TURNER             C,Boutique/Other,217,72.1,85.3,66.8
+TURNER             M,Boutique/Other,71,20.4,33.3,83.1
+TURNER             S,Boutique/Other,81,33.8,45.3,76.5
+TURNURE            C,JP Morgan,385,42.5,42.9,74.8
+TURRIN             M,Boutique/Other,204,1.4,49.9,60.8
+TUSA               C,JP Morgan,687,36.1,54.8,70.3
+TWIGG              W,Boutique/Other,167,17.4,45.2,73.7
+TYERMAN            D,Boutique/Other,91,103.6,104.5,52.7
+UERKWITZ           A,Jefferies,52,-7.2,39.0,65.4
+UHLMER             B,Boutique/Other,174,33.1,51.9,71.3
+UNGER              S,Boutique/Other,83,10.9,48.2,61.4
+UNGER              S,Lazard Capital Markets,73,33.3,38.2,54.8
+URANI              D,Boutique/Other,145,19.0,43.2,74.5
+URBAN              M,Boutique/Other,356,52.3,64.3,53.7
+URNESS             M,Boutique/Other,288,61.6,66.8,62.2
+USDIN              K,Boutique/Other,103,92.6,92.6,43.7
+USDIN              K,Jefferies,1095,31.3,43.1,60.5
+USDIN              K,Merrill Lynch / BofA,102,50.8,63.3,68.6
+VACCARO            B,Raymond James,162,8.8,54.8,61.1
+VAFI               J,Boutique/Other,64,-19.8,35.6,70.3
+VAFI               J,Jefferies,59,17.7,43.4,79.7
+VAISHNAV           V,Boutique/Other,132,22.4,79.2,47.7
+VALENTIN           S,Boutique/Other,257,27.5,47.2,75.1
+VALENTINE          J,Morgan Stanley,69,70.6,71.0,75.4
+VALENTINI          V,Boutique/Other,96,39.6,44.9,67.7
+VALERA             R,Needham & Company,137,0.9,43.3,65.7
+VALIQUETTE         S,Boutique/Other,317,-0.6,33.5,65.9
+VALLIPURAM         N,Boutique/Other,71,77.1,81.6,42.3
+VAN DIJKUM         F,Boutique/Other,137,17.8,40.1,65.7
+VAN HEES           B,Boutique/Other,205,1.1,48.9,66.3
+VAN RHEE           J,Boutique/Other,66,1.3,36.2,59.1
+VAN WINKLE         S,Canaccord Genuity,73,7.2,29.3,63.0
+VANDER PLOEG       B,Raymond James,57,78.0,84.0,57.9
+VANDERVLIET        B,Lehman Brothers,52,86.8,86.8,73.1
+VARANO             Y,Jefferies,99,21.3,49.1,62.6
+VASILESCU          L,Boutique/Other,132,24.9,45.0,56.1
+VASILESCU          L,Macquarie Securities,170,8.6,47.1,48.2
+VASNETSOV          S,Boutique/Other,82,50.6,76.2,91.5
+VASNETSOV          S,Lehman Brothers,123,103.4,105.7,55.3
+VAYDA              R,Stifel Nicolaus,67,62.1,75.2,67.2
+VECCHIO            A,Morgan Stanley,74,9.0,25.7,86.5
+VELIE              B,Boutique/Other,468,40.7,80.3,57.9
+VENCIL             T,Boutique/Other,86,34.2,38.3,66.3
+VENDETTI           A,Boutique/Other,73,49.6,54.6,61.6
+VENKATESHWAR       K,Boutique/Other,215,10.1,34.3,58.1
+VENKER             A,Morgan Stanley,215,70.4,80.7,32.1
+VERNON             D,Bernstein Research,637,25.0,34.6,64.7
+VINCIQUERRA        M,Boutique/Other,72,79.5,80.0,45.8
+VINH               J,Boutique/Other,362,8.5,39.3,67.7
+VISHWANATH         H,Boutique/Other,65,4.7,29.7,72.3
+VISWANATHAN        A,RBC Capital Markets,905,33.0,50.0,55.9
+VLEESCHHOUWER      J,Boutique/Other,147,-4.7,23.9,84.4
+VOIE               C,Boutique/Other,75,-39.0,79.2,60.0
+VOIGT              K,Keefe Bruyette & Woods,454,0.6,24.5,73.3
+VOLKERT            M,Boutique/Other,176,-16.6,81.7,48.3
+VOLKMANN           S,Jefferies,653,32.8,49.5,64.9
+VOLKMANN           S,Morgan Stanley,81,63.1,70.4,90.1
+VON RIESEMANN      J,Boutique/Other,78,32.4,36.5,88.5
+WADEWITZ           T,JP Morgan,273,34.0,39.9,88.6
+WADHWANI           S,Stifel Nicolaus,67,38.1,48.5,62.7
+WAI                J,Boutique/Other,220,3.3,66.1,58.6
+WALD               J,Boutique/Other,114,70.6,89.1,70.2
+WALDO              A,Lehman Brothers,87,99.8,102.9,62.1
+WALDO              J,Boutique/Other,71,22.8,41.1,81.7
+WALKER             M,Boutique/Other,119,9.8,49.9,58.0
+WALKER             S,RBC Capital Markets,266,42.3,54.3,54.1
+WALKLEY            T,Canaccord Genuity,394,22.0,46.1,68.8
+WALKLEY            T,Piper Sandler,92,104.1,104.1,52.2
+WALLIN             N,Boutique/Other,106,32.7,39.8,84.9
+WALMSLEY           L,Boutique/Other,312,-0.9,52.2,58.3
+WALRAVENS          P,Boutique/Other,186,-5.3,41.3,66.1
+WALSH              J,Boutique/Other,342,24.1,52.6,64.3
+WALTON             M,Boutique/Other,280,36.5,46.7,88.2
+WALVIS             A,Goldman Sachs,208,-4.9,52.1,57.7
+WANG               C,Boutique/Other,58,-11.5,49.5,55.2
+WANG               G,Boutique/Other,94,13.8,39.0,53.2
+WANG               P,Boutique/Other,64,37.0,72.0,45.3
+WANG               S,Boutique/Other,89,50.7,69.2,68.5
+WANGLER            J,Boutique/Other,142,42.5,66.2,46.5
+WARD               M,Boutique/Other,285,36.6,67.0,65.6
+WARD               P,Boutique/Other,73,47.3,61.4,58.9
+WARD               P,Lehman Brothers,131,48.5,65.3,71.0
+WARMINGTON         W,Boutique/Other,83,-5.9,24.7,80.7
+WASSERSTROM        E,Boutique/Other,190,31.2,41.1,80.0
+WATTS              C,Boutique/Other,99,118.3,121.9,84.8
+WEAVER             N,Boutique/Other,50,34.1,46.1,54.0
+WEBER              M,Boutique/Other,67,-5.6,47.5,55.2
+WEBER              S,Boutique/Other,183,47.8,70.4,61.2
+WEBER              S,RBC Capital Markets,440,31.2,57.4,67.7
+WEBSTER            S,Macquarie Securities,174,23.8,42.8,72.4
+WEI                T,Jefferies,71,-13.6,43.3,87.3
+WEI                T,Piper Sandler,84,47.4,58.4,58.3
+WEILAND            C,Boutique/Other,115,57.8,67.9,49.6
+WEINER             D,Boutique/Other,140,15.2,33.9,62.1
+WEINSTEIN          M,Boutique/Other,336,26.7,30.8,75.3
+WEINSTEIN          M,JP Morgan,321,40.3,63.1,74.5
+WEINSTEIN          S,Boutique/Other,68,35.4,92.2,64.7
+WEINTRAUB          M,Boutique/Other,308,54.0,63.8,66.9
+WEISEL             A,Boutique/Other,265,24.7,29.5,66.4
+WEISEL             A,Macquarie Securities,101,52.8,57.4,75.2
+WEISER             L,Boutique/Other,353,47.3,53.5,75.4
+WEISER             L,D.A. Davidson,137,27.4,47.9,40.1
+WEISS              K,Morgan Stanley,459,-6.8,29.6,68.4
+WEISS              S,Merrill Lynch / BofA,230,46.5,47.8,75.2
+WEISSMAN           I,Boutique/Other,354,50.6,57.1,66.7
+WELCH              P,Boutique/Other,73,44.3,53.5,63.0
+WELLER             E,Boutique/Other,136,69.9,83.4,61.0
+WELLER             T,Stifel Nicolaus,81,37.3,53.0,72.8
+WERMANN            I,Boutique/Other,471,-8.8,38.4,67.7
+WERNER             U,Bernstein Research,50,110.7,110.7,32.0
+WERTHEIMER         R,Boutique/Other,80,-8.3,42.8,77.5
+WERTHEIMER         R,Morgan Stanley,95,58.2,70.5,64.2
+WEST               B,Piper Sandler,74,-0.3,29.3,86.5
+WEST               C,Boutique/Other,58,74.0,76.3,37.9
+WEST               D,Boutique/Other,54,92.6,95.1,50.0
+WEST               J,Boutique/Other,650,38.5,54.9,67.7
+WEST               J,Evercore ISI,544,35.5,70.2,42.5
+WESTIN             I,Boutique/Other,55,90.1,101.0,45.5
+WESTLAKE           E,Boutique/Other,379,67.2,71.2,66.0
+WESTON             J,Raymond James,52,-5.1,48.3,80.8
+WESTRA             P,Stifel Nicolaus,57,34.8,44.7,75.4
+WETENHALL          R,RBC Capital Markets,417,8.7,29.4,75.8
+WEWER              D,Boutique/Other,61,76.1,76.7,50.8
+WEWER              D,Raymond James,236,10.0,27.2,78.0
+WEYENETH           J,Boutique/Other,180,75.7,77.2,72.8
+WEYENETH           J,Piper Sandler,64,78.5,80.4,59.4
+WHANG              D,Lehman Brothers,78,52.6,66.4,69.2
+WHEELER            C,Boutique/Other,58,30.4,37.9,65.5
+WHEELER            E,Boutique/Other,188,87.3,89.7,69.1
+WHITE              B,Boutique/Other,421,22.9,52.2,62.2
+WHITE              C,Boutique/Other,61,36.0,59.5,78.7
+WHITE              E,Lehman Brothers,71,91.6,99.2,43.7
+WHITE              J,Boutique/Other,89,45.3,59.1,65.2
+WHITE              K,Boutique/Other,89,0.0,21.3,62.9
+WHITE              T,D.A. Davidson,132,3.3,55.8,54.5
+WHITE              T,Macquarie Securities,72,0.2,41.0,62.5
+WHITFIELD          D,Stifel Nicolaus,241,67.3,84.7,59.3
+WHITFIELD          M,Boutique/Other,191,41.3,57.3,63.4
+WHITMORE           C,Boutique/Other,151,72.7,90.4,60.9
+WHITNEY            M,Boutique/Other,59,69.6,79.2,55.9
+WHITTINGTON        R,Boutique/Other,134,26.3,48.8,76.1
+WHYTE              G,Morgan Stanley,84,136.9,136.9,94.0
+WIBLE              T,Boutique/Other,154,19.1,39.4,81.2
+WICKLUND           J,Boutique/Other,406,37.2,50.8,54.9
+WIECZYNSKI         S,Stifel Nicolaus,487,39.5,62.4,55.4
+WIEDERHORN         M,Boutique/Other,270,18.6,36.2,64.4
+WIELAND            S,Piper Sandler,71,19.2,71.0,63.4
+WIESER             B,Boutique/Other,168,-6.5,28.3,72.6
+WIGGINTON          D,Macquarie Securities,51,80.4,118.8,100.0
+WILDE              M,Boutique/Other,327,48.8,56.9,67.9
+WILKES             L,Bernstein Research,164,12.6,25.6,67.1
+WILLEMSE           M,Boutique/Other,81,79.6,80.6,59.3
+WILLI              T,Boutique/Other,130,12.5,51.2,64.6
+WILLIAMS           C,Boutique/Other,71,101.8,109.3,64.8
+WILLIAMS           D,Boutique/Other,84,-2.3,40.0,67.9
+WILLIAMS           E,Boutique/Other,140,15.7,64.4,60.0
+WILLIAMS           J,Boutique/Other,85,-12.7,31.8,72.9
+WILLIAMS           R,Boutique/Other,54,6.9,30.3,64.8
+WILLIAMS           T,Jefferies,145,13.6,26.2,48.3
+WILLOUGHBY         R,Boutique/Other,170,35.1,51.9,69.4
+WILLOUGHBY         R,Merrill Lynch / BofA,213,20.5,31.6,71.4
+WILSON             C,Boutique/Other,82,14.7,34.0,73.2
+WILSON             D,Boutique/Other,95,64.1,83.8,32.6
+WILSON             E,Bernstein Research,82,6.4,30.5,61.0
+WILSON             E,Boutique/Other,238,3.9,30.0,68.1
+WILSON             E,Morgan Stanley,58,24.4,32.4,56.9
+WILSON             J,Boutique/Other,156,51.5,60.6,60.3
+WILSON             V,Boutique/Other,98,98.3,98.3,78.6
+WILTAMUTH          M,Jefferies,50,30.5,33.3,64.0
+WILTAMUTH          M,Morgan Stanley,120,98.3,101.1,85.0
+WINDER             L,Merrill Lynch / BofA,194,4.0,37.8,57.2
+WINDLEY            D,Jefferies,692,0.7,26.3,69.9
+WINOKER            S,Bernstein Research,411,76.0,79.1,77.9
+WINSLOW            P,Boutique/Other,466,-5.9,36.7,57.1
+WINTER             P,Boutique/Other,1010,40.7,50.6,57.2
+WINTER             P,D.A. Davidson,98,6.1,19.6,79.6
+WINTERMANTEL       O,Evercore ISI,194,-4.2,39.1,64.9
+WISE               R,Boutique/Other,183,114.9,142.9,65.0
+WISE               R,Stifel Nicolaus,315,10.1,27.4,74.0
+WISSINK            S,Jefferies,241,-82.3,129.8,55.6
+WISSINK            S,Piper Sandler,151,13.6,38.0,59.6
+WIUM               R,Boutique/Other,67,57.4,59.3,77.6
+WLODARCZAK         J,Boutique/Other,291,68.2,81.1,67.0
+WOLD               E,Boutique/Other,185,19.1,46.2,52.4
+WOLF               A,Boutique/Other,239,28.3,42.3,62.3
+WOLF               J,Boutique/Other,57,22.7,41.1,49.1
+WOLFE              E,Boutique/Other,179,46.4,53.7,72.1
+WOLFE              E,Wolfe Research,65,16.6,23.2,92.3
+WOLFF              J,Boutique/Other,326,48.7,57.9,61.0
+WOLFF              J,Jefferies,118,38.3,55.6,48.3
+WOLFSON            J,Boutique/Other,145,6.2,45.7,53.1
+WOLFSON            J,RBC Capital Markets,108,9.0,36.4,52.8
+WOLK               H,Bernstein Research,75,14.7,32.3,80.0
+WOLK               M,Susquehanna Financial,63,59.7,79.9,76.2
+WONG               A,RBC Capital Markets,123,21.0,48.2,48.8
+WONG               B,Morgan Stanley,112,25.6,68.6,58.9
+WONG               B,Piper Sandler,120,13.2,35.8,59.2
+WONG               D,Boutique/Other,107,24.4,72.1,60.7
+WONG               T,Boutique/Other,59,9.3,66.8,64.4
+"WONG, CFA          K",Boutique/Other,94,-20.3,49.0,72.3
+WOO                E,Boutique/Other,237,-37.9,93.7,57.8
+WOO                S,Merrill Lynch / BofA,61,2.8,62.3,47.5
+WOOD               H,Morgan Stanley,112,68.8,72.4,75.0
+WOOD               J,Jefferies,85,43.1,55.6,76.5
+WOOD               J,Susquehanna Financial,95,12.6,25.6,58.9
+WOOD               M,Boutique/Other,76,0.8,43.4,68.4
+WOOD               M,Macquarie Securities,164,16.5,26.3,83.5
+WOODRING           E,Morgan Stanley,85,-11.8,35.3,71.8
+WOODWORTH          C,Boutique/Other,152,-16.8,70.8,56.6
+WOODWORTH          C,Nomura Securities,52,91.2,92.5,36.5
+WORMS              M,Boutique/Other,598,85.4,86.0,75.8
+WORONKA            C,Boutique/Other,372,32.4,54.8,53.8
+WORST              R,Boutique/Other,58,301.1,301.1,74.1
+WORTHINGTON        K,JP Morgan,835,42.4,54.3,71.9
+WORTMAN            G,Boutique/Other,50,-0.3,32.7,64.0
+WOWKODAW           O,Boutique/Other,72,-3.0,59.6,59.7
+WREDE              T,Jefferies,69,52.6,54.8,91.3
+WRIGHT             B,Boutique/Other,141,24.1,41.9,60.3
+WRIGHT             D,Merrill Lynch / BofA,74,191.6,191.6,33.8
+WRIGHT             J,Nomura Securities,51,45.4,50.0,70.6
+WU                 D,Boutique/Other,239,53.0,73.3,52.7
+WU                 J,Boutique/Other,67,63.6,76.7,68.7
+WU                 S,Boutique/Other,144,95.1,113.6,59.7
+WUENSCH            J,Boutique/Other,478,8.1,36.7,72.2
+WURSCHMIDT         A,Boutique/Other,75,31.3,37.1,48.0
+WYATT              B,Boutique/Other,117,65.3,72.6,55.6
+WYCKOFF            B,Boutique/Other,242,39.4,57.4,56.2
+WYNNE              H,Bernstein Research,254,110.4,110.6,76.4
+YABLON             G,Boutique/Other,114,57.3,71.1,75.4
+YAGERMAN           J,Boutique/Other,306,52.2,56.2,82.4
+YAGHI              M,Boutique/Other,55,21.2,26.9,70.9
+YAMADA             Y,Boutique/Other,60,0.3,27.3,85.0
+YANG               E,Boutique/Other,58,77.7,79.1,72.4
+YANG               E,Jefferies,166,10.1,41.9,72.3
+YANG               L,Boutique/Other,75,98.0,111.2,62.7
+YANO               T,Boutique/Other,76,5.8,22.0,84.2
+YARMAK             S,Stifel Nicolaus,351,24.4,42.2,57.0
+YATES              J,Boutique/Other,150,16.0,33.7,59.3
+YEE                M,Jefferies,91,23.6,30.1,54.9
+YEE                M,RBC Capital Markets,130,9.4,38.6,69.2
+YEFREMOV           A,Boutique/Other,251,34.9,50.6,49.4
+YEFREMOV           A,Nomura Securities,166,38.3,47.1,62.0
+YINGER             K,D.A. Davidson,85,-19.9,43.8,63.5
+YONG               A,Macquarie Securities,258,39.0,55.9,70.2
+YOUNG              A,Boutique/Other,190,27.7,42.0,60.0
+YOUNG              M,Boutique/Other,145,11.6,59.3,64.8
+YOUNG              R,Canaccord Genuity,60,-10.5,37.3,65.0
+YOUNG              T,Boutique/Other,70,-6.1,41.7,52.9
+YOUNG              W,Boutique/Other,72,111.0,111.4,70.8
+YRUMA              E,Boutique/Other,196,25.1,56.4,60.7
+YU                 L,Merrill Lynch / BofA,52,1.6,64.4,67.3
+YULICO             N,Boutique/Other,541,23.9,39.0,55.1
+ZABORA             B,Boutique/Other,55,14.6,40.0,56.4
+ZAGREAN            C,Macquarie Securities,64,30.4,39.4,40.6
+ZAKARIA            T,JP Morgan,52,-0.6,22.6,80.8
+ZAREMSKI           M,Boutique/Other,289,-0.7,22.8,83.7
+ZAREMSKI           M,Wolfe Research,85,4.4,27.3,61.2
+ZASLOW             K,Boutique/Other,298,46.4,48.9,64.4
+ZECHMANN           G,Bernstein Research,54,43.4,47.0,50.0
+ZEKAUSKAS          J,JP Morgan,786,35.9,52.3,71.9
+ZELMAN             I,Boutique/Other,214,37.9,52.3,62.6
+ZELNICK            B,Boutique/Other,324,-23.3,39.7,67.6
+ZELNICK            B,Macquarie Securities,86,4.4,23.9,88.4
+ZENER              K,Boutique/Other,157,10.8,35.4,68.2
+ZEPHIRIN           L,Boutique/Other,288,-9.6,65.9,53.8
+ZERBE              K,Morgan Stanley,1015,35.6,45.6,61.8
+ZGUTOWICZ          M,Boutique/Other,103,-52.7,93.7,46.6
+ZHANG              J,Boutique/Other,89,15.1,45.6,57.3
+ZHANG              L,Boutique/Other,102,22.6,48.1,62.7
+ZHAO               C,Susquehanna Financial,51,-13.2,62.9,54.9
+ZIEGEL             F,Boutique/Other,60,3.0,29.5,78.3
+ZIMBARDO           P,Merrill Lynch / BofA,68,19.2,28.1,38.2
+ZIMMERMAN          R,Boutique/Other,102,8.4,26.6,65.7
+ZLOTSKY            S,Morgan Stanley,86,-37.4,53.1,74.4
+ZOLIDIS            J,Boutique/Other,246,16.8,33.8,70.7
+ZUANIC             P,Susquehanna Financial,340,32.6,44.0,52.6
+ZUCKER             J,Boutique/Other,111,81.8,82.0,82.0
+ZUKIN              A,Piper Sandler,95,-17.7,26.7,89.5
+ZUKIN              A,RBC Capital Markets,78,-45.8,49.3,94.9
+ZUKIN              A,Wolfe Research,158,18.0,38.7,55.1
