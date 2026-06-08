@@ -66,7 +66,7 @@ This study was designed to answer:
 
 ### Sources
 
-* WRDS IBES Price Target Detail (PTGDET)
+* IBES/Refinitiv analyst forecast database
 * Yahoo Finance Historical Prices
 * Custom Forecast Evaluation Engine
 
